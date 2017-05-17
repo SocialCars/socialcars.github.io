@@ -20,5 +20,6 @@
 !*.zip
 !*.xml
 !*.txt
+!*.ico
 !*.graffle
 public/**
