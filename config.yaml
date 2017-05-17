@@ -1,0 +1,32 @@
+---
+baseURL: "https://socialcars.github.io"
+title: "SocialCars"
+footnoteReturnLinkContents: "↩"
+languageCode: "en-us"
+paginate: 10
+theme: "mainroad"
+permalinks:
+  post: /:year/:month/:title/
+params:
+  contact : "info@socialcars.org"
+  license : "https://creativecommons.org/licenses/by-sa/4.0/"
+  domain:
+    protocol : "https://"
+    name : "socialcars.github.io"
+  subtitle: "DFG Research Training Group 1931 SocialCars"
+  description: "Cooperative (de-)centralized traffic management"
+  opengraph: true
+  leftsidebar: false # Move sidebar to the left side if true
+  authorbox: false
+  post_navigation: false
+
+params.widgets:
+    search: true # Enable "Search" widget
+    recent_articles: true # Enable "Recent articles" widget
+    recent_articles_num: 10 # Set the number of articles in the "Recent articles" widget
+    categories: true # Enable "Categories" widget
+    tags: true # Enable "Tags" widget
+    tags_counter: true # Enable counter for each tag in "Tags" widget (disabled by default)
+    social: true # Enable "Social" widget
+    social_github: "https://github.com/socialcars"
+    social_email: "info@socialcars.org"
