@@ -380,14 +380,6 @@ select {
 	background: #fff;
 }
 
-.logo {
-	overflow: hidden;
-	background-image: url("/images/Logo-960x200-72dpi-eng.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	height: 200px;
-}
-
 .logo__link {
 	margin: 5px 0;
 	text-transform: uppercase;
