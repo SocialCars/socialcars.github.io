@@ -40,6 +40,7 @@ test:
         - git submodule init
         - git submodule update
         - /tmp/pandoc-citeproc/pandoc-citeproc --bib2json static/references.bib > data/references.json
+        - rm data/images.graffle || true
         - hugo --ignoreCache --cleanDestinationDir
         - find public -type f -name "*.css" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
         - find public -type f -name "*.js" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
