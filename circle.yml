@@ -33,7 +33,7 @@ dependencies:
         # see release version https://www.npmjs.com/package/html-minifier-cli
         - npm install html-minifier -g
         # install pandoc-citeproc from external share if not in /tmp, due to outdated containers *sigh*
-        - if [ ! -d /tmp/pandoc-citeproc/ ]; then curl -L https://tesseract.in.tu-clausthal.de:8443/index.php/s/3ZKzReAc69yBNou/download | tar xJp --strip 1 -C /tmp; fi
+        - if [ ! -d /tmp/pandoc-citeproc/ ]; then curl -L https://tesseract.in.tu-clausthal.de:8443/index.php/s/YIqE0QBgqu8YZuK/download | tar xJp --strip 1 -C /tmp; fi
         
 test:
     override:
