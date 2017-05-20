@@ -19,8 +19,7 @@ params:
   leftsidebar: false # Move sidebar to the left side if true
   authorbox: false
   post_navigation: false
-
-params.widgets:
+  widgets:
     search: true # Enable "Search" widget
     recent_articles: true # Enable "Recent articles" widget
     recent_articles_num: 10 # Set the number of articles in the "Recent articles" widget
@@ -28,5 +27,5 @@ params.widgets:
     tags: true # Enable "Tags" widget
     tags_counter: true # Enable counter for each tag in "Tags" widget (disabled by default)
     social: true # Enable "Social" widget
-    social_github: "https://github.com/socialcars"
+    social_github: "socialcars"
     social_email: "info@socialcars.org"
