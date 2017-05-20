@@ -10,4 +10,4 @@ weight: 80
 
 # Publications
 
-([BibTeX format](/references.bib))
+([Publication list as BibTeX](/references.bib))

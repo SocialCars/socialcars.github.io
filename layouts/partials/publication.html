@@ -2,14 +2,13 @@
         {{ $baseurl := .Site.BaseURL }}
         <ul>
         {{ range $publication := .Site.Data.references }}
-
             <li>
                 <a name="{{- $publication.id | plainify | urlize -}}"></a>
 
-                {{ delimit (apply (apply $publication.author "partial" "author" ".") "chomp" ".") ", " }},
+                {{ delimit (apply (apply $publication.author "partial" "author" ".") "chomp" ".") "; " }}
 
                 {{- if (isset $publication "issued") | and (not (eq $publication.issued "")) }}
-                    {{ index $publication.issued "date-parts" 0 0 }}.
+                    ({{ index $publication.issued "date-parts" 0 0 }}).
                 {{- else -}}
                     .
                 {{ end -}}

@@ -5,8 +5,8 @@ footnoteReturnLinkContents: "↩"
 languageCode: "en-us"
 paginate: 10
 theme: "mainroad"
-permalinks:
-  post: /:year/:month/:title/
+# permalinks:
+#   post: /:year/:month/:title/
 params:
   contact : "info@socialcars.org"
   license : "https://creativecommons.org/licenses/by-sa/4.0/"

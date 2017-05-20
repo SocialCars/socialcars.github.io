@@ -1,5 +1,49 @@
 [
   {
+    "DOI": "10.1504/IJAOSE.2016.10001873",
+    "author": [
+      {
+        "family": "Ahlbrecht",
+        "given": "Tobias"
+      },
+      {
+        "family": "Dix",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Fiekas",
+        "given": "Niklas"
+      },
+      {
+        "family": "Köster",
+        "given": "Michael"
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "[International Journal of Agent-Oriented Software Engineering (IJAOSE)]{.nocase}",
+    "id": "Ahlbrecht+2016ijaose",
+    "issue": "2/3",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "232-265",
+    "title": "An architecture for scalable simulation of systems of cognitive agents",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "URL": "https://www.in.tu-clausthal.de/fileadmin/homes/techreports/ifi1604aschermann.pdf",
     "author": [
       {
         "family": "Aschermann",
@@ -30,6 +74,7 @@
     "type": "report"
   },
   {
+    "URL": "http://winf.in.tu-clausthal.de/winf/publications/2016/Kraus%2B2016eumas-preprint.pdf",
     "author": [
       {
         "family": "Aschermann",
@@ -60,6 +105,7 @@
     "type": "paper-conference"
   },
   {
+    "URL": "http://ceur-ws.org/Vol-1678/paper15.pdf",
     "author": [
       {
         "family": "Dennisen",
@@ -103,48 +149,5 @@
     "publisher-place": "New York, USA",
     "title": "Iterative committee elections for collective decision-making in a ride-sharing application",
     "type": "paper-conference"
-  },
-  {
-    "DOI": "10.1504/IJAOSE.2016.10001873",
-    "author": [
-      {
-        "family": "Ahlbrecht",
-        "given": "T."
-      },
-      {
-        "family": "Dix",
-        "given": "J."
-      },
-      {
-        "family": "Fiekas",
-        "given": "N."
-      },
-      {
-        "family": "Köster",
-        "given": "M."
-      },
-      {
-        "family": "Kraus",
-        "given": "P."
-      },
-      {
-        "family": "Müller",
-        "given": "J. P."
-      }
-    ],
-    "container-title": "[International Journal of Agent-Oriented Software Engineering (IJAOSE)]{.nocase}",
-    "id": "Ahlbrecht+2016ijaose",
-    "issue": "2/3",
-    "issued": {
-      "date-parts": [
-        [
-          2016
-        ]
-      ]
-    },
-    "page": "232-265",
-    "title": "An architecture for scalable simulation of systems of cognitive agents",
-    "type": "article-journal",
-    "volume": "5"
   }
 ]
