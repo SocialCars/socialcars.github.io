@@ -4,7 +4,8 @@ date: 2017-05-16
 menu:
   main:
     name: Qualification
-weight: 70
+    weight: 40
+weight: 40
 ---
 
 # Qualification

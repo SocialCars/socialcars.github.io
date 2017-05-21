@@ -18,7 +18,7 @@ params:
   opengraph: true
   leftsidebar: false # Move sidebar to the left side if true
   authorbox: false
-  post_navigation: false
+  post_navigation: true
   widgets:
     search: true # Enable "Search" widget
     recent_articles: true # Enable "Recent articles" widget

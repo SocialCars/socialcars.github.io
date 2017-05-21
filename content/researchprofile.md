@@ -4,7 +4,10 @@ date: 2017-05-16
 menu:
   main:
     name: Research Profile
-weight: 30
+    weight: 80
+weight: 80
+next: /projects
+prev: /home
 ---
 
 # Research Profile

@@ -1,8 +1,9 @@
 ---
 title: Home
 date: 2017-05-16
+linktitle: Home
 menu: main
-weight: 10
+weight: 100
 type: homepage
 ---
 

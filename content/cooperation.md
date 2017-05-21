@@ -4,7 +4,8 @@ date: 2017-05-16
 menu:
   main:
     name: Cooperation
-weight: 50
+    weight: 60
+weight: 60
 ---
 
 # Cooperation and Networking
