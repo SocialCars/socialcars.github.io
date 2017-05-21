@@ -36,13 +36,11 @@
                 {{ end -}}
 
                 {{- if (isset $publication "publisher") | and (not (eq $publication.publisher "")) }}
-                    {{ $publication.publisher -}}
+                    {{ $publication.publisher -}}.
                 {{ end -}}
                 
                 {{- if (isset $publication "publisher-place") }}
                     ({{- index $publication "publisher-place" -}}).
-                {{- else -}}
-                    .
                 {{- end -}}
 
                 {{- if (isset $publication "note") }}
