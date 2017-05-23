@@ -26,9 +26,13 @@ weight: 70
   * [![CircleCI](https://circleci.com/gh/SocialCars/B21-CoLMTO/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/B21-CoLMTO/tree/master)
 [![codecov.io](https://codecov.io/github/SocialCars/B21-CoLMTO/coverage.svg?branch=master)](https://codecov.io/github/SocialCars/B21-CoLMTO)
   * Source Code Documentation ([HTML](http://socialcars.github.io/B21-CoLMTO/docs/sources/index.html), [PDF](http://socialcars.github.io/B21-CoLMTO/docs/CoLMTO-doc.pdf))
-  * [Release for EWGT 2017](https://github.com/SocialCars/B21-CoLMTO/releases/tag/v0.1.1) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495428.svg)](https://doi.org/10.5281/zenodo.495428)
+  * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495428.svg)](https://doi.org/10.5281/zenodo.495428) ([Release](https://github.com/SocialCars/B21-CoLMTO/releases/tag/v0.1.1) for EWGT 2017 paper)
 
 
 #### [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
+
+* [LightVoting](https://github.com/SocialCars/B22-LightVoting)
+  * [![CircleCI](https://circleci.com/gh/SocialCars/B22-LightVoting/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/B22-LightVoting/tree/master)
+  * Source Code Documentation ([HTML](http://socialcars.github.io/B22-LightVoting/sources/index.html))
 
 {{% img src="https://socialcars.org/files/socialcars/images/B21und22_web-neu.jpg" width="250px" %}}
