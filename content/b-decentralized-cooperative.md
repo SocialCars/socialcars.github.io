@@ -28,7 +28,7 @@ weight: 70
   * Source Code Documentation ([HTML](http://socialcars.github.io/B21-CoLMTO/docs/sources/index.html), [PDF](http://socialcars.github.io/B21-CoLMTO/docs/CoLMTO-doc.pdf))
   * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495428.svg)](https://doi.org/10.5281/zenodo.495428) ([Release](https://github.com/SocialCars/B21-CoLMTO/releases/tag/v0.1.1) for EWGT 2017 paper)
 * Student Research Projects
-  * [Platooning of autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
+  * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
 
 #### [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
 
