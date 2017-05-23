@@ -8,9 +8,9 @@ menu:
 weight: 50
 ---
 
-# Interdisciplinary Research
+## Interdisciplinary Research
 
-## Cooperative Parking Search (COPS)
+### Cooperative Parking Search (COPS)
 
 In crowded inner-city regions it is often difficult to find a free parking space. Vehicles spend significant time searching for an available parking space near their intended destination and, as a result, city traffic grows. Studies conclude that, on average, around 30 percent of traffic in the investigated areas is parking search traffic. While often the city center is in the focus of these studies, many residential areas in cities also have a shortage of on-street parking spaces, forcing residents to circle around the blocks during evening hours until they find parking spaces within acceptable distance. Today, most drivers search for a parking search on their own, which can lead to inefficient search if drivers go through streets where another driver has already searched shortly before.
 

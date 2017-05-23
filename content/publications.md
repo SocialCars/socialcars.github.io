@@ -9,6 +9,6 @@ menu:
 weight: 10
 ---
 
-# Publications
+## Publications
 
 ([Publication list as BibTeX](/references.bib))
