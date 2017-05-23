@@ -16,7 +16,7 @@ weight: 80
 
 * Speed choice on urban roads - situational and personality factors
 
-{{% img src="https://socialcars.org/files/socialcars/images/A11_12_web.jpg" width="500px" %}}
+{{% img src="https://socialcars.org/files/socialcars/images/A11_12_web.jpg" width="250px" %}}
 
 ## A2. Efficient operations in intermodal transportation systems (Prof. Mattfeld)
 
