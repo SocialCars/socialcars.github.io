@@ -1,5 +1,5 @@
 <!-- image -->
-<figure {{ with .Get "class" }}class="{{.}}"{{ end }} style="text-align:{{ .Get "align" | default "center" }};width: {{ .Get "width" | default "100%" }};">
+<figure {{ with .Get "class" }}class="{{.}}"{{ end }} style="text-align:{{ .Get "align" | default "center" }}; width: {{ .Get "width" | default "100%" }}; margin-bottom: 2em">
     {{ with .Get "link"}}<a href="{{.}}">{{ end }}
         <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
     {{ if .Get "link"}}</a>{{ end }}

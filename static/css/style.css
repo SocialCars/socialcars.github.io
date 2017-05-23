@@ -20,7 +20,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 figure {
 	font-style: italic;
-	margin-bottom: 2em;
 }
 
 ol, ul {
@@ -778,7 +777,6 @@ img {
 	width: auto\9; /* ie8 */
 	height: auto;
 	vertical-align: bottom;
-	margin-bottom: 2em;
 }
 
 iframe, embed, object, video {
