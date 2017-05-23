@@ -9,4 +9,4 @@ type: homepage
 
 # SocialCars source code repositories and documentation
 
-The repositories containing the source code and current developing of the *SocialCars Research Training Group 1931* can be found here.
+The repositories containing the source code and current state of development of the *SocialCars Research Training Group 1931* can be found here.
