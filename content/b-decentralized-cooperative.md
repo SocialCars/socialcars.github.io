@@ -29,6 +29,7 @@ weight: 70
   * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495428.svg)](https://doi.org/10.5281/zenodo.495428) ([Release](https://github.com/SocialCars/B21-CoLMTO/releases/tag/v0.1.1) for EWGT 2017 paper)
 * Student Research Projects
   * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
+  * [Vehicle following models with social force](https://github.com/TranKhacDat/SocialForceVehicles)
 
 #### [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
 
