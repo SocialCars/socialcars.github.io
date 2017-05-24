@@ -26,7 +26,7 @@ weight: 70
   * [![CircleCI](https://circleci.com/gh/SocialCars/colmto/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/colmto/tree/master)
 [![codecov.io](https://codecov.io/github/SocialCars/colmto/coverage.svg?branch=master)](https://codecov.io/github/SocialCars/colmto)
   * Source Code Documentation ([HTML](http://socialcars.github.io/colmto/docs/sources/index.html), [PDF](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf))
-  * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495428.svg)](https://doi.org/10.5281/zenodo.495428) ([Release](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) for EWGT 2017 paper)
+  * [Release](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) for EWGT 2017 paper ([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495428.svg)](https://doi.org/10.5281/zenodo.495428))
 * Student Research Projects
   * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
   * [Vehicle following models with social force](https://github.com/TranKhacDat/SocialForceVehicles)
