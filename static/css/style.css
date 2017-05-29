@@ -4,7 +4,7 @@ blockquote, pre, a, abbr, acronym, address, big, cite, del, dfn, img,
 ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
 dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure,
-figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+figcaption, header, hgroup, menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
 	padding: 0;
@@ -14,7 +14,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article, aside, details, figcaption, figure, header, hgroup, menu, nav, section {
 	display: block;
 }
 
@@ -757,17 +757,34 @@ select {
 /*** Footer ***/
 .footer {
 	padding: 10px 25px;
+	height: 20px;
 	border-top: 3px solid #999;
 	background: #085aa2;
 }
 
 .footer__copyright {
+	width: 50%;
+	float: left;
 	font-size: 12px;
 	font-size: 0.75rem;
 	color: #fff;
 }
 
 .footer__copyright a {
+	color: #ffffff;
+}
+
+.footer__links {
+	width: 50%;
+	float: right;
+	font-size: 12px;
+	font-size: 0.75rem;
+	text-align: right;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.footer__links a {
 	color: #ffffff;
 }
 
