@@ -12,7 +12,7 @@ weight: 70
 
 ### B1. Sustainable cooperative traffic management for urban environments (Prof. Friedrich)
 
-{{% img src="https://socialcars.org/files/socialcars/images/B11und12_web.jpg" width="250px" %}}
+{{< img src="https://socialcars.org/files/socialcars/images/B11und12_web.jpg" width="250px" >}}
 
 #### [Qinrui Tang:](/) Left Turn Prohibition Problem combining Traffic Assignment
 
@@ -22,7 +22,7 @@ weight: 70
 
 ### B2. Distributed intelligent and cooperative systems (Prof. Müller)
 
-{{% img src="https://socialcars.org/files/socialcars/images/B21und22_web-neu.jpg" width="344px" %}}
+{{< img src="https://socialcars.org/files/socialcars/images/B21und22_web-neu.jpg" width="344px" >}}
 
 #### [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
 
