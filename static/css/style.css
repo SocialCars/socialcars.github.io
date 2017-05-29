@@ -1154,7 +1154,7 @@ textarea {
 	}
 }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 525px) {
 	.footer {
 		padding: 10px 4px;
 		height: 30px;
