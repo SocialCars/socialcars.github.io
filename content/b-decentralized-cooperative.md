@@ -12,13 +12,17 @@ weight: 70
 
 ### B1. Sustainable cooperative traffic management for urban environments (Prof. Friedrich)
 
+{{% img src="https://socialcars.org/files/socialcars/images/B11und12_web.jpg" width="250px" %}}
+
 #### [Qinrui Tang:](/) Left Turn Prohibition Problem combining Traffic Assignment
 
 #### [Aleksandar Trifunović:](/) (Re)design of public transport network to integrate shared modes of transport
 
-{{% img src="https://socialcars.org/files/socialcars/images/B11und12_web.jpg" width="250px" %}}
+---
 
 ### B2. Distributed intelligent and cooperative systems (Prof. Müller)
+
+{{% img src="https://socialcars.org/files/socialcars/images/B21und22_web-neu.jpg" width="344px" %}}
 
 #### [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
 
@@ -37,4 +41,8 @@ weight: 70
   * [![CircleCI](https://circleci.com/gh/SocialCars/LightVoting/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/LightVoting/tree/master)
   * Documentation ([Project](http://socialcars.github.io/LightVoting/), [Source Code](http://socialcars.github.io/LightVoting/sources/index.html))
 
-{{% img src="https://socialcars.org/files/socialcars/images/B21und22_web-neu.jpg" width="250px" %}}
+
+#### [Fatema Tuj Johora:](https://github.com/Fatema080136) Scalable micro-simulation of Mixed Traffic based on cognitive and hybrid models
+
+
+#### [Sinziana Sebe:](https://github.com/sinziana-sebe) Collective decision-making for online coordination of same day delivery with mixed autonomous fleets
