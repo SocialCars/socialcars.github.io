@@ -30,7 +30,7 @@ date: 2017-05-16
 
 If not stated otherwise, all
 
-* textual and documentation content is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+* textual content and source code documentation is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/),
 
 * source code is licensed under a GNU GPLv3 [![GPLv3](https://www.gnu.org/graphics/gplv3-88x31.png)](https://www.gnu.org/licenses/gpl-3.0.html) license.
