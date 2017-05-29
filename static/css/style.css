@@ -763,7 +763,8 @@ select {
 }
 
 .footer__copyright {
-	width: 50%;
+	width: 80%;
+	text-align: left;
 	float: left;
 	font-size: 12px;
 	font-size: 0.75rem;
@@ -775,7 +776,7 @@ select {
 }
 
 .footer__links {
-	width: 50%;
+	width: 20%;
 	float: right;
 	font-size: 12px;
 	font-size: 0.75rem;
@@ -1036,10 +1037,6 @@ textarea {
 
 	.wrapper, .logo {
 		padding: 20px;
-	}
-
-	.footer__copyright {
-		text-align: center;
 	}
 
 	.widget {
