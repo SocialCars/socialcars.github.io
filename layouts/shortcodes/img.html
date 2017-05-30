@@ -1,7 +1,13 @@
+{{- if .Get "align" -}}
+<div style="text-align: {{- .Get "align" -}}">
+{{- end -}}
 {{- if .Get "link" -}}
 <a href="{{- .Get "link" -}}">
 {{- end -}}
-<img src="{{- .Get "src" -}}{{- .Get "class" | default "#centering" -}}" {{ if .Get "alt" }}alt="{{- .Get "alt" -}}"{{ end }} {{ if or (.Get "width") (.Get "height") (.Get "padding")}}style="{{ if .Get "width" }}width: {{ .Get "width" -}};{{ end }} {{ if .Get "height" }}height: {{ .Get "height" -}};{{ end }} {{ if .Get "padding" }}padding-right: {{ .Get "padding" -}};padding-left: {{ .Get "padding" -}};{{ end }}margin-bottom: 2em"{{- end -}}/>
+<img src="{{- .Get "src" -}}" {{ if .Get "alt" }}alt="{{- .Get "alt" -}}"{{ end }} {{ if or (.Get "width") (.Get "height") (.Get "padding") (.Get "align")}}style="{{ if .Get "width" }}width: {{ .Get "width" -}};{{ end }} {{ if .Get "height" }}height: {{ .Get "height" -}};{{ end }} {{ if .Get "padding" }}padding-right: {{ .Get "padding" -}};padding-left: {{ .Get "padding" -}};{{ end }}margin-bottom: 2em"{{- end -}}/>
 {{- if .Get "link" -}}
 </a>
+{{- end -}}
+{{- if .Get "align" -}}
+</div>
 {{- end -}}

@@ -12,7 +12,7 @@ weight: 60
 
 ### C1. Car-to-X communication (Prof. Fidler)
 
-{{< img src="https://socialcars.org/files/socialcars/images/C11und12_web.jpg" width="250px" >}}
+{{< img src="/images/c-technological-drivers/C11und12_web.jpg" height="180px" >}}
 
 #### [Mehdi Garrosi:](/) Geo-Routing in Urban Car-2-X Communication Networks
 
@@ -22,7 +22,7 @@ weight: 60
 
 ### C2. Dynamic maps and map services (Prof. Sester)
 
-{{< img src="https://socialcars.org/files/socialcars/images/C21und22_web.jpg" width="250px" >}}
+{{< img src="/images/c-technological-drivers/C21und22_web.jpg" height="180px" >}}
 
 #### [Fabian Bock:](/) Automatic generation of dynamic parking maps based on crowd-sensing
 

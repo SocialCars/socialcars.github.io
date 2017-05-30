@@ -12,7 +12,7 @@ weight: 80
 
 ### A1. The human factor in cooperative traffic systems (Prof. Vollrath)
 
-{{< img src="https://socialcars.org/files/socialcars/images/A11_12_web.jpg" width="250px" >}}
+{{< img src="/images/a-psychological-economic/A11_12_web.jpg" height="180px" >}}
 
 #### [Madlen Ringhand:](/) Decision making in navigation tasks - influencing factors and ways to change them
 
@@ -22,7 +22,7 @@ weight: 80
 
 ### A2. Efficient operations in intermodal transportation systems (Prof. Mattfeld)
 
-{{< img src="https://socialcars.org/files/socialcars/images/A21u22_web.jpg" width="250px" >}}
+{{< img src="/images/a-psychological-economic/A21u22_web.jpg" height="180px" >}}
 
 #### [Bruno Neumann:](/) Approaches to support tactical Service Network Design of Bike Sharing Systems
 
