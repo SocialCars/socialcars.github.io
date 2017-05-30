@@ -788,6 +788,7 @@ select {
 	text-transform: uppercase;
 	color: #fff;
 	white-space: nowrap;
+	padding-right: 4px;
 }
 
 .footer__links a {
