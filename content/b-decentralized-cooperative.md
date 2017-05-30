@@ -1,6 +1,6 @@
 ---
 title: "(De-)centralized cooperative traffic management"
-date: 2017-05-16
+date: 2017-05-17
 menu:
   main:
     name: "Research field B"

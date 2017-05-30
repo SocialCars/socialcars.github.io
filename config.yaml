@@ -19,9 +19,9 @@ params:
   leftsidebar: false # Move sidebar to the left side if true
   hidesidebar: true
   authorbox: false
-  post_navigation: false
+  post_navigation: true
   widgets:
-    search: true # Enable "Search" widget
+    search: false # Enable "Search" widget
     recent_articles: false # Enable "Recent articles" widget
     recent_articles_num: 10 # Set the number of articles in the "Recent articles" widget
     categories: false # Enable "Categories" widget
