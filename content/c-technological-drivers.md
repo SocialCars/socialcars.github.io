@@ -14,9 +14,9 @@ weight: 60
 
 {{< img src="/images/c-technological-drivers/C11und12_web.jpg" height="180px" >}}
 
-#### [Mehdi Garrosi:](/) Geo-Routing in Urban Car-2-X Communication Networks
+#### C1.1 [Mehdi Garrosi:](.) Geo-Routing in Urban Car-2-X Communication Networks
 
-#### [Torsten Lorenzen:](/) Design of Adaptive C2X Protocols for Enhanced Traffic Performance
+#### C1.2 [Torsten Lorenzen:](.) Design of Adaptive C2X Protocols for Enhanced Traffic Performance
 
 ---
 
@@ -24,6 +24,6 @@ weight: 60
 
 {{< img src="/images/c-technological-drivers/C21und22_web.jpg" height="180px" >}}
 
-#### [Fabian Bock:](/) Automatic generation of dynamic parking maps based on crowd-sensing
+#### C2.1 [Fabian Bock:](.) Automatic generation of dynamic parking maps based on crowd-sensing
 
-#### [Paul Czioska](/) Determination of dynamic stopping places in flexible public transportation systems
+#### C2.2 [Paul Czioska](.) Determination of dynamic stopping places in flexible public transportation systems

@@ -14,9 +14,9 @@ weight: 80
 
 {{< img src="/images/a-psychological-economic/A11_12_web.jpg" height="180px" >}}
 
-#### [Madlen Ringhand:](/) Decision making in navigation tasks - influencing factors and ways to change them
+#### A1.1 [Madlen Ringhand:](.) Decision making in navigation tasks - influencing factors and ways to change them
 
-#### [Anne Goralzik:](/) Speed choice on urban roads - situational and personality factors
+#### A1.2 [Anne Goralzik:](.) Speed choice on urban roads - situational and personality factors
 
 ---
 
@@ -24,7 +24,7 @@ weight: 80
 
 {{< img src="/images/a-psychological-economic/A21u22_web.jpg" height="180px" >}}
 
-#### [Bruno Neumann:](/) Approaches to support tactical Service Network Design of Bike Sharing Systems
+#### A2.1 [Bruno Neumann:](.) Approaches to support tactical Service Network Design of Bike Sharing Systems
 
-#### [Felix Köster:](/) Impact of Traffic management on urban routing
+#### A2.2 [Felix Köster:](.) Impact of Traffic management on urban routing
 

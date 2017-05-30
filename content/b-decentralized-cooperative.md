@@ -14,9 +14,9 @@ weight: 70
 
 {{< img src="/images/b-decentralized-cooperative/B11und12_web.jpg" height="180px" >}}
 
-#### [Qinrui Tang:](/) Left Turn Prohibition Problem combining Traffic Assignment
+#### B1.1 [Qinrui Tang:](.) Left Turn Prohibition Problem combining Traffic Assignment
 
-#### [Aleksandar Trifunović:](/) (Re)design of public transport network to integrate shared modes of transport
+#### B1.2 [Aleksandar Trifunović:](.) (Re)design of public transport network to integrate shared modes of transport
 
 ---
 
@@ -24,7 +24,7 @@ weight: 70
 
 {{< img src="/images/b-decentralized-cooperative/B21und22_web-neu.jpg" height="180px" >}}
 
-#### [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
+#### B2.1 [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
 
 * [Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)](https://github.com/SocialCars/colmto)
   * [![CircleCI](https://circleci.com/gh/SocialCars/colmto/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/colmto/tree/master)
@@ -35,14 +35,14 @@ weight: 70
   * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
   * [Vehicle following models with social force](https://github.com/TranKhacDat/SocialForceVehicles)
 
-#### [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
+#### B2.2 [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
 
 * [LightVoting](https://github.com/SocialCars/LightVoting)
   * [![CircleCI](https://circleci.com/gh/SocialCars/LightVoting/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/LightVoting/tree/master)
   * Documentation ([Project](http://socialcars.github.io/LightVoting/), [Source Code](http://socialcars.github.io/LightVoting/sources/index.html))
 
 
-#### [Fatema Tuj Johora:](https://github.com/Fatema080136) Scalable micro-simulation of Mixed Traffic based on cognitive and hybrid models
+#### B2.3 [Fatema Tuj Johora:](https://github.com/Fatema080136) Scalable micro-simulation of Mixed Traffic based on cognitive and hybrid models
 
 
-#### [Sinziana Sebe:](https://github.com/sinziana-sebe) Collective decision-making for online coordination of same day delivery with mixed autonomous fleets
+#### B2.4 [Sinziana Sebe:](https://github.com/sinziana-sebe) Collective decision-making for online coordination of same day delivery with mixed autonomous fleets
