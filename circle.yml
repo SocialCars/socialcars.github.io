@@ -46,7 +46,7 @@ test:
         - hugo --ignoreCache --cleanDestinationDir
         - find public -type f -name "*.css" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
         - find public -type f -name "*.js" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
-        - find public -type f -name "*.htm*" -exec data/minifyhtml.sh \{\} \;
+        - find public -type f -name "*.htm*" -exec sh data/minifyhtml.sh \{\} \;
         - find public -type f -name "*.svg" -exec svgo \{\} \;
         - mv -f public /tmp
 
