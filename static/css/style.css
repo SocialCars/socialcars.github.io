@@ -767,7 +767,7 @@ select {
 }
 
 .footer__copyright {
-	width: 70%;
+	width: 66%;
 	text-align: left;
 	float: left;
 	font-size: 12px;
@@ -780,13 +780,14 @@ select {
 }
 
 .footer__links {
-	width: 30%;
+	width: 33%;
 	float: right;
 	font-size: 12px;
 	font-size: 0.75rem;
 	text-align: right;
 	text-transform: uppercase;
 	color: #fff;
+	white-space: nowrap;
 }
 
 .footer__links a {
