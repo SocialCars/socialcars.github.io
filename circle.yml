@@ -35,14 +35,14 @@ dependencies:
         # see release version https://www.npmjs.com/package/svgo
         - npm install svgo -g
         # install pandoc-citeproc from external share if not in /tmp, due to outdated containers *sigh*
-        - if [ ! -d /tmp/pandoc-citeproc/ ]; then curl -L https://tesseract.in.tu-clausthal.de:8443/index.php/s/YIqE0QBgqu8YZuK/download | tar xJp --strip 1 -C /tmp; fi
+        #- if [ ! -d /tmp/pandoc-citeproc/ ]; then curl -L https://tesseract.in.tu-clausthal.de:8443/index.php/s/YIqE0QBgqu8YZuK/download | tar xJp --strip 1 -C /tmp; fi
         
 test:
     override:
         - git submodule init
         - git submodule update
         # build references if static/references.bib exists
-        - if [ -f static/references.bib ]; then /tmp/pandoc-citeproc/pandoc-citeproc --bib2json static/references.bib > data/references.json; fi
+        #- if [ -f static/references.bib ]; then /tmp/pandoc-citeproc/pandoc-citeproc --bib2json static/references.bib > data/references.json; fi
         - hugo --ignoreCache --cleanDestinationDir
         - find public -type f -name "*.css" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
         - find public -type f -name "*.js" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
