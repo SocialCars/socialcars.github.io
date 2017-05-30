@@ -1,9 +1,0 @@
-.logo {
-	overflow: hidden;
-	background-image: url("/images/Logo-mobile.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	height: -webkit-calc(0.154 * 100vw - 10px);
-	height: -moz-calc(0.154 * 100vw - 10px);
-    height: calc(0.154 * 100vw - 10px);
-}

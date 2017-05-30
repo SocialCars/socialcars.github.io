@@ -1164,3 +1164,25 @@ textarea {
 		background: #085aa2;
 	}
 }
+
+@media screen and (max-width: 1064px) {
+	.logo {
+		overflow: hidden;
+		background-image: url("/images/Logo-mobile.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: -webkit-calc(0.154 * 100vw - 10px);
+		height: -moz-calc(0.154 * 100vw - 10px);
+	    height: calc(0.154 * 100vw - 10px);
+	}
+}
+
+@media screen and (min-width: 1065px) {
+	.logo {
+		overflow: hidden;
+		background-image: url("/images/Logo-desktop.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 200px;
+	}
+}

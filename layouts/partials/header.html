@@ -19,9 +19,6 @@
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" type="text/css" media="all" />
 <script type="text/javascript" src="{{ .Site.BaseURL }}js/scripts.js"></script>
 
-<link href="{{- .Site.BaseURL -}}css/mobile.css" type="text/css" rel="stylesheet" media="screen and (max-width: 1064px)" />
-<link href="{{- .Site.BaseURL -}}css/desktop.css" type="text/css" rel="stylesheet" media="screen and (min-width: 1065px)" />
-
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico">
 </head>
 <body class="body {{ if (.Site.Params.leftsidebar) or (.Params.leftsidebar) }}body-left-sidebar{{ else }}body-right-sidebar{{ end }} mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage">
