@@ -767,7 +767,7 @@ select {
 }
 
 .footer__copyright {
-	width: 66%;
+	width: 64%;
 	text-align: left;
 	float: left;
 	font-size: 12px;
@@ -788,7 +788,7 @@ select {
 	text-transform: uppercase;
 	color: #fff;
 	white-space: nowrap;
-	padding-right: 4px;
+	padding-right: 2px;
 }
 
 .footer__links a {
