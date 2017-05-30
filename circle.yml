@@ -27,11 +27,13 @@ dependencies:
         - sudo dpkg -i hugo.deb
         # see release version https://github.com/yui/yuicompressor/releases
         - wget -O yuicompressor.jar https://github.com/yui/yuicompressor/releases/download/v2.4.8/yuicompressor-2.4.8.jar
-        # see relese version https://github.com/nodesource/distributions
+        # see release version https://github.com/nodesource/distributions
         - "curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash"
         - sudo apt-get install -y nodejs
         # see release version https://www.npmjs.com/package/html-minifier-cli
         - npm install html-minifier -g
+        # see release version https://www.npmjs.com/package/svgo
+        - npm install svgo -g
         # install pandoc-citeproc from external share if not in /tmp, due to outdated containers *sigh*
         - if [ ! -d /tmp/pandoc-citeproc/ ]; then curl -L https://tesseract.in.tu-clausthal.de:8443/index.php/s/YIqE0QBgqu8YZuK/download | tar xJp --strip 1 -C /tmp; fi
         
@@ -45,6 +47,7 @@ test:
         - find public -type f -name "*.css" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
         - find public -type f -name "*.js" -exec java -jar yuicompressor.jar -o \{\} \{\} \;
         - find public -type f -name "*.htm*" -exec data/minifyhtml.sh \{\} \;
+        - find public -type f -name "*.svg*" -exec svgo \{\} \;
         - mv -f public /tmp
 
 deployment:
