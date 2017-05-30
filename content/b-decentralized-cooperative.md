@@ -8,7 +8,7 @@ menu:
 weight: 70
 ---
 
-## Research field B: (De-)centralized cooperative traffic management
+## Research field B: (De-)&#xfeff;centralized cooperative traffic management
 
 ### B1. Sustainable cooperative traffic management for urban environments (Prof. Friedrich)
 
