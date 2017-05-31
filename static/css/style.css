@@ -18,6 +18,10 @@ img {
 	vertical-align: middle;
 }
 
+figcaption {
+	font-size: 10pt;
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }

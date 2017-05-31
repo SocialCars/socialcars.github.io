@@ -22,13 +22,13 @@ This site's purpose is to host and document the source code and current state of
 
 {{< br >}}
 
-{{< fig src="https://www.socialcars.org/assets/images/4/leitthema_ohneRand-397be1e4.jpg" title="SocialCars Vision: Sustainable Traffic Management." >}}
+{{< fig src="/images/home/leitthema.jpg" title="SocialCars Vision: Sustainable Traffic Management." width="360px" >}}
 
 {{< br >}}
 
-{{% center %}}
-{{% img alt="DFG logo" src="/images/home/dfg_logo_blau.svg" link="http://www.dfg.de/" padding="20px" height="28pt" %}}
-{{% img alt="TU Braunschweig logo" src="/images/home/TUBS.svg" link="http://www.tu-braunschweig.de/" padding="20px" height="28pt" %}}
-{{% img alt="TU Clausthal logo" src="/images/home/TUClausthal.svg" link="http://www.tu-clausthal.de/" padding="20px" height="28pt" %}}
-{{% img alt="LU Hannover logo" src="/images/home/LUH.svg" link="http://www.uni-hannover.de/" padding="20px" height="28pt" %}}
-{{% /center %}}
+{{< center >}}
+{{< img alt="DFG logo" src="/images/home/dfg_logo_blau.svg" link="http://www.dfg.de/" padding="20px" height="28pt" >}}
+{{< img alt="TU Braunschweig logo" src="/images/home/TUBS.svg" link="http://www.tu-braunschweig.de/" padding="20px" height="28pt" >}}
+{{< img alt="TU Clausthal logo" src="/images/home/TUClausthal.svg" link="http://www.tu-clausthal.de/" padding="20px" height="28pt" >}}
+{{< img alt="LU Hannover logo" src="/images/home/LUH.svg" link="http://www.uni-hannover.de/" padding="20px" height="28pt" >}}
+{{< /center >}}
