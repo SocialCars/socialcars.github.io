@@ -27,8 +27,8 @@ This site's purpose is to host and document the source code and current state of
 {{< br >}}
 
 {{% center %}}
-{{% img alt="DFG logo" src="https://socialcars.org/files/socialcars/assets/dfg_logo_blau.png" link="http://www.dfg.de/" padding="20px" %}}
-{{% img alt="TU Braunschweig logo" src="https://www.socialcars.org/files/socialcars/assets/TUBS.png" link="http://www.tu-braunschweig.de/" padding="20px" %}}
-{{% img alt="TU Clausthal logo" src="https://www.socialcars.org/files/socialcars/assets/TUClausthal.png" link="http://www.tu-clausthal.de/" padding="20px" %}}
-{{% img alt="LU Hannover logo" src="https://www.socialcars.org/files/socialcars/assets/LUH.png" link="http://www.uni-hannover.de/" padding="20px" %}}
+{{% img alt="DFG logo" src="/images/home/dfg_logo_blau.svg" link="http://www.dfg.de/" padding="20px" height="28pt" %}}
+{{% img alt="TU Braunschweig logo" src="/images/home/TUBS.svg" link="http://www.tu-braunschweig.de/" padding="20px" height="28pt" %}}
+{{% img alt="TU Clausthal logo" src="/images/home/TUClausthal.svg" link="http://www.tu-clausthal.de/" padding="20px" height="28pt" %}}
+{{% img alt="LU Hannover logo" src="/images/home/LUH.svg" link="http://www.uni-hannover.de/" padding="20px" height="28pt" %}}
 {{% /center %}}
