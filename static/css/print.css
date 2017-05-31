@@ -1,0 +1,36 @@
+header, header.header, div.sidebar, div.clear,
+div.footer, div.logo, div.menu,
+.menu__toggle, nav, 
+nav.post-nav.row.clearfix, 
+footer, #toccontainer {
+    display: none;
+    visibility: hidden;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  font-weight: 500;
+}
+
+div.container.container-outer,
+div.document {
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+
+div.wrapper.clearfix {
+    padding: 0;
+}
+
+.tooltipcontent {
+    display: none;
+    overflow: hidden;
+}
+
+code, pre {
+    width: 95%;
+    font-size: 10pt;
+    white-space: pre-wrap !important;
+}
