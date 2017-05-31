@@ -13,8 +13,8 @@ params:
   domain:
     protocol : "https://"
     name : "socialcars.github.io"
-  subtitle: "DFG Research Training Group 1931 SocialCars"
-  description: "Cooperative (de-)centralized traffic management"
+  subtitle: "Cooperative (de-)centralized traffic management"
+  description: "DFG Research Training Group 1931"
   opengraph: true
   leftsidebar: false # Move sidebar to the left side if true
   hidesidebar: true

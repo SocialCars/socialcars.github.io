@@ -397,14 +397,49 @@ select {
 
 .logo__link {
 	margin: 5px 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
+}
+
+.logo {
+	overflow: hidden;
+	background-image: url("/images/Logo-mobile.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: -webkit-calc(0.154 * 100vw - 10px);
+	height: -moz-calc(0.154 * 100vw - 10px);
+    height: calc(0.154 * 100vw - 10px);
+    position: relative;
+}
+
+.logo__title, .logo__description, .logo__subtitle {
+	line-height: 1;
+	text-align: right;
+	position: absolute;
+}
+
+.logo__subtitle {
+	color: #085aa2;
+	font-size: 12pt;
+	font-weight: bold;
+	width: 170px;
+    bottom: 65px;
+    right: 10px;
+}
+
+.logo__description {
+	color: #085aa2;
+	font-size: 10pt;
+    bottom: 45px;
+    right: 10px;
 }
 
 .logo__title {
-	font-size: 32px;
-	font-size: 2rem;
-	line-height: 1;
+	color: #085aa2;
+	font-size: 32pt;
+    bottom: 5px;
+    right: 10px;
 }
+
 
 .logo__tagline {
 	display: inline-block;
@@ -1067,15 +1102,6 @@ textarea {
 		margin: 0;
 	}
 
-	.logo {
-		text-align: center;
-	}
-
-	.logo__title, .post__title {
-		font-size: 24px;
-		font-size: 1.5rem;
-	}
-
 	.sidebar {
 		margin-top: 20px;
 	}
@@ -1086,6 +1112,7 @@ textarea {
 }
 
 @media screen and (max-width: 620px) {
+
 	input[type=text], input[type=email], input[type=tel], input[type=url] {
 		width: 88%;
 	}
@@ -1170,7 +1197,13 @@ textarea {
 	}
 }
 
+
+/* Logo related sizing */
 @media screen and (max-width: 1064px) {
+	.wrapper, .logo {
+		padding: 0 20px;
+	}
+
 	.logo {
 		overflow: hidden;
 		background-image: url("/images/Logo-mobile.jpg");
@@ -1179,6 +1212,7 @@ textarea {
 		height: -webkit-calc(0.154 * 100vw - 10px);
 		height: -moz-calc(0.154 * 100vw - 10px);
 	    height: calc(0.154 * 100vw - 10px);
+	    position: relative;
 	}
 }
 
@@ -1191,3 +1225,58 @@ textarea {
 		height: 200px;
 	}
 }
+
+
+@media screen and (min-width: 900px) {
+	.logo__title, .logo__description, .logo__subtitle {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 830px) {
+	.logo__description {
+		display: none;
+	}
+	.logo__subtitle {
+		bottom: 45px;
+		width: 250px;
+	}
+}
+
+@media screen and (max-width: 590px) {
+	.logo__description {
+		display: none;
+	}
+	.logo__subtitle {
+		bottom: 45px;
+		width: 400px;
+		background: rgba(225, 225, 226, 0.8);
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.logo__description, .logo__subtitle {
+		display: none;
+	}
+	.logo__title {
+		background: rgba(225, 225, 226, 0.8);
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.logo__description, .logo__subtitle {
+		display: none;
+	}
+	.logo__title {
+		font-size: 24pt;
+		background: rgba(225, 225, 226, 0.8);
+	}
+}
+
+@media screen and (max-width: 100px) {
+	.logo__title, .logo__description, .logo__subtitle {
+		display: none;
+	}
+}
+
+

@@ -26,6 +26,9 @@
 		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 			<div class="container container-inner clearfix">
 				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
+					<div class="logo__subtitle">{{ .Site.Params.subtitle }}</div>
+					<div class="logo__description">{{ .Site.Params.description }}</div>
+					<div class="logo__title"><a class="logo__link" href="{{- .Site.BaseURL -}}">{{ .Site.Title }}</a></div>
 				</div>
 			</div>
 			{{ partial "menu.html" . }}
