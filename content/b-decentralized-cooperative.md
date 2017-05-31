@@ -30,7 +30,13 @@ weight: 70
   * [![CircleCI](https://circleci.com/gh/SocialCars/colmto/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/colmto/tree/master)
 [![codecov.io](https://codecov.io/github/SocialCars/colmto/coverage.svg?branch=master)](https://codecov.io/github/SocialCars/colmto)
   * Source Code Documentation ([HTML](http://socialcars.github.io/colmto/docs/sources/index.html), [PDF](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf))
-  * [Release v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) for EWGT 2017 paper [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531). The resulting/related dataset can be obtained here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
+  * **2017-04-06:** [Release v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) for EWGT 2017 paper [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531). The resulting/related dataset can be obtained here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
+  * **2017-05-31:** EWGT 2017 paper accepted for publication \o/
+
+* [LightJason](https://lightjason.github.io) (a joined project with Philipp Kraus)
+  * **2016-11:** We published a [technical report about LightJason](https://lightjason.github.io/publication/2016-ifi-techreport.pdf) in the IfI Technical Report Series.
+  * **2016-12-15:** We presented our paper [LightJason: A BDI Framework Inspired by Jason](https://lightjason.github.io/publication/2016-eumas.pdf) at [EUMAS 2016](http://eumas-at2016.webs.upv.es).
+
 * Student Research Projects
   * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
   * [Vehicle following models with social force](https://github.com/TranKhacDat/SocialForceVehicles)
