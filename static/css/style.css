@@ -349,7 +349,11 @@ a:hover {
 }
 
 .post__content ul, .post__content ol {
-	margin: 0 0 0px 40px;
+	margin: 0 0 0 40px;
+}
+
+.post__content ul p {
+	margin-bottom: 5px;
 }
 
 .post__content ul ul, .post__content ol ol {
