@@ -35,7 +35,7 @@ weight: 70
 [![codecov.io](https://codecov.io/github/SocialCars/colmto/coverage.svg?branch=master)](https://codecov.io/github/SocialCars/colmto)
   * Source Code Documentation ([HTML](http://socialcars.github.io/colmto/docs/sources/index.html), [PDF](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf))
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
-  * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531), and used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
+  * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531). Used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
   The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways*. The resulting/related dataset is available as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
   * **2017-05-31:** EWGT 2017 paper accepted for publication \o/
 
