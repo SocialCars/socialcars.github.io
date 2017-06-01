@@ -854,15 +854,15 @@ img, figure, figcaption {
 }
 
 ul li img, ul li figure, ul li figcaption {
-	max-width: -webkit-calc(100vw - 80px);
-	max-width: -moz-calc(100vw - 80px);
-    max-width: calc(100vw - 80px);
+	max-width: -webkit-calc(100vw - 60px);
+	max-width: -moz-calc(100vw - 60px);
+    max-width: calc(100vw - 60px);
 }
 
 ul li ul li img, ul li ul li figure, ul li ul li figcaption {
-	max-width: -webkit-calc(100vw - 120px);
-	max-width: -moz-calc(100vw - 120px);
-    max-width: calc(100vw - 120px);
+	max-width: -webkit-calc(100vw - 80px);
+	max-width: -moz-calc(100vw - 80px);
+    max-width: calc(100vw - 80px);
 }
 
 iframe, embed, object, video {
