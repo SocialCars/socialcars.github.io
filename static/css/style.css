@@ -14,28 +14,8 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-img {
-	vertical-align: middle;
-	margin-bottom: 1em;
-}
-
-figcaption {
-	font-size: 10pt;
-	text-align: left;
-}
-
-figure {
-	margin-bottom: 2em;
-}
-
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
-}
-
-img, figure, figcaption {
-	max-width: -webkit-calc(100vw - 40px);
-	max-width: -moz-calc(100vw - 40px);
-    max-width: calc(100vw - 40px);
 }
 
 ol, ul {
@@ -851,7 +831,22 @@ img {
 	max-width: 100%;
 	width: auto\9; /* ie8 */
 	height: auto;
-	vertical-align: middle;
+	vertical-align: top;
+}
+
+figcaption {
+	font-size: 10pt;
+	text-align: center;
+}
+
+figure {
+	margin-bottom: 2em;
+}
+
+img, figure, figcaption {
+	max-width: -webkit-calc(100vw - 40px);
+	max-width: -moz-calc(100vw - 40px);
+    max-width: calc(100vw - 40px);
 }
 
 iframe, embed, object, video {

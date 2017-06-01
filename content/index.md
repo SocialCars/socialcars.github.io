@@ -15,16 +15,16 @@ SocialCars aims to answer this question by investigating the interaction between
 
 This site's purpose is to host and document the source code and current state of development of the *SocialCars Research Training Group 1931*.
 
-{{< br >}}
+<br>
 
 * Our main project site, focusing on our academic research and publications: https://socialcars.org
 * The GitHub site listing our source code repositories: https://github.com/socialcars
 
-{{< br >}}
+<br>
 
 {{< fig src="/images/home/leitthema.jpg" title="SocialCars Vision: Sustainable Traffic Management." width="360px" >}}
 
-{{< br >}}
+<br>
 
 {{< center >}}
 {{< img alt="DFG logo" src="/images/home/dfg_logo_blau.svg" link="http://www.dfg.de/" padding="20px" height="28pt" >}}

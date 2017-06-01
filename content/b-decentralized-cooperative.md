@@ -26,11 +26,15 @@ weight: 70
 
 #### B2.1 [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
 
+{{< fig src="/images/b-decentralized-cooperative/malte/summary.svg" width="100%" align="center" >}}
+
 * **[Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)](https://github.com/SocialCars/colmto)**
   * [![CircleCI](https://circleci.com/gh/SocialCars/colmto/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/colmto/tree/master)
 [![codecov.io](https://codecov.io/github/SocialCars/colmto/coverage.svg?branch=master)](https://codecov.io/github/SocialCars/colmto)
   * Source Code Documentation ([HTML](http://socialcars.github.io/colmto/docs/sources/index.html), [PDF](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf))
-  * **2017-04-06:** [Release v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) for EWGT 2017 paper [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531). The resulting/related dataset can be obtained here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
+  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.svg" title="The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
+  * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531) and used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
+  The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways*. The resulting/related dataset is available as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
   * **2017-05-31:** EWGT 2017 paper accepted for publication \o/
 
 * **[LightJason AgentSpeak(L++)](https://lightjason.github.io)** (a joint project with Philipp Kraus)
