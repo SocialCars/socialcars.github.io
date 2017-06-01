@@ -22,7 +22,6 @@ img {
 figcaption {
 	font-size: 10pt;
 	text-align: left;
-	font-style: italic;
 }
 
 figure {
@@ -653,7 +652,6 @@ select {
 }
 
 .post__content a {
-	font-weight: 700;
 	color: #c72445;
 }
 
