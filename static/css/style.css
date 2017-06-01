@@ -16,18 +16,27 @@ time, mark, audio, video {
 
 img {
 	vertical-align: middle;
+	margin-bottom: 1em;
 }
 
 figcaption {
 	font-size: 10pt;
+	text-align: left;
+	font-style: italic;
+}
+
+figure {
+	margin-bottom: 2em;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
-figure {
-	font-style: italic;
+img, figure, figcaption {
+	max-width: -webkit-calc(100vw - 40px);
+	max-width: -moz-calc(100vw - 40px);
+    max-width: calc(100vw - 40px);
 }
 
 ol, ul {
