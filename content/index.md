@@ -22,7 +22,7 @@ This site's purpose is to host and document the source code and current state of
 
 <br>
 
-{{< fig src="/images/home/leitthema.jpg" title="SocialCars Vision: Sustainable Traffic Management." width="360px" >}}
+{{< fig src="/images/home/leitthema.jpg" title="SocialCars Vision: Sustainable Traffic Management." width="360px" align="center" >}}
 
 <br>
 

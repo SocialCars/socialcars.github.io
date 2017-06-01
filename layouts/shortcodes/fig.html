@@ -1,7 +1,7 @@
 <!-- image -->
-<figure {{ with .Get "class" }}class="{{.}}"{{ end }} style="{{- with .Get "align" -}} text-align: {{.}}; {{- if eq . "center" -}} margin-left: auto; margin-right: auto; {{ end }}{{ end }} width: {{ .Get "width" | default "100%" }} margin-bottom: 2em; margin-top: 1em">
+<figure {{ with .Get "class" }}class="{{.}}"{{ end }} style="{{- with .Get "align" -}} text-align: {{.}}; {{- if eq . "center" -}} margin-left: auto; margin-right: auto; {{ end }}{{ end }} width: {{ .Get "width" | default "100%" }}; margin-bottom: 2em; margin-top: 1em">
     {{ with .Get "link"}}<a href="{{.}}">{{ end }}
-        <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{- else -}}{{ .Get "caption" }}{{ end }}"{{ end }} style="{{- with .Get "align" -}} text-align: {{.}}; {{- if eq . "center" -}} margin-left: auto; margin-right: auto; {{ end }}{{ end }}; width: {{ .Get "width" | default "100%" }}" />
+        <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{- else -}}{{ .Get "caption" }}{{ end }}"{{ end }} style="{{- with .Get "align" -}} text-align: {{.}}; {{- if eq . "center" -}}; margin-left: auto; margin-right: auto; {{ end }}{{ end }}; width: {{ .Get "width" | default "100%" }}" />
     {{ if .Get "link"}}</a>{{ end }}
     {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
     <figcaption style="{{- with .Get "align" -}} text-align: {{.}} {{- end -}}" >{{- if isset .Params "title" -}}

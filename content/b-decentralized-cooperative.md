@@ -26,7 +26,7 @@ weight: 70
 
 #### B2.1 [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
 
-{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="100%" align="center" >}}
+{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" >}}
 
 * **[Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)](https://github.com/SocialCars/colmto)**
   * [![CircleCI](https://circleci.com/gh/SocialCars/colmto/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/colmto/tree/master)
