@@ -1079,6 +1079,60 @@ textarea {
 	margin-bottom: 5px;
 }
 
+/*** TOC ***/
+#toccontainer {
+    display: block;
+    border: 1px solid #a2a9b1;
+    background-color: #f7f7f7;
+    font-size: 80%;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#toc {
+    text-align: left;
+}
+
+#toc a {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#toc ul, h1 {
+    counter-reset: section;
+}
+
+.toc-h2 {
+    counter-increment: section;
+    counter-reset: subsection;
+}
+
+.toc-h3 {
+    margin-left: 1em;
+    counter-increment: subsection;
+    counter-reset: subsubsection;
+}
+
+.toc-h4 {
+    margin-left: 2em;
+    counter-increment: subsubsection;
+}
+
+a.anchor {
+	color: #085aa2;
+}
+
+a.anchor:hover {
+	color: #085aa2;
+}
+
 /*** Media Queries ***/
 @media screen and (max-width: 1475px) {
 	.container {
