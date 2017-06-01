@@ -34,7 +34,7 @@ weight: 70
   * **2017-05-31:** EWGT 2017 paper accepted for publication \o/
 
 * **[LightJason AgentSpeak(L++)](https://lightjason.github.io)** (a joint project with Philipp Kraus)
-  * **2016-11:** We published a [technical report about LightJason](https://lightjason.github.io/publication/2016-ifi-techreport.pdf) in the IfI Technical Report Series.
+  * **2016-11-20:** We published a [technical report about LightJason](https://lightjason.github.io/publication/2016-ifi-techreport.pdf) in the IfI Technical Report Series.
   * **2016-12-15:** We presented our paper [LightJason: A BDI Framework Inspired by Jason](https://lightjason.github.io/publication/2016-eumas.pdf) at [EUMAS 2016](http://eumas-at2016.webs.upv.es).
 
 * **Student Research Projects**

@@ -20,4 +20,13 @@ With new technologies available like vehicle-to-vehicle or vehicle-to-infrastruc
 
 This project is a joint cooperative work within the SocialCars Research Training Group, combining the expertise of most of the research disciplines involved in SocialCars. This collaboration enables us to approach the parking search problem through the different perspectives of transportation science, traffic psychology, decision-making in city logistics, information science and geo-informatics.
 
-Researcher: Dr. Matthias Rybarsch, Malte Aschermann, Fabian Bock, Anne Goralzik, Felix Köster, Madlen Ringhand, Aleksandar Trifunovic
+{{< br >}}
+
+**Researcher:** Dr. Matthias Rybarsch, Malte Aschermann, Fabian Bock, Anne Goralzik, Felix Köster, Madlen Ringhand, Aleksandar Trifunovic
+
+{{< br >}}
+
+#### Documentation
+
+
+#### Source Code
