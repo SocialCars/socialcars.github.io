@@ -849,6 +849,18 @@ img, figure, figcaption {
     max-width: calc(100vw - 40px);
 }
 
+ul li img, ul li figure, ul li figcaption {
+	max-width: -webkit-calc(100vw - 80px);
+	max-width: -moz-calc(100vw - 80px);
+    max-width: calc(100vw - 80px);
+}
+
+ul li ul li img, ul li ul li figure, ul li ul li figcaption {
+	max-width: -webkit-calc(100vw - 120px);
+	max-width: -moz-calc(100vw - 120px);
+    max-width: calc(100vw - 120px);
+}
+
 iframe, embed, object, video {
 	max-width: 100%;
 }
