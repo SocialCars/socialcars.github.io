@@ -1089,7 +1089,7 @@ textarea {
     border: 1px solid #a2a9b1;
     background-color: #f7f7f7;
     font-size: 80%;
-    width: 50%;
+    width: 60%;
     text-align: center;
     margin-bottom: 2em;
 }
@@ -1184,6 +1184,12 @@ a.anchor:hover {
 
 	.post__meta {
 		padding: 5px 0;
+	}
+
+	#toccontainer {
+	    width: -webkit-calc(100vw - 42px);
+		width: -moz-calc(100vw - 42px);
+	    width: calc(100vw - 42px);
 	}
 }
 
