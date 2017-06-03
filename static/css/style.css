@@ -1228,7 +1228,7 @@ a.anchor:hover {
 	}
 
 	.post__content ul, .post__content ol {
-		margin: 0 0 20px 20px;
+		margin: 0 0 0 20px;
 	}
 
 	.post__content ul ul, .post__content ol ol {
