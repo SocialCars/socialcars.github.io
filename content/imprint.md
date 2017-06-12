@@ -29,6 +29,7 @@ date: 2017-05-20
 ### Copyright
 
 Except where otherwise noted,
+
 * source code is licensed under a [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html),
 * code documentation and other content (e.g. text, images) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 {{< center >}}

@@ -349,7 +349,11 @@ a:hover {
 }
 
 .post__content ul, .post__content ol {
-	margin: 0 0 0px 40px;
+	margin: 0 0 0 40px;
+}
+
+.post__content ul p {
+	margin-bottom: 5px;
 }
 
 .post__content ul ul, .post__content ol ol {
@@ -850,15 +854,15 @@ img, figure, figcaption {
 }
 
 ul li img, ul li figure, ul li figcaption {
-	max-width: -webkit-calc(100vw - 80px);
-	max-width: -moz-calc(100vw - 80px);
-    max-width: calc(100vw - 80px);
+	max-width: -webkit-calc(100vw - 60px);
+	max-width: -moz-calc(100vw - 60px);
+    max-width: calc(100vw - 60px);
 }
 
 ul li ul li img, ul li ul li figure, ul li ul li figcaption {
-	max-width: -webkit-calc(100vw - 120px);
-	max-width: -moz-calc(100vw - 120px);
-    max-width: calc(100vw - 120px);
+	max-width: -webkit-calc(100vw - 80px);
+	max-width: -moz-calc(100vw - 80px);
+    max-width: calc(100vw - 80px);
 }
 
 iframe, embed, object, video {
@@ -1079,6 +1083,60 @@ textarea {
 	margin-bottom: 5px;
 }
 
+/*** TOC ***/
+#toccontainer {
+    display: block;
+    border: 1px solid #a2a9b1;
+    background-color: #f7f7f7;
+    font-size: 80%;
+    width: 60%;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+#toc {
+    text-align: left;
+}
+
+#toc a {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#toc ul, h1 {
+    counter-reset: section;
+}
+
+.toc-h2 {
+    counter-increment: section;
+    counter-reset: subsection;
+}
+
+.toc-h3 {
+    margin-left: 1em;
+    counter-increment: subsection;
+    counter-reset: subsubsection;
+}
+
+.toc-h4 {
+    margin-left: 2em;
+    counter-increment: subsubsection;
+}
+
+a.anchor {
+	color: #085aa2;
+}
+
+a.anchor:hover {
+	color: #085aa2;
+}
+
 /*** Media Queries ***/
 @media screen and (max-width: 1475px) {
 	.container {
@@ -1127,6 +1185,12 @@ textarea {
 	.post__meta {
 		padding: 5px 0;
 	}
+
+	#toccontainer {
+	    width: -webkit-calc(100vw - 42px);
+		width: -moz-calc(100vw - 42px);
+	    width: calc(100vw - 42px);
+	}
 }
 
 @media screen and (max-width: 620px) {
@@ -1164,7 +1228,7 @@ textarea {
 	}
 
 	.post__content ul, .post__content ol {
-		margin: 0 0 20px 20px;
+		margin: 0 0 0 20px;
 	}
 
 	.post__content ul ul, .post__content ol ol {
