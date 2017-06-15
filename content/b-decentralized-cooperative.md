@@ -36,7 +36,7 @@ weight: 70
   <br>
   * **Architecture**<br>
   CoLMTO, developed to conduct my simulation studies, is structured as depicted in the following figure.
-  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
   * **Source code**<br>
   CoLMTO 
   [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto) the build process at [CircleCI](https://circleci.com).<br>
@@ -49,8 +49,9 @@ weight: 70
   * **2017-05-31:** Paper got accepted for publication at EWGT 2017.
 
 * **[LightJason AgentSpeak(L++)](https://lightjason.github.io)** (a joint project with Philipp Kraus)
+  * **2016-10-19:** Our paper [LightJason: A BDI Framework Inspired by Jason](https://lightjason.github.io/publication/2016-eumas.pdf) got accepted for publication at [EUMAS 2016](http://eumas-at2016.webs.upv.es).
   * **2016-11-20:** We published a [technical report about LightJason](https://lightjason.github.io/publication/2016-ifi-techreport.pdf) in the IfI Technical Report Series.
-  * **2016-12-15:** We presented our paper [LightJason: A BDI Framework Inspired by Jason](https://lightjason.github.io/publication/2016-eumas.pdf) at [EUMAS 2016](http://eumas-at2016.webs.upv.es).
+  * **2016-12-15:** We [presented](https://lightjason.github.io/publication/2016-eumas-slides.pdf) our paper at EUMAS 2016.
 
 * **Student Research Projects**
   * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
