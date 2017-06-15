@@ -26,18 +26,27 @@ weight: 70
 
 {{< img src="/images/b-decentralized-cooperative/B21und22_web-neu.jpg" height="180px" >}}
 
-#### B2.1 [Malte Aschermann:](https://github.com/masc) Multiagent-based simulation of co-operative traffic maneuvers
+#### B2.1 [Malte Aschermann:](https://github.com/masc) A mechanism for automatic coordination of cooperative driving manoeuvres: Fairness vs. Efficiency
 
-{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" >}}
+{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" title="Figure: Coordination of vehicles by means of policies" >}}
 
-* **[Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)](https://github.com/SocialCars/colmto)**
-  * [![CircleCI](https://circleci.com/gh/SocialCars/colmto/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/colmto/tree/master)
-[![codecov.io](https://codecov.io/github/SocialCars/colmto/coverage.svg?branch=master)](https://codecov.io/github/SocialCars/colmto)
-  * Source Code Documentation ([HTML](http://socialcars.github.io/colmto/docs/sources/index.html), [PDF](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf))
+* **[Cooperative Lane Management and Traffic flow Optimisation](https://github.com/SocialCars/colmto)**
+  <br>
+  To answer my research questions regarding coordination mechanisms on 2+1 roadways, I developed the platform *Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)*.
+  <br>
+  * **Architecture**<br>
+  CoLMTO, developed to conduct my simulation studies, is structured as depicted in the following figure.
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
-  * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531). Used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
+  * **Source code**<br>
+  CoLMTO 
+  [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto) the build process at [CircleCI](https://circleci.com).<br>
+  Unit tests, asserting the correctness of the code, provide a code coverage of
+  [![codecov badge](https://codecov.io/gh/SocialCars/colmto/branch/master/graph/badge.svg)](https://codecov.io/gh/SocialCars/colmto).<br>
+  The documentation can be [viewed online (html)](http://socialcars.github.io/colmto/docs/sources/index.html) or [downloaded as pdf](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf).
+  * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531).<br>
+  It was used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
   The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways*. The resulting/related dataset is available as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
-  * **2017-05-31:** EWGT 2017 paper accepted for publication \o/
+  * **2017-05-31:** Paper got accepted for publication at EWGT 2017.
 
 * **[LightJason AgentSpeak(L++)](https://lightjason.github.io)** (a joint project with Philipp Kraus)
   * **2016-11-20:** We published a [technical report about LightJason](https://lightjason.github.io/publication/2016-ifi-techreport.pdf) in the IfI Technical Report Series.
