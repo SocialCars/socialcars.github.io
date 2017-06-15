@@ -30,14 +30,14 @@ weight: 70
 
 {{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" title="Figure: Coordination of vehicles by means of policies" >}}
 
-* **[Cooperative Lane Management and Traffic flow Optimisation](https://github.com/SocialCars/colmto)**
+* **[Cooperative Lane Management and Traffic flow Optimisation](https://github.com/SocialCars/colmto/blob/master/readme.md)**
   <br>
   To answer my research questions regarding coordination mechanisms on 2+1 roadways, I developed the platform *Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)*.
   <br>
   * **Architecture**<br>
   CoLMTO, developed to conduct my simulation studies, is structured as depicted in the following figure.
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
-  * **Source code**<br>
+  * **[Source code](https://github.com/SocialCars/colmto)**<br>
   CoLMTO 
   [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto) the build process at [CircleCI](https://circleci.com).<br>
   Unit tests, asserting the correctness of the code, provide a code coverage of
