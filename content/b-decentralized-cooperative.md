@@ -39,7 +39,8 @@ weight: 70
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
   * **[Source code](https://github.com/SocialCars/colmto)**<br>
   CoLMTO 
-  [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto) the build process at [CircleCI](https://circleci.com).<br>
+  [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto)
+  the build process at [CircleCI](https://circleci.com).<br>
   Unit tests, asserting the correctness of the code, provide a code coverage of
   [![codecov badge](https://codecov.io/gh/SocialCars/colmto/branch/master/graph/badge.svg)](https://codecov.io/gh/SocialCars/colmto).<br>
   The documentation can be [viewed online (html)](http://socialcars.github.io/colmto/docs/sources/index.html) or [downloaded as pdf](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf).
