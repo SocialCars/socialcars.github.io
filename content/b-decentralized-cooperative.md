@@ -49,7 +49,7 @@ weight: 70
   The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways*. The resulting/related dataset is available as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
   * **2017-05-31:** Paper got accepted for publication at EWGT 2017.
 
-* **[LightJason AgentSpeak(L++)](https://lightjason.github.io)** (a joint project with Philipp Kraus)
+* **[LightJason AgentSpeak(L++)](https://lightjason.github.io)** (a joint project with [Philipp Kraus](https://github.com/flashpixx))
   * **2016-10-19:** Our paper [LightJason: A BDI Framework Inspired by Jason](https://lightjason.github.io/publication/2016-eumas.pdf) got accepted for publication at [EUMAS 2016](http://eumas-at2016.webs.upv.es).
   * **2016-11-20:** We published a [technical report about LightJason](https://lightjason.github.io/publication/2016-ifi-techreport.pdf) in the IfI Technical Report Series.
   * **2016-12-15:** We [presented](https://lightjason.github.io/publication/2016-eumas-slides.pdf) our paper at EUMAS 2016.
