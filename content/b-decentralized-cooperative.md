@@ -58,9 +58,9 @@ weight: 70
   * **2016-12-15:** We [presented](https://lightjason.github.io/publication/2016-eumas-slides.pdf) our paper at EUMAS 2016.
 
 * **Related student research projects (supervised by me)**
-  * [Platooning models for autonomous vehicles in SUMO](https://github.com/sinziana-sebe/sumo)
-  * [Vehicle following models with social force](https://github.com/TranKhacDat/SocialForceVehicles)
-  * [Agent-based simulation of cooperative driving manoeuvres of autonomous cars](https://github.com/adityaraj52/AgentDrive_BachelorsThesis)
+  * Platooning models for autonomous vehicles in SUMO ([GitHub](https://github.com/sinziana-sebe/sumo))
+  * Vehicle following models with social force ([GitHub](https://github.com/TranKhacDat/SocialForceVehicles))
+  * Agent-based simulation of cooperative driving manoeuvres of autonomous cars ([GitHub](https://github.com/adityaraj52/AgentDrive_BachelorsThesis))
   * Aufdeckung von regelwidrigem Verhalten von Agenten im Verkehrskontext (*Revealing rule-adverse behaviour of agents in traffic context*)
   * Entwicklung eines institutionellen Frameworks für multiagentenbasierte Verkehrssimulationen (*Developing an institutional framework for multiagent-based traffic simulations*)
 
