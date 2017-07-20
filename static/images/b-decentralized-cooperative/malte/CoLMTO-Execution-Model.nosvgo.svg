@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1 -1 1235 271" width="1235pt" height="271pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata> Produced by OmniGraffle 7.4 
-    <dc:date>2017-07-20 16:12:10 +0000</dc:date>
+    <dc:date>2017-07-20 16:24:31 +0000</dc:date>
   </metadata>
   <defs>
     <font-face font-family="Arial" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="530.27344" cap-height="728.02734" ascent="905.2734" descent="-211.91406" font-weight="500">
@@ -56,7 +56,7 @@
       <path d="M 4 17763568e-22 L 194.4252 17763568e-22 C 196.63433 19116276e-22 198.4252 1.790861 198.4252 4 L 198.4252 22.017698 C 198.4252 24.226837 196.63433 26.017698 194.4252 26.017698 L 4 26.017698 C 1.790861 26.017698 17766274e-19 24.226837 17763568e-19 22.017698 L 1777245e-18 4 C 17775156e-19 1.790861 1.790861 -13527075e-23 4 0 Z" fill="#ccc"/>
       <path d="M 4 17763568e-22 L 194.4252 17763568e-22 C 196.63433 19116276e-22 198.4252 1.790861 198.4252 4 L 198.4252 22.017698 C 198.4252 24.226837 196.63433 26.017698 194.4252 26.017698 L 4 26.017698 C 1.790861 26.017698 17766274e-19 24.226837 17763568e-19 22.017698 L 1777245e-18 4 C 17775156e-19 1.790861 1.790861 -13527075e-23 4 0 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
       <text transform="translate(5 4.2471304)" fill="black">
-        <tspan font-family="Arial" font-size="16" font-weight="500" x=".54072285" y="14" textLength="187.653125">CoLMTO Execution Model</tspan>
+        <tspan font-family="Arial" font-size="16" font-weight="500" x=".54072285" y="14" textLength="187.453125">CoLMTO Execution Model</tspan>
       </text>
       <path d="M 12.503937 36.963954 L 560.0945 36.963954 C 562.3036 36.963954 564.0945 38.754815 564.0945 40.963954 L 564.0945 237.00166 C 564.0945 239.2108 562.3036 241.00166 560.0945 241.00166 L 12.503937 241.00166 C 10.294798 241.00166 8.503937 239.2108 8.503937 237.00166 L 8.503937 40.963954 C 8.503937 38.754815 10.294798 36.963954 12.503937 36.963954 Z" fill="white"/>
       <path d="M 12.503937 36.963954 L 560.0945 36.963954 C 562.3036 36.963954 564.0945 38.754815 564.0945 40.963954 L 564.0945 237.00166 C 564.0945 239.2108 562.3036 241.00166 560.0945 241.00166 L 12.503937 241.00166 C 10.294798 241.00166 8.503937 239.2108 8.503937 237.00166 L 8.503937 40.963954 C 8.503937 38.754815 10.294798 36.963954 12.503937 36.963954 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
@@ -262,7 +262,7 @@
         <tspan font-family="Arial" font-size="12" font-weight="500" x="3.8841193" y="11" textLength="8.003906">Y</tspan>
         <tspan font-family="Arial" font-size="12" font-weight="500" x="10.9974" y="11" textLength="24.673828">AML</tspan>
       </text>
-      <path d="M 283.46457 226.82236 L 283.46457 258.00954 L 813.5433 258.00954 L 845.8493 258.00954 L 845.8493 217.8495 L 845.8493 215.8495" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <path d="M 845.8705 258.5378 L 845.8705 246.6378 L 845.8599 232.24365 L 845.8493 217.8495 L 845.8493 215.8495" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
       <line x1="818.2126" y1="113.44261" x2="818.326" y2="148.897" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="826.0067" y1="113.44261" x2="826.6484" y2="143.22995" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="834.5107" y1="113.44261" x2="835.1168" y2="137.56149" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -277,14 +277,15 @@
       <line x1="1150.8661" y1="89.86633" x2="1169.6" y2="89.86633" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 30.883093 74.57991 L 184.49794 74.57991 C 185.6025 74.57991 186.49794 75.47534 186.49794 76.57991 L 186.49794 103.13109 C 186.49794 104.23566 185.6025 105.13109 184.49794 105.13109 L 30.883093 105.13109 C 29.778524 105.13109 28.883093 104.23566 28.883093 103.13109 L 28.883093 76.57991 C 28.883093 75.47534 29.778524 74.57991 30.883093 74.57991 Z" fill="white"/>
       <text transform="translate(33.883093 76.8555)" fill="#9a9a9a">
-        <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="0" y="10" textLength="147.96445">Input of scenario specification </tspan>
+        <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="0" y="10" textLength="147.56445">Input of scenario specification </tspan>
         <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="0" y="23" textLength="132.0752">and simulation preferences</tspan>
       </text>
       <path d="M 36.712897 74.27525 L 28.346457 74.27525 L 28.38972 89.41483 L 28.346457 105.45635 L 36.712897 105.45635" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75"/>
       <path d="M 174.91338 74.27578 L 183.27983 74.27578 L 183.23656 89.41536 L 183.27983 105.45689 L 174.91338 105.45689" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75"/>
-      <path d="M 207.85227 226.82844 L 207.89101 257.6901 L 276.46457 258.00954 L 283.46457 258.00954" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
-      <path d="M 131.31687 226.82845 L 131.35558 257.6333 L 200.89101 257.6901 L 207.89101 257.6901" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <path d="M 207.85227 226.82844 L 207.87855 247.75932 C 207.88545 253.25505 212.32598 257.71533 217.82164 257.7466 L 277.398 258.0856 C 277.41696 258.0857 277.43593 258.08576 277.4549 258.08576 L 284.42645 258.08576" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <path d="M 131.31687 226.82845 L 131.34304 247.65402 C 131.34997 253.16877 135.82012 257.63695 141.33487 257.64145 L 200.88693 257.6901 C 200.88965 257.6901 200.89238 257.6901 200.8951 257.6901 L 207.89101 257.6901" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
       <path d="M 51.04665 226.82845 L 51.085485 257.89597 L 124.35558 257.6333 L 131.35558 257.6333" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <path d="M 284.3875 226.82844 L 284.41402 248.10625 C 284.4209 253.6211 288.89112 258.08935 294.40596 258.0938 L 845.8705 258.5378" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
     </g>
   </g>
 </svg>
