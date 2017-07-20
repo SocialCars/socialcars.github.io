@@ -35,7 +35,7 @@ weight: 70
   To answer my research questions regarding coordination mechanisms on 2+1 roadways, I developed the platform *Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)*.
   <br>
   * **Execution Model**<br>
-  The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure.
+  The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure:
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" %}}
   * **Architecture**<br>
   The software architecture is structured as follows:
