@@ -56,8 +56,7 @@
       <path d="M 4 17763568e-22 L 194.4252 17763568e-22 C 196.63433 19116276e-22 198.4252 1.790861 198.4252 4 L 198.4252 22.017698 C 198.4252 24.226837 196.63433 26.017698 194.4252 26.017698 L 4 26.017698 C 1.790861 26.017698 17766274e-19 24.226837 17763568e-19 22.017698 L 1777245e-18 4 C 17775156e-19 1.790861 1.790861 -13527075e-23 4 0 Z" fill="#ccc"/>
       <path d="M 4 17763568e-22 L 194.4252 17763568e-22 C 196.63433 19116276e-22 198.4252 1.790861 198.4252 4 L 198.4252 22.017698 C 198.4252 24.226837 196.63433 26.017698 194.4252 26.017698 L 4 26.017698 C 1.790861 26.017698 17766274e-19 24.226837 17763568e-19 22.017698 L 1777245e-18 4 C 17775156e-19 1.790861 1.790861 -13527075e-23 4 0 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
       <text transform="translate(5 4.2471304)" fill="black">
-        <tspan font-family="Arial" font-size="16" font-weight="500" x=".54072285" y="14" textLength="52.453125">CoLMT</tspan>
-        <tspan font-family="Arial" font-size="16" font-weight="500" x="52.704785" y="14" textLength="135.17969">O Execution Model</tspan>
+        <tspan font-family="Arial" font-size="16" font-weight="500" x=".54072285" y="14" textLength="187.632815">CoLMTO Execution Model</tspan>
       </text>
       <path d="M 12.503937 36.963954 L 560.0945 36.963954 C 562.3036 36.963954 564.0945 38.754815 564.0945 40.963954 L 564.0945 237.00166 C 564.0945 239.2108 562.3036 241.00166 560.0945 241.00166 L 12.503937 241.00166 C 10.294798 241.00166 8.503937 239.2108 8.503937 237.00166 L 8.503937 40.963954 C 8.503937 38.754815 10.294798 36.963954 12.503937 36.963954 Z" fill="white"/>
       <path d="M 12.503937 36.963954 L 560.0945 36.963954 C 562.3036 36.963954 564.0945 38.754815 564.0945 40.963954 L 564.0945 237.00166 C 564.0945 239.2108 562.3036 241.00166 560.0945 241.00166 L 12.503937 241.00166 C 10.294798 241.00166 8.503937 239.2108 8.503937 237.00166 L 8.503937 40.963954 C 8.503937 38.754815 10.294798 36.963954 12.503937 36.963954 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
@@ -278,8 +277,7 @@
       <line x1="1150.8661" y1="89.86633" x2="1169.6" y2="89.86633" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 30.883093 74.57991 L 184.49794 74.57991 C 185.6025 74.57991 186.49794 75.47534 186.49794 76.57991 L 186.49794 103.13109 C 186.49794 104.23566 185.6025 105.13109 184.49794 105.13109 L 30.883093 105.13109 C 29.778524 105.13109 28.883093 104.23566 28.883093 103.13109 L 28.883093 76.57991 C 28.883093 75.47534 29.778524 74.57991 30.883093 74.57991 Z" fill="white"/>
       <text transform="translate(33.883093 76.8555)" fill="#9a9a9a">
-        <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="0" y="10" textLength="115.56445">Input of scenario specifi</tspan>
-        <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="115.56445" y="10" textLength="32.40918">cation </tspan>
+        <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="0" y="10" textLength="147.97363">Input of scenario specification </tspan>
         <tspan font-family="Helvetica" font-size="11" font-weight="500" fill="#9a9a9a" x="0" y="23" textLength="132.0752">and simulation preferences</tspan>
       </text>
       <path d="M 36.712897 74.27525 L 28.346457 74.27525 L 28.38972 89.41483 L 28.346457 105.45635 L 36.712897 105.45635" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75"/>
