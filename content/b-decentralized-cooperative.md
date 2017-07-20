@@ -28,15 +28,18 @@ weight: 70
 
 #### B2.1 [Malte Aschermann:](https://github.com/masc) A mechanism for automatic coordination of cooperative driving manoeuvres: Fairness vs. Efficiency
 
-{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" title="Figure: Coordination of vehicles by means of policies" >}}
+{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" title="Figure B2.1.1: Coordination of Vehicles by Means of Policies" >}}
 
 * **[Cooperative Lane Management and Traffic flow Optimisation](https://github.com/SocialCars/colmto/blob/master/readme.md)**
   <br>
   To answer my research questions regarding coordination mechanisms on 2+1 roadways, I developed the platform *Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)*.
   <br>
+  * **Execution Model**<br>
+  The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure.
+  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" %}}
   * **Architecture**<br>
-  CoLMTO, developed to conduct my simulation studies, is structured as depicted in the following figure.
-  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
+  The software architecture is structured as follows:
+  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
   * **[Source code](https://github.com/SocialCars/colmto)**<br>
   CoLMTO 
   [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto)

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="132 13 1312 271" width="1312pt" height="271pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.4 
+    <dc:date>2017-07-20 10:10:49 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Arial" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="530.27344" cap-height="728.02734" ascent="905.2734" descent="-211.91406" font-weight="500">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Arial" font-size="14" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="530.27344" cap-height="728.02734" ascent="905.2734" descent="-211.91406" font-weight="500">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Arial" font-size="12" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-105.95703" underline-thickness="73.24219" slope="0" x-height="530.27344" cap-height="728.02734" ascent="905.2734" descent="-211.91406" font-weight="500">
+      <font-face-src>
+        <font-face-name name="ArialMT"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#a5a5a5">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#a5a5a5">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#a5a5a5">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_2" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#a5a5a5">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_3" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Execution Model</title>
+    <rect fill="white" width="1443.2096" height="283.83957"/>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 137.22835 14.173228 L 1438.8346 14.173228 C 1441.0438 14.173228 1442.8346 15.96409 1442.8346 18.173228 L 1442.8346 279.46457 C 1442.8346 281.6737 1441.0438 283.46457 1438.8346 283.46457 L 137.22835 283.46457 C 135.0192 283.46457 133.22835 281.6737 133.22835 279.46457 L 133.22835 18.173228 C 133.22835 15.96409 135.0192 14.173228 137.22835 14.173228 Z" fill="white"/>
+      <path d="M 137.22835 14.173228 L 1438.8346 14.173228 C 1441.0438 14.173228 1442.8346 15.96409 1442.8346 18.173228 L 1442.8346 279.46457 C 1442.8346 281.6737 1441.0438 283.46457 1438.8346 283.46457 L 137.22835 283.46457 C 135.0192 283.46457 133.22835 281.6737 133.22835 279.46457 L 133.22835 18.173228 C 133.22835 15.96409 135.0192 14.173228 137.22835 14.173228 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 137.22835 14.11644 L 766.8583 14.11644 C 769.0674 14.11644 770.8583 15.9073 770.8583 18.11644 L 770.8583 36.13414 C 770.8583 38.343277 769.0674 40.13414 766.8583 40.13414 L 137.22835 40.13414 C 135.0192 40.13414 133.22835 38.343277 133.22835 36.13414 L 133.22835 18.11644 C 133.22835 15.9073 135.0192 14.11644 137.22835 14.11644 Z" fill="#ccc"/>
+      <path d="M 137.22835 14.11644 L 766.8583 14.11644 C 769.0674 14.11644 770.8583 15.9073 770.8583 18.11644 L 770.8583 36.13414 C 770.8583 38.343277 769.0674 40.13414 766.8583 40.13414 L 137.22835 40.13414 C 135.0192 40.13414 133.22835 38.343277 133.22835 36.13414 L 133.22835 18.11644 C 133.22835 15.9073 135.0192 14.11644 137.22835 14.11644 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(138.22835 18.36357)" fill="black">
+        <tspan font-family="Arial" font-size="16" font-weight="500" x="220.1431" y="14" textLength="52.453125">CoLMT</tspan>
+        <tspan font-family="Arial" font-size="16" font-weight="500" x="272.30716" y="14" textLength="135.17969">O Execution Model</tspan>
+      </text>
+      <path d="M 494.3937 51.02362 L 772.6929 51.02362 C 774.90205 51.02362 776.6929 52.81448 776.6929 55.02362 L 776.6929 251.1181 C 776.6929 253.32725 774.90205 255.1181 772.6929 255.1181 L 494.3937 255.1181 C 492.18456 255.1181 490.3937 253.32725 490.3937 251.1181 L 490.3937 55.02362 C 490.3937 52.81448 492.18456 51.02362 494.3937 51.02362 Z" fill="white"/>
+      <path d="M 494.3937 51.02362 L 772.6929 51.02362 C 774.90205 51.02362 776.6929 52.81448 776.6929 55.02362 L 776.6929 251.1181 C 776.6929 253.32725 774.90205 255.1181 772.6929 255.1181 L 494.3937 255.1181 C 492.18456 255.1181 490.3937 253.32725 490.3937 251.1181 L 490.3937 55.02362 C 490.3937 52.81448 492.18456 51.02362 494.3937 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 494.3937 51.02362 L 594.1102 51.02362 C 596.3194 51.02362 598.1102 52.81448 598.1102 55.02362 L 598.1102 68.28346 C 598.1102 70.4926 596.3194 72.28346 594.1102 72.28346 L 494.3937 72.28346 C 492.18456 72.28346 490.3937 70.4926 490.3937 68.28346 L 490.3937 55.02362 C 490.3937 52.81448 492.18456 51.02362 494.3937 51.02362 Z" fill="#e2e2e2"/>
+      <path d="M 494.3937 51.02362 L 594.1102 51.02362 C 596.3194 51.02362 598.1102 52.81448 598.1102 55.02362 L 598.1102 68.28346 C 598.1102 70.4926 596.3194 72.28346 594.1102 72.28346 L 494.3937 72.28346 C 492.18456 72.28346 490.3937 70.4926 490.3937 68.28346 L 490.3937 55.02362 C 490.3937 52.81448 492.18456 51.02362 494.3937 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(495.3937 53.42454)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="1.0067049" y="13" textLength="95.70312">Pre-Processing</tspan>
+      </text>
+      <path d="M 145.73228 51.080393 L 466.5512 51.080393 C 468.7603 51.080393 470.5512 52.871254 470.5512 55.08039 L 470.5512 251.1181 C 470.5512 253.32724 468.7603 255.1181 466.5512 255.1181 L 145.73228 255.1181 C 143.52314 255.1181 141.73228 253.32724 141.73228 251.1181 L 141.73228 55.08039 C 141.73228 52.871254 143.52314 51.080393 145.73228 51.080393 Z" fill="white"/>
+      <path d="M 145.73228 51.080393 L 466.5512 51.080393 C 468.7603 51.080393 470.5512 52.871254 470.5512 55.08039 L 470.5512 251.1181 C 470.5512 253.32724 468.7603 255.1181 466.5512 255.1181 L 145.73228 255.1181 C 143.52314 255.1181 141.73228 253.32724 141.73228 251.1181 L 141.73228 55.08039 C 141.73228 52.871254 143.52314 51.080393 145.73228 51.080393 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 145.73228 51.02362 L 315.0366 51.02362 C 317.24573 51.02362 319.0366 52.81448 319.0366 55.02362 L 319.0366 68.28346 C 319.0366 70.4926 317.24573 72.28346 315.0366 72.28346 L 145.73228 72.28346 C 143.52314 72.28346 141.73228 70.4926 141.73228 68.28346 L 141.73228 55.02362 C 141.73228 52.81448 143.52314 51.02362 145.73228 51.02362 Z" fill="#eaecec"/>
+      <path d="M 145.73228 51.02362 L 315.0366 51.02362 C 317.24573 51.02362 319.0366 52.81448 319.0366 55.02362 L 319.0366 68.28346 C 319.0366 70.4926 317.24573 72.28346 315.0366 72.28346 L 145.73228 72.28346 C 143.52314 72.28346 141.73228 70.4926 141.73228 68.28346 L 141.73228 55.02362 C 141.73228 52.81448 143.52314 51.02362 145.73228 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(146.73228 53.42454)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="68.083306" y="13" textLength="31.137695">Input</tspan>
+      </text>
+      <path d="M 250.61417 80.40649 L 458.04724 80.40649 C 460.2564 80.40649 462.04724 82.19735 462.04724 84.40649 L 462.04724 123.55905 C 462.04724 125.7682 460.2564 127.55905 458.04724 127.55905 L 250.61417 127.55905 C 248.40503 127.55905 246.61417 125.7682 246.61417 123.55905 L 246.61417 84.40649 C 246.61417 82.19735 248.40503 80.40649 250.61417 80.40649 Z" fill="white"/>
+      <path d="M 250.61417 80.40649 L 458.04724 80.40649 C 460.2564 80.40649 462.04724 82.19735 462.04724 84.40649 L 462.04724 123.55905 C 462.04724 125.7682 460.2564 127.55905 458.04724 127.55905 L 250.61417 127.55905 C 248.40503 127.55905 246.61417 125.7682 246.61417 123.55905 L 246.61417 84.40649 C 246.61417 82.19735 248.40503 80.40649 250.61417 80.40649 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(249.61417 87.52477)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="21.830793" y="13" textLength="169.66113">Scenario Specification and </tspan>
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="32.347882" y="29.458008" textLength="144.7373">Simulation Preferences</tspan>
+      </text>
+      <line x1="203.7876" y1="205.15267" x2="310.22667" y2="133.10831" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 543.1676 80.40649 L 701.8268 80.40649 C 704.0359 80.40649 705.8268 82.19735 705.8268 84.40649 L 705.8268 123.55905 C 705.8268 125.7682 704.0359 127.55905 701.8268 127.55905 L 543.1676 127.55905 C 540.95847 127.55905 539.1676 125.7682 539.1676 123.55905 L 539.1676 84.40649 C 539.1676 82.19735 540.95847 80.40649 543.1676 80.40649 Z" fill="white"/>
+      <path d="M 543.1676 80.40649 L 701.8268 80.40649 C 704.0359 80.40649 705.8268 82.19735 705.8268 84.40649 L 705.8268 123.55905 C 705.8268 125.7682 704.0359 127.55905 701.8268 127.55905 L 543.1676 127.55905 C 540.95847 127.55905 539.1676 125.7682 539.1676 123.55905 L 539.1676 84.40649 C 539.1676 82.19735 540.95847 80.40649 543.1676 80.40649 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(542.1676 87.52477)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="8.336906" y="13" textLength="147.875">Configuration and Data </tspan>
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="27.802238" y="29.458008" textLength="105.05469">Model Generator</tspan>
+      </text>
+      <line x1="462.04724" y1="103.98277" x2="529.2676" y2="103.98277" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="182.31734" cy="219.68504" rx="34.91582" ry="18.425226" fill="white"/>
+      <ellipse cx="182.31734" cy="219.68504" rx="34.91582" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(154.38473 212.48875)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="13.925777" y="11" textLength="28.013672">Runs</tspan>
+      </text>
+      <path d="M 286.31774 162.30057 C 286.31774 159.6943 285.8154 159.37184 282.14584 156.79252 L 282.10707 156.76584 C 278.41814 154.15955 278.37977 154.15955 274.59393 154.15955 C 269.553 154.15955 246.7624 154.15955 246.7624 154.15955 L 246.7624 181.6723 L 286.31774 181.6723 L 286.31774 162.30057 Z" fill="white"/>
+      <path d="M 286.31774 162.30057 C 286.31774 159.6943 285.8154 159.37184 282.14584 156.79252 L 282.10707 156.76584 C 278.41814 154.15955 278.37977 154.15955 274.59393 154.15955 C 269.553 154.15955 246.7624 154.15955 246.7624 154.15955 L 246.7624 181.6723 L 286.31774 181.6723 L 286.31774 162.30057 Z M 286.31774 162.16631 C 286.31774 159.6943 286.27897 159.6943 278.37977 159.6943 L 278.37977 159.6943 C 278.37977 154.18652 278.37977 154.15955 274.82572 154.15955" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(246.7624 160.71963)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="3.8841193" y="11" textLength="8.003906">Y</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="10.9974" y="11" textLength="24.673828">AML</tspan>
+      </text>
+      <line x1="617.95275" y1="127.55905" x2="655.22426" y2="172.50316" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="275.48578" y1="204.37845" x2="347.23986" y2="134.46774" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="635.8155" y1="127.55905" x2="665.65525" y2="161.51318" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="686.88425" cy="185.6693" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="686.88425" cy="185.6693" rx="34.915804" ry="18.425226" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <ellipse cx="258.85277" cy="220.58415" rx="34.91582" ry="18.425226" fill="white"/>
+      <ellipse cx="258.85277" cy="220.58415" rx="34.91582" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(230.92016 213.38786)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="4.251949" y="11" textLength="47.36133">Scenario</tspan>
+      </text>
+      <path d="M 340.17585 163.19969 C 340.17585 160.5934 339.6735 160.27096 336.00396 157.69164 L 335.9652 157.66495 C 332.27628 155.05867 332.2379 155.05867 328.4521 155.05867 C 323.41117 155.05867 300.62066 155.05867 300.62066 155.05867 L 300.62066 182.5714 L 340.17585 182.5714 L 340.17585 163.19969 Z" fill="white"/>
+      <path d="M 340.17585 163.19969 C 340.17585 160.5934 339.6735 160.27096 336.00396 157.69164 L 335.9652 157.66495 C 332.27628 155.05867 332.2379 155.05867 328.4521 155.05867 C 323.41117 155.05867 300.62066 155.05867 300.62066 155.05867 L 300.62066 182.5714 L 340.17585 182.5714 L 340.17585 163.19969 Z M 340.17585 163.06543 C 340.17585 160.5934 340.1371 160.5934 332.2379 160.5934 L 332.2379 160.5934 C 332.2379 155.08563 332.2379 155.05867 328.68388 155.05867" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(300.62066 161.61875)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="3.884039" y="11" textLength="8.003906">Y</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="10.99732" y="11" textLength="24.673828">AML</tspan>
+      </text>
+      <line x1="345.76338" y1="202.9873" x2="385.20805" y2="136.0871" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="335.3882" cy="220.58415" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="335.3882" cy="220.58415" rx="34.915804" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(307.4556 206.19157)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="8.584942" y="11" textLength="8.003906">V</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="15.92674" y="11" textLength="34.6875">ehicle </tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="11.924786" y="25.392578" textLength="7.330078">T</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="18.592755" y="25.392578" textLength="25.347656">ypes</tspan>
+      </text>
+      <path d="M 391.19963 163.19969 C 391.19963 160.5934 390.69727 160.27096 387.02772 157.69164 L 386.98896 157.66495 C 383.30003 155.05867 383.26166 155.05867 379.4758 155.05867 C 374.4349 155.05867 351.6443 155.05867 351.6443 155.05867 L 351.6443 182.5714 L 391.19963 182.5714 L 391.19963 163.19969 Z" fill="white"/>
+      <path d="M 391.19963 163.19969 C 391.19963 160.5934 390.69727 160.27096 387.02772 157.69164 L 386.98896 157.66495 C 383.30003 155.05867 383.26166 155.05867 379.4758 155.05867 C 374.4349 155.05867 351.6443 155.05867 351.6443 155.05867 L 351.6443 182.5714 L 391.19963 182.5714 L 391.19963 163.19969 Z M 391.19963 163.06543 C 391.19963 160.5934 391.16086 160.5934 383.26166 160.5934 L 383.26166 160.5934 C 383.26166 155.08563 383.26166 155.05867 379.7076 155.05867" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(351.6443 161.61875)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="3.8841193" y="11" textLength="8.003906">Y</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="10.9974" y="11" textLength="24.673828">AML</tspan>
+      </text>
+      <ellipse cx="681.21496" cy="191.33858" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="681.21496" cy="191.33858" rx="34.915804" ry="18.425226" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <line x1="627.3116" y1="127.55905" x2="660.5989" y2="166.9453" marker-end="url(#FilledArrow_Marker_3)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="675.5457" cy="197.00787" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="675.5457" cy="197.00787" rx="34.915804" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(647.6131 182.6153)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="9.932599" y="11" textLength="36">SUMO</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="8.921856" y="25.392578" textLength="41.35547">Routes </tspan>
+      </text>
+      <line x1="561.8448" y1="127.55905" x2="578.7843" y2="205.87498" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="584.837" cy="233.85827" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="584.837" cy="233.85827" rx="34.915804" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(556.9044 219.4657)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="9.932599" y="11" textLength="39.333984">SUMO </tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="5.927716" y="25.392578" textLength="44.009766">Network</tspan>
+      </text>
+      <path d="M 592.2927 141.62433 C 592.2927 139.01805 591.7904 138.6956 588.1208 136.11628 L 588.08206 136.0896 C 584.3931 133.48332 584.35476 133.48332 580.5689 133.48332 C 575.528 133.48332 552.7374 133.48332 552.7374 133.48332 L 552.7374 160.99605 L 592.2927 160.99605 L 592.2927 141.62433 Z" fill="white"/>
+      <path d="M 592.2927 141.62433 C 592.2927 139.01805 591.7904 138.6956 588.1208 136.11628 L 588.08206 136.0896 C 584.3931 133.48332 584.35476 133.48332 580.5689 133.48332 C 575.528 133.48332 552.7374 133.48332 552.7374 133.48332 L 552.7374 160.99605 L 592.2927 160.99605 L 592.2927 141.62433 Z M 592.2927 141.49007 C 592.2927 139.01805 592.25396 139.01805 584.35476 139.01805 L 584.35476 139.01805 C 584.35476 133.51028 584.35476 133.48332 580.8007 133.48332" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 589.46734 143.45852 C 589.46734 140.85224 588.965 140.52979 585.29544 137.95047 L 585.2567 137.92378 C 581.56774 135.3175 581.5294 135.3175 577.7435 135.3175 C 572.7026 135.3175 549.912 135.3175 549.912 135.3175 L 549.912 162.83024 L 589.46734 162.83024 L 589.46734 143.45852 Z" fill="white"/>
+      <path d="M 589.46734 143.45852 C 589.46734 140.85224 588.965 140.52979 585.29544 137.95047 L 585.2567 137.92378 C 581.56774 135.3175 581.5294 135.3175 577.7435 135.3175 C 572.7026 135.3175 549.912 135.3175 549.912 135.3175 L 549.912 162.83024 L 589.46734 162.83024 L 589.46734 143.45852 Z M 589.46734 143.32425 C 589.46734 140.85224 589.4286 140.85224 581.5294 140.85224 L 581.5294 140.85224 C 581.5294 135.34446 581.5294 135.3175 577.9753 135.3175" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 586.64196 145.2927 C 586.64196 142.68642 586.1396 142.36397 582.47006 139.78465 L 582.4313 139.75796 C 578.74236 137.15168 578.704 137.15168 574.91815 137.15168 C 569.8772 137.15168 547.0866 137.15168 547.0866 137.15168 L 547.0866 164.66442 L 586.64196 164.66442 L 586.64196 145.2927 Z" fill="white"/>
+      <path d="M 586.64196 145.2927 C 586.64196 142.68642 586.1396 142.36397 582.47006 139.78465 L 582.4313 139.75796 C 578.74236 137.15168 578.704 137.15168 574.91815 137.15168 C 569.8772 137.15168 547.0866 137.15168 547.0866 137.15168 L 547.0866 164.66442 L 586.64196 164.66442 L 586.64196 145.2927 Z M 586.64196 145.15844 C 586.64196 142.68642 586.6032 142.68642 578.704 142.68642 L 578.704 142.68642 C 578.704 137.17864 578.704 137.15168 575.14994 137.15168" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(547.0866 143.71176)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="7.44076" y="11" textLength="24.673828">XML</tspan>
+      </text>
+      <path d="M 797.7008 51.02362 L 1127.0236 51.02362 C 1129.2328 51.02362 1131.0236 52.81448 1131.0236 55.02362 L 1131.0236 251.1181 C 1131.0236 253.32725 1129.2328 255.1181 1127.0236 255.1181 L 797.7008 255.1181 C 795.4916 255.1181 793.7008 253.32725 793.7008 251.1181 L 793.7008 55.02362 C 793.7008 52.81448 795.4916 51.02362 797.7008 51.02362 Z" fill="white"/>
+      <path d="M 797.7008 51.02362 L 1127.0236 51.02362 C 1129.2328 51.02362 1131.0236 52.81448 1131.0236 55.02362 L 1131.0236 251.1181 C 1131.0236 253.32725 1129.2328 255.1181 1127.0236 255.1181 L 797.7008 255.1181 C 795.4916 255.1181 793.7008 253.32725 793.7008 251.1181 L 793.7008 55.02362 C 793.7008 52.81448 795.4916 51.02362 797.7008 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 797.7008 51.02362 L 863.4016 51.02362 C 865.6107 51.02362 867.4016 52.81448 867.4016 55.02362 L 867.4016 68.38013 C 867.4016 70.58927 865.6107 72.38013 863.4016 72.38013 L 797.7008 72.38013 C 795.4916 72.38013 793.7008 70.58927 793.7008 68.38013 L 793.7008 55.02362 C 793.7008 52.81448 795.4916 51.02362 797.7008 51.02362 Z" fill="#e2e2e2"/>
+      <path d="M 797.7008 51.02362 L 863.4016 51.02362 C 865.6107 51.02362 867.4016 52.81448 867.4016 55.02362 L 867.4016 68.38013 C 867.4016 70.58927 865.6107 72.38013 863.4016 72.38013 L 797.7008 72.38013 C 795.4916 72.38013 793.7008 70.58927 793.7008 68.38013 L 793.7008 55.02362 C 793.7008 52.81448 795.4916 51.02362 797.7008 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(798.7008 53.47287)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="1.1091825" y="13" textLength="61.48242">Execution</tspan>
+      </text>
+      <path d="M 860.063 161.5748 L 962.0292 161.5748 C 964.2384 161.5748 966.0292 163.36566 966.0292 165.5748 L 966.0292 204.72736 C 966.0292 206.9365 964.2384 208.72736 962.0292 208.72736 L 860.063 208.72736 C 857.8538 208.72736 856.063 206.9365 856.063 204.72736 L 856.063 165.5748 C 856.063 163.36566 857.8538 161.5748 860.063 161.5748 Z" fill="white"/>
+      <path d="M 860.063 161.5748 L 962.0292 161.5748 C 964.2384 161.5748 966.0292 163.36566 966.0292 165.5748 L 966.0292 204.72736 C 966.0292 206.9365 964.2384 208.72736 962.0292 208.72736 L 860.063 208.72736 C 857.8538 208.72736 856.063 206.9365 856.063 204.72736 L 856.063 165.5748 C 856.063 163.36566 857.8538 161.5748 860.063 161.5748 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(859.063 176.92208)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="30.983125" y="13" textLength="42">SUMO</tspan>
+      </text>
+      <path d="M 1015.9685 161.5748 L 1117.9347 161.5748 C 1120.1439 161.5748 1121.9347 163.36566 1121.9347 165.5748 L 1121.9347 204.72736 C 1121.9347 206.9365 1120.1439 208.72736 1117.9347 208.72736 L 1015.9685 208.72736 C 1013.7594 208.72736 1011.9685 206.9365 1011.9685 204.72736 L 1011.9685 165.5748 C 1011.9685 163.36566 1013.7594 161.5748 1015.9685 161.5748 Z" fill="white"/>
+      <path d="M 1015.9685 161.5748 L 1117.9347 161.5748 C 1120.1439 161.5748 1121.9347 163.36566 1121.9347 165.5748 L 1121.9347 204.72736 C 1121.9347 206.9365 1120.1439 208.72736 1117.9347 208.72736 L 1015.9685 208.72736 C 1013.7594 208.72736 1011.9685 206.9365 1011.9685 204.72736 L 1011.9685 165.5748 C 1011.9685 163.36566 1013.7594 161.5748 1015.9685 161.5748 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1014.9685 168.69308)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="12.290254" y="13" textLength="83.27539">Coordination </tspan>
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="9.190156" y="29.458008" textLength="85.58594">Service Entity</tspan>
+      </text>
+      <line x1="966.0292" y1="196.93922" x2="1002.0685" y2="196.93922" marker-end="url(#StickArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <line x1="1011.9685" y1="173.36294" x2="975.9292" y2="173.36294" marker-end="url(#StickArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <path d="M 854.3937 167.2441 L 956.36 167.2441 C 958.5691 167.2441 960.36 169.03495 960.36 171.2441 L 960.36 210.39665 C 960.36 212.6058 958.5691 214.39665 956.36 214.39665 L 854.3937 214.39665 C 852.1846 214.39665 850.3937 212.6058 850.3937 210.39665 L 850.3937 171.2441 C 850.3937 169.03495 852.1846 167.2441 854.3937 167.2441 Z" fill="white"/>
+      <path d="M 854.3937 167.2441 L 956.36 167.2441 C 958.5691 167.2441 960.36 169.03495 960.36 171.2441 L 960.36 210.39665 C 960.36 212.6058 958.5691 214.39665 956.36 214.39665 L 854.3937 214.39665 C 852.1846 214.39665 850.3937 212.6058 850.3937 210.39665 L 850.3937 171.2441 C 850.3937 169.03495 852.1846 167.2441 854.3937 167.2441 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(853.3937 182.59137)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="30.983125" y="13" textLength="42">SUMO</tspan>
+      </text>
+      <path d="M 1010.2992 167.2441 L 1112.2655 167.2441 C 1114.4746 167.2441 1116.2655 169.03495 1116.2655 171.2441 L 1116.2655 210.39665 C 1116.2655 212.6058 1114.4746 214.39665 1112.2655 214.39665 L 1010.2992 214.39665 C 1008.0901 214.39665 1006.2992 212.6058 1006.2992 210.39665 L 1006.2992 171.2441 C 1006.2992 169.03495 1008.0901 167.2441 1010.2992 167.2441 Z" fill="white"/>
+      <path d="M 1010.2992 167.2441 L 1112.2655 167.2441 C 1114.4746 167.2441 1116.2655 169.03495 1116.2655 171.2441 L 1116.2655 210.39665 C 1116.2655 212.6058 1114.4746 214.39665 1112.2655 214.39665 L 1010.2992 214.39665 C 1008.0901 214.39665 1006.2992 212.6058 1006.2992 210.39665 L 1006.2992 171.2441 C 1006.2992 169.03495 1008.0901 167.2441 1010.2992 167.2441 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1009.2992 174.36237)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="12.290254" y="13" textLength="83.27539">Coordination </tspan>
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="9.190156" y="29.458008" textLength="85.58594">Service Entity</tspan>
+      </text>
+      <line x1="960.36" y1="202.60851" x2="996.3992" y2="202.60851" marker-end="url(#StickArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <line x1="1006.2992" y1="179.03223" x2="970.26" y2="179.03223" marker-end="url(#StickArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <line x1="705.8268" y1="103.98277" x2="806.4779" y2="103.98277" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 660.3242 141.62433 C 660.3242 139.01805 659.8219 138.6956 656.1523 136.11628 L 656.11355 136.0896 C 652.4246 133.48332 652.38625 133.48332 648.6004 133.48332 C 643.5595 133.48332 620.7689 133.48332 620.7689 133.48332 L 620.7689 160.99605 L 660.3242 160.99605 L 660.3242 141.62433 Z" fill="white"/>
+      <path d="M 660.3242 141.62433 C 660.3242 139.01805 659.8219 138.6956 656.1523 136.11628 L 656.11355 136.0896 C 652.4246 133.48332 652.38625 133.48332 648.6004 133.48332 C 643.5595 133.48332 620.7689 133.48332 620.7689 133.48332 L 620.7689 160.99605 L 660.3242 160.99605 L 660.3242 141.62433 Z M 660.3242 141.49007 C 660.3242 139.01805 660.28545 139.01805 652.38625 139.01805 L 652.38625 139.01805 C 652.38625 133.51028 652.38625 133.48332 648.8322 133.48332" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 657.4988 143.45852 C 657.4988 140.85224 656.9965 140.52979 653.3269 137.95047 L 653.2882 137.92378 C 649.5992 135.3175 649.5609 135.3175 645.775 135.3175 C 640.7341 135.3175 617.9435 135.3175 617.9435 135.3175 L 617.9435 162.83024 L 657.4988 162.83024 L 657.4988 143.45852 Z" fill="white"/>
+      <path d="M 657.4988 143.45852 C 657.4988 140.85224 656.9965 140.52979 653.3269 137.95047 L 653.2882 137.92378 C 649.5992 135.3175 649.5609 135.3175 645.775 135.3175 C 640.7341 135.3175 617.9435 135.3175 617.9435 135.3175 L 617.9435 162.83024 L 657.4988 162.83024 L 657.4988 143.45852 Z M 657.4988 143.32425 C 657.4988 140.85224 657.4601 140.85224 649.5609 140.85224 L 649.5609 140.85224 C 649.5609 135.34446 649.5609 135.3175 646.0068 135.3175" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 654.67345 145.2927 C 654.67345 142.68642 654.1711 142.36397 650.50155 139.78465 L 650.4628 139.75796 C 646.77386 137.15168 646.7355 137.15168 642.94965 137.15168 C 637.9087 137.15168 615.1181 137.15168 615.1181 137.15168 L 615.1181 164.66442 L 654.67345 164.66442 L 654.67345 145.2927 Z" fill="white"/>
+      <path d="M 654.67345 145.2927 C 654.67345 142.68642 654.1711 142.36397 650.50155 139.78465 L 650.4628 139.75796 C 646.77386 137.15168 646.7355 137.15168 642.94965 137.15168 C 637.9087 137.15168 615.1181 137.15168 615.1181 137.15168 L 615.1181 164.66442 L 654.67345 164.66442 L 654.67345 145.2927 Z M 654.67345 145.15844 C 654.67345 142.68642 654.6347 142.68642 646.7355 142.68642 L 646.7355 142.68642 C 646.7355 137.17864 646.7355 137.15168 643.18144 137.15168" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(615.1181 143.71176)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="7.44076" y="11" textLength="24.673828">XML</tspan>
+      </text>
+      <path d="M 1004.6299 172.91338 L 1106.5962 172.91338 C 1108.8053 172.91338 1110.5962 174.70425 1110.5962 176.91338 L 1110.5962 216.06595 C 1110.5962 218.27509 1108.8053 220.06595 1106.5962 220.06595 L 1004.6299 220.06595 C 1002.4208 220.06595 1000.6299 218.27509 1000.6299 216.06595 L 1000.6299 176.91338 C 1000.6299 174.70425 1002.4208 172.91338 1004.6299 172.91338 Z" fill="white"/>
+      <path d="M 1004.6299 172.91338 L 1106.5962 172.91338 C 1108.8053 172.91338 1110.5962 174.70425 1110.5962 176.91338 L 1110.5962 216.06595 C 1110.5962 218.27509 1108.8053 220.06595 1106.5962 220.06595 L 1004.6299 220.06595 C 1002.4208 220.06595 1000.6299 218.27509 1000.6299 216.06595 L 1000.6299 176.91338 C 1000.6299 174.70425 1002.4208 172.91338 1004.6299 172.91338 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1003.6299 180.03166)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="12.290254" y="13" textLength="83.27539">Coordination </tspan>
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="9.190156" y="29.458008" textLength="85.58594">Service Entity</tspan>
+      </text>
+      <line x1="954.6907" y1="208.2778" x2="990.7299" y2="208.2778" marker-end="url(#StickArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <line x1="1000.6299" y1="184.70153" x2="964.5907" y2="184.70153" marker-end="url(#StickArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
+      <path d="M 820.3779 80.40649 L 1112.8504 80.40649 C 1115.0595 80.40649 1116.8504 82.19735 1116.8504 84.40649 L 1116.8504 123.55905 C 1116.8504 125.7682 1115.0595 127.55905 1112.8504 127.55905 L 820.3779 127.55905 C 818.1688 127.55905 816.3779 125.7682 816.3779 123.55905 L 816.3779 84.40649 C 816.3779 82.19735 818.1688 80.40649 820.3779 80.40649 Z" fill="white"/>
+      <path d="M 820.3779 80.40649 L 1112.8504 80.40649 C 1115.0595 80.40649 1116.8504 82.19735 1116.8504 84.40649 L 1116.8504 123.55905 C 1116.8504 125.7682 1115.0595 127.55905 1112.8504 127.55905 L 820.3779 127.55905 C 818.1688 127.55905 816.3779 125.7682 816.3779 123.55905 L 816.3779 84.40649 C 816.3779 82.19735 818.1688 80.40649 820.3779 80.40649 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(819.3779 95.75377)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="121.17079" y="13" textLength="52.13086">Runtime</tspan>
+      </text>
+      <line x1="872.0709" y1="127.55905" x2="872.1843" y2="163.01344" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="879.865" y1="127.55905" x2="880.5067" y2="157.34639" marker-end="url(#FilledArrow_Marker_3)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="888.3689" y1="127.55905" x2="888.9751" y2="151.67793" marker-end="url(#FilledArrow_Marker_3)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="926.0742" y1="172.91338" x2="925.9608" y2="137.459" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="934.5782" y1="167.2441" x2="933.9365" y2="137.45676" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="943.0821" y1="161.5748" x2="942.476" y2="137.45593" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 619.7528 233.85827 L 805.0394 233.85827 L 805.0394 226.77165 L 805.0394 208.2778 L 832.8244 208.2778 L 834.8244 208.2778" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="716.1301" y1="191.23163" x2="840.4937" y2="190.8507" marker-end="url(#FilledArrow_Marker_3)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="721.7994" y1="185.56234" x2="846.163" y2="185.1814" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="710.46085" y1="196.90092" x2="834.8245" y2="196.52" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <path d="M 848.7244 172.91338 L 950.6907 172.91338 C 952.8998 172.91338 954.6907 174.70425 954.6907 176.91338 L 954.6907 216.06595 C 954.6907 218.27509 952.8998 220.06595 950.6907 220.06595 L 848.7244 220.06595 C 846.5153 220.06595 844.7244 218.27509 844.7244 216.06595 L 844.7244 176.91338 C 844.7244 174.70425 846.5153 172.91338 848.7244 172.91338 Z" fill="white"/>
+      <path d="M 848.7244 172.91338 L 950.6907 172.91338 C 952.8998 172.91338 954.6907 174.70425 954.6907 176.91338 L 954.6907 216.06595 C 954.6907 218.27509 952.8998 220.06595 950.6907 220.06595 L 848.7244 220.06595 C 846.5153 220.06595 844.7244 218.27509 844.7244 216.06595 L 844.7244 176.91338 C 844.7244 174.70425 846.5153 172.91338 848.7244 172.91338 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(847.7244 188.26066)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="30.983125" y="13" textLength="42">SUMO</tspan>
+      </text>
+      <path d="M 1154.8661 51.02362 L 1430.3307 51.02362 C 1432.5398 51.02362 1434.3307 52.81448 1434.3307 55.02362 L 1434.3307 251.1181 C 1434.3307 253.32724 1432.5398 255.1181 1430.3307 255.1181 L 1154.8661 255.1181 C 1152.657 255.1181 1150.8661 253.32724 1150.8661 251.1181 L 1150.8661 55.02362 C 1150.8661 52.81448 1152.657 51.02362 1154.8661 51.02362 Z" fill="white"/>
+      <path d="M 1154.8661 51.02362 L 1430.3307 51.02362 C 1432.5398 51.02362 1434.3307 52.81448 1434.3307 55.02362 L 1434.3307 251.1181 C 1434.3307 253.32724 1432.5398 255.1181 1430.3307 255.1181 L 1154.8661 255.1181 C 1152.657 255.1181 1150.8661 253.32724 1150.8661 251.1181 L 1150.8661 55.02362 C 1150.8661 52.81448 1152.657 51.02362 1154.8661 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <path d="M 1154.8661 51.02362 L 1299.7147 51.02362 C 1301.9238 51.02362 1303.7147 52.81448 1303.7147 55.02362 L 1303.7147 68.28346 C 1303.7147 70.4926 1301.9238 72.28346 1299.7147 72.28346 L 1154.8661 72.28346 C 1152.657 72.28346 1150.8661 70.4926 1150.8661 68.28346 L 1150.8661 55.02362 C 1150.8661 52.81448 1152.657 51.02362 1154.8661 51.02362 Z" fill="#eaecec"/>
+      <path d="M 1154.8661 51.02362 L 1299.7147 51.02362 C 1301.9238 51.02362 1303.7147 52.81448 1303.7147 55.02362 L 1303.7147 68.28346 C 1303.7147 70.4926 1301.9238 72.28346 1299.7147 72.28346 L 1154.8661 72.28346 C 1152.657 72.28346 1150.8661 70.4926 1150.8661 68.28346 L 1150.8661 55.02362 C 1150.8661 52.81448 1152.657 51.02362 1154.8661 51.02362 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1155.8661 53.42454)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="50.4106" y="13" textLength="42.027344">Output</tspan>
+      </text>
+      <path d="M 1203.0551 80.40649 L 1370.8031 80.40649 C 1373.0123 80.40649 1374.8031 82.19735 1374.8031 84.40649 L 1374.8031 123.55905 C 1374.8031 125.7682 1373.0123 127.55905 1370.8031 127.55905 L 1203.0551 127.55905 C 1200.846 127.55905 1199.0551 125.7682 1199.0551 123.55905 L 1199.0551 84.40649 C 1199.0551 82.19735 1200.846 80.40649 1203.0551 80.40649 Z" fill="white"/>
+      <path d="M 1203.0551 80.40649 L 1370.8031 80.40649 C 1373.0123 80.40649 1374.8031 82.19735 1374.8031 84.40649 L 1374.8031 123.55905 C 1374.8031 125.7682 1373.0123 127.55905 1370.8031 127.55905 L 1203.0551 127.55905 C 1200.846 127.55905 1199.0551 125.7682 1199.0551 123.55905 L 1199.0551 84.40649 C 1199.0551 82.19735 1200.846 80.40649 1203.0551 80.40649 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1202.0551 95.75377)" fill="black">
+        <tspan font-family="Arial" font-size="14" font-weight="500" x="56.86718" y="13" textLength="56.01367">Statistics</tspan>
+      </text>
+      <path d="M 1286.9291 127.55905 C 1286.9291 127.55906 1293.1695 157.8975 1267.2163 184.25197 C 1257.7561 193.85841 1245.64 201.28893 1234.0611 206.85343" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="1195.3205" cy="220.58415" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="1195.3205" cy="220.58415" rx="34.915804" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1167.3879 213.38786)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x=".48142665" y="11" textLength="7.330078">T</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="7.366192" y="11" textLength="48.01758">ime Loss</tspan>
+      </text>
+      <ellipse cx="1288.3464" cy="219.68504" rx="49.60638" ry="18.425226" fill="white"/>
+      <ellipse cx="1288.3464" cy="219.68504" rx="49.60638" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1248.6614 212.48875)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="1.0043751" y="11" textLength="77.36133">Dissatisfaction</tspan>
+      </text>
+      <ellipse cx="1383.6898" cy="218.78592" rx="37.23313" ry="18.425226" fill="white"/>
+      <ellipse cx="1383.6898" cy="218.78592" rx="37.23313" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1353.9033 211.58963)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="1.1077461" y="11" textLength="57.35742">Unfairness</tspan>
+      </text>
+      <line x1="1287.328" y1="177.74896" x2="1287.6587" y2="191.3635" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 1286.9291 127.55905 C 1286.9291 127.55906 1279.3589 164.07623 1306.7716 189.92126 C 1316.0671 198.6851 1327.9029 204.82442 1339.4873 209.1114" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 1306.7716 158.37724 C 1306.7716 155.77096 1306.2693 155.4485 1302.5997 152.86919 L 1302.561 152.8425 C 1298.872 150.23622 1298.8337 150.23622 1295.0478 150.23622 C 1290.0069 150.23622 1267.2163 150.23622 1267.2163 150.23622 L 1267.2163 177.74896 L 1306.7716 177.74896 L 1306.7716 158.37724 Z" fill="white"/>
+      <path d="M 1306.7716 158.37724 C 1306.7716 155.77096 1306.2693 155.4485 1302.5997 152.86919 L 1302.561 152.8425 C 1298.872 150.23622 1298.8337 150.23622 1295.0478 150.23622 C 1290.0069 150.23622 1267.2163 150.23622 1267.2163 150.23622 L 1267.2163 177.74896 L 1306.7716 177.74896 L 1306.7716 158.37724 Z M 1306.7716 158.24298 C 1306.7716 155.77096 1306.7329 155.77096 1298.8337 155.77096 L 1298.8337 155.77096 C 1298.8337 150.26318 1298.8337 150.23622 1295.2796 150.23622" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(1267.2163 156.7963)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="4.109705" y="11" textLength="31.335938">HDF5</tspan>
+      </text>
+      <line x1="1116.8504" y1="103.98277" x2="1189.1551" y2="103.98277" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <ellipse cx="411.9236" cy="219.68504" rx="34.915804" ry="18.425226" fill="white"/>
+      <ellipse cx="411.9236" cy="219.68504" rx="34.915804" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(383.991 205.29246)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="11.927716" y="11" textLength="35.34375">Policy </tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="12.592755" y="25.392578" textLength="30.679688">Rules</tspan>
+      </text>
+      <line x1="414.7579" y1="201.32027" x2="424.6317" y2="137.34322" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 442.07503 163.19969 C 442.07503 160.5934 441.5727 160.27096 437.90313 157.69164 L 437.86436 157.66495 C 434.17543 155.05867 434.13706 155.05867 430.3512 155.05867 C 425.3103 155.05867 402.5197 155.05867 402.5197 155.05867 L 402.5197 182.5714 L 442.07503 182.5714 L 442.07503 163.19969 Z" fill="white"/>
+      <path d="M 442.07503 163.19969 C 442.07503 160.5934 441.5727 160.27096 437.90313 157.69164 L 437.86436 157.66495 C 434.17543 155.05867 434.13706 155.05867 430.3512 155.05867 C 425.3103 155.05867 402.5197 155.05867 402.5197 155.05867 L 402.5197 182.5714 L 442.07503 182.5714 L 442.07503 163.19969 Z M 442.07503 163.06543 C 442.07503 160.5934 442.03627 160.5934 434.13706 160.5934 L 434.13706 160.5934 C 434.13706 155.08563 434.13706 155.05867 430.583 155.05867" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(402.5197 161.61875)" fill="black">
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="3.8841193" y="11" textLength="8.003906">Y</tspan>
+        <tspan font-family="Arial" font-size="12" font-weight="500" x="10.9974" y="11" textLength="24.673828">AML</tspan>
+      </text>
+      <path d="M 411.0236 238.10416 L 411.0236 269.29134 L 411.0236 272.12598 L 1023.3071 272.12598 L 1055.613 272.12598 L 1055.613 231.96595 L 1055.613 229.96595" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="1027.9764" y1="127.55905" x2="1028.0898" y2="163.01344" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="1035.7705" y1="127.55905" x2="1036.4122" y2="157.34639" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="1044.2745" y1="127.55905" x2="1044.8806" y2="151.67793" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="1081.9797" y1="172.91338" x2="1081.8663" y2="137.459" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="1090.4837" y1="167.2441" x2="1089.842" y2="137.45676" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="1098.9876" y1="161.5748" x2="1098.3815" y2="137.45593" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
