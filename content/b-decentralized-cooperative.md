@@ -40,13 +40,12 @@ weight: 70
   * **Architecture**<br>
   The software architecture is structured as follows:
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
-  * **[Source code](https://github.com/SocialCars/colmto)**<br>
-  CoLMTO 
-  [![CircleCI badge](https://circleci.com/gh/SocialCars/colmto.svg?style=badge)](https://circleci.com/gh/SocialCars/colmto)
-  the build process at [CircleCI](https://circleci.com).<br>
-  Unit tests, asserting the correctness of the code, provide a code coverage of
-  [![codecov badge](https://codecov.io/gh/SocialCars/colmto/branch/master/graph/badge.svg)](https://codecov.io/gh/SocialCars/colmto).<br>
-  The documentation can be [viewed online (html)](http://socialcars.github.io/colmto/docs/sources/index.html) or [downloaded as pdf](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf).
+  * **[Source code](https://github.com/SocialCars/colmto) Statistics**<br>
+  [![license](https://img.shields.io/github/license/SocialCars/colmto.svg)](https://github.com/SocialCars/colmto/blob/master/license.md)
+  [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/colmto.svg)](https://circleci.com/gh/SocialCars/colmto)
+  [![Codecov](https://img.shields.io/codecov/c/github/SocialCars/colmto.svg)](https://codecov.io/gh/SocialCars/colmto)
+  [![Codacy](https://img.shields.io/codacy/7219fdeb9df44627bf66e4966e02dafd.svg)](https://www.codacy.com/app/masc/socialcars_colmto)
+  * The documentation can be [viewed online (html)](http://socialcars.github.io/colmto/docs/sources/index.html) or [downloaded as pdf](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf).
   * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531).<br>
   It was used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
   The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways*. The resulting/related dataset is available as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
