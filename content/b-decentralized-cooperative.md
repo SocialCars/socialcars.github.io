@@ -42,8 +42,8 @@ weight: 70
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
   * **[Source Code](https://github.com/SocialCars/colmto) Statistics**<br>
   [![license](https://img.shields.io/github/license/SocialCars/colmto.svg)](https://github.com/SocialCars/colmto/blob/master/license.md)<br><br>
-  [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/colmto.svg?label=current build status)](https://circleci.com/gh/SocialCars/colmto)
-  [![Codecov](https://img.shields.io/codecov/c/github/SocialCars/colmto.svg?label=test coverage)](https://codecov.io/gh/SocialCars/colmto)
+  [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/colmto.svg?label=current build status)](https://circleci.com/gh/SocialCars/colmto)&nbsp;
+  [![Codecov](https://img.shields.io/codecov/c/github/SocialCars/colmto.svg?label=test coverage)](https://codecov.io/gh/SocialCars/colmto)&nbsp;
   [![Codacy](https://img.shields.io/codacy/7219fdeb9df44627bf66e4966e02dafd.svg)](https://www.codacy.com/app/masc/socialcars_colmto)<br><br>
   [![html documentation](https://img.shields.io/badge/documentation-HTML-blue.svg)](http://socialcars.github.io/colmto/docs/sources/index.html)
   [![pdf documentation](https://img.shields.io/badge/documentation-PDF-blue.svg)](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf)<br><br>
