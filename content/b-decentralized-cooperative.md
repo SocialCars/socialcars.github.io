@@ -64,7 +64,12 @@ weight: 70
   * Aufdeckung von regelwidrigem Verhalten von Agenten im Verkehrskontext (*Revealing rule-adverse behaviour of agents in traffic context*)
   * Entwicklung eines institutionellen Frameworks für multiagentenbasierte Verkehrssimulationen (*Developing an institutional framework for multiagent-based traffic simulations*)
 
-  
+* **Attended Conferences, etc.**
+  * **2016-12-15:** [EUMAS 2016, Valencia, 14th European Conference On Multi-Agent Systems](http://eumas-at2016.webs.upv.es)
+  * **2016-06-02:** [SECURITY 2016, Braunschweig](https://www.tu-braunschweig.de/tubsdigital/veranstaltungen/security2016/index.html)
+  * **2015-07-06:** [EASSS 2015, Barcelona, 17th European Agent Systems Summer School](http://www.iiia.csic.es/easss2015/)
+  * **2015-05-31:** [9th Joint Workshop of the German Research Training Groups in Computer Science, Dagstuhl 2015](http://www.dagstuhl.de/en/program/calendar/evhp/?semnr=15232)
+  * **2015-02-12:** [AAET](https://www.its-automotive-nord.de/AAET/) [2015](https://www.its-automotive-nord.de/download/AAET/aaet_2015_programm.pdf)
   
 
 #### B2.2 [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
