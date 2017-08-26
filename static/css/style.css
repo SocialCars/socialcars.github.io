@@ -124,7 +124,7 @@ body {
 }
 
 /*** Animation ***/
-.menu__item, .tags__item, .widget__link--taglist, .btn {
+.menu__item, .githublogo, .tags__item, .widget__link--taglist, .btn {
 	-webkit-transition: 0.25s ease-out;
 	-moz-transition: 0.25s ease-out;
 	transition: 0.25s ease-out;
@@ -514,7 +514,7 @@ select {
 	border-top: 1px solid #c72445;
 }
 
-.menu__item {
+.menu__item, .githublogo {
 	-webkit-transition: 0.25s ease-out;
 	-moz-transition: 0.25s ease-out;
 	transition: 0.25s ease-out;
@@ -525,13 +525,27 @@ select {
 	color: #085aa2;
 }
 
+.githublogo:hover {
+	background: #c72445;
+	color: #085aa2;
+}
+
 .menu__item--active {
 	background: #c72445;
 	color: #085aa2;
 }
 
-.menu__item:first-child {
+.menu__item:first-child, .githublogo:first-child {
 	border: none;
+}
+
+.githublogo {
+	max-height: 40px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	margin: 0;
 }
 
 @media screen and (min-width: 767px) {
@@ -552,7 +566,7 @@ select {
 		min-height: 42px;
 	}
 
-	.menu__item {
+	.menu__item, .githublogo {
 		float: left;
 		position: relative;
 	}
