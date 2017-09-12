@@ -47,6 +47,7 @@ weight: 70
   [![Codacy](https://img.shields.io/codacy/7219fdeb9df44627bf66e4966e02dafd.svg)](https://www.codacy.com/app/masc/socialcars_colmto)<br><br>
   [![html documentation](https://img.shields.io/badge/documentation-HTML-blue.svg)](http://socialcars.github.io/colmto/docs/sources/index.html)
   [![pdf documentation](https://img.shields.io/badge/documentation-PDF-blue.svg)](http://socialcars.github.io/colmto/docs/CoLMTO-doc.pdf)<br><br>
+  * **2017-09-05:** [Presented paper](http://easychair.org/smart-program/EWGT2017/2017-09-05.html#talk:47210) at EWGT 2017.
   * **2017-05-31:** Paper got accepted for publication at EWGT 2017.
   * **2017-04-06:** [Released v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1) of CoLMTO, referenced as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801531.svg)](https://doi.org/10.5281/zenodo.801531).<br>
   It was used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
@@ -65,6 +66,7 @@ weight: 70
   * Entwicklung eines institutionellen Frameworks für multiagentenbasierte Verkehrssimulationen (*Developing an institutional framework for multiagent-based traffic simulations*)
 
 * **Attended Conferences, etc.**
+  * **2017-09-04:** [EWGT 2017, Budapest, 20th EURO Working Group on Transportation Meeting](http://ewgt2017.bme.hu)
   * **2016-12-15:** [EUMAS 2016, Valencia, 14th European Conference On Multi-Agent Systems](http://eumas-at2016.webs.upv.es)
   * **2016-06-02:** [SECURITY 2016, Braunschweig](https://www.tu-braunschweig.de/tubsdigital/veranstaltungen/security2016/index.html)
   * **2015-07-06:** [EASSS 2015, Barcelona, 17th European Agent Systems Summer School](http://www.iiia.csic.es/easss2015/)
