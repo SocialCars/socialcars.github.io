@@ -1134,14 +1134,19 @@ textarea {
 }
 
 .toc-h3 {
-    margin-left: 1em;
+    margin-left: 1.5em;
     counter-increment: subsection;
     counter-reset: subsubsection;
 }
 
 .toc-h4 {
-    margin-left: 2em;
+    margin-left: 3em;
     counter-increment: subsubsection;
+}
+
+.toc-h5 {
+    margin-left: 4.5em;
+    counter-increment: subsubsubsection;
 }
 
 a.anchor {
