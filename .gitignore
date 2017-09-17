@@ -21,4 +21,5 @@
 !*.txt
 !*.ico
 !*.graffle
+!*.json
 public/**

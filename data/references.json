@@ -1,0 +1,214 @@
+[
+  {
+    "author": [
+      {
+        "family": "Aschermann",
+        "given": "Malte"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "20th euro working group on transportation meeting conf., ewgt 2017, budapest, hungary, 2017",
+    "id": "Aschermann+2017ewgt",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "note": "Accepted, to appear",
+    "page": "tbd",
+    "publisher": "Transportation Research Procedia",
+    "title": "Towards fair and efficient traffic flow coordination mechanisms for 2+1 roadways",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Aschermann",
+        "given": "Malte"
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "collection-title": "Lecture notes in computer science",
+    "container-title": "Multi-Agent Systems and Agreement Technologies: 14th Europ. Conf., EUMAS 2016, and 4rd int. Conf., AT 2016, Valencia, Spain, 2016",
+    "id": "Kraus+2017eumas",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "58-66",
+    "publisher": "Springer International Publishing",
+    "title": "LightJason: A BDI Framework inspired by Jason",
+    "title-short": "LightJason",
+    "type": "paper-conference",
+    "volume": "10207"
+  },
+  {
+    "URL": "https://www.in.tu-clausthal.de/fileadmin/homes/techreports/ifi1604aschermann.pdf",
+    "author": [
+      {
+        "family": "Aschermann",
+        "given": "Malte"
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "genre": "IfI Technical Report Series",
+    "id": "Kraus+2016ifijason",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "number": "IfI-16-04",
+    "publisher": "Department of Informatics, Clausthal University of Technology",
+    "title": "LightJason: A BDI Framework Inspired by Jason",
+    "title-short": "LightJason",
+    "type": "report"
+  },
+  {
+    "URL": "http://ceur-ws.org/Vol-1678/paper15.pdf",
+    "author": [
+      {
+        "family": "Dennisen",
+        "given": "Sophie"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "Proc. 9th international workshop on agents in traffic and transport (att 2016) at ijcai 2016",
+    "editor": [
+      {
+        "family": "Bazzan",
+        "given": "A. L. C."
+      },
+      {
+        "family": "Klügl",
+        "given": "F"
+      },
+      {
+        "family": "Ossowski",
+        "given": "S."
+      },
+      {
+        "family": "Vizzari",
+        "given": "G."
+      }
+    ],
+    "id": "DennisenMueller2016att",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "note": "Electronic proceedings",
+    "page": "1-8",
+    "publisher": "CEUR",
+    "publisher-place": "New York, USA",
+    "title": "Iterative committee elections for collective decision-making in a ride-sharing application",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1504/IJAOSE.2016.10001873",
+    "author": [
+      {
+        "family": "Ahlbrecht",
+        "given": "Tobias"
+      },
+      {
+        "family": "Dix",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Fiekas",
+        "given": "Niklas"
+      },
+      {
+        "family": "Köster",
+        "given": "Michael"
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "[International Journal of Agent-Oriented Software Engineering (IJAOSE)]{.nocase}",
+    "id": "Ahlbrecht+2016ijaose",
+    "issue": "2/3",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "232-265",
+    "title": "An architecture for scalable simulation of systems of cognitive agents",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "http://dx.doi.org/10.1016/j.trpro.2014.10.085",
+    "ISSN": "2352-1465",
+    "URL": "http://www.sciencedirect.com/science/article/pii/S2352146514002488",
+    "author": [
+      {
+        "family": "Axer",
+        "given": "Steffen"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "container-title": "Transportation Research Procedia",
+    "id": "AXER20141051",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "keyword": "level of service estimation",
+    "page": "1051 - 1058",
+    "title": "Level of service estimation based on low-frequency floating car data",
+    "type": "article-journal",
+    "volume": "3"
+  }
+]
