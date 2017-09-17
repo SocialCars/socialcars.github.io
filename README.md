@@ -6,3 +6,22 @@
 
 * **Important:** Only push changes to THIS branch. Changes pushed to the `master` branch will be overwritten when CircleCI re-deploys the website.
 
+## Usage & Tools
+
+* [Hugo](https://gohugo.io/)
+* [Pandoc-Citeproc](http://pandoc.org/)
+* [SVGO](https://github.com/svg/svgo)
+
+### Bibliographie
+
+The bibliography is located ```data/references.bib``` as an UTF-8 encoded [Bibtex](http://www.bibtex.org/) file.
+You will have to manually onvert it into [BibJSON](http://okfnlabs.org/bibjson/) after changing the Bibtex file with
+
+```
+pandoc-citeproc --bib2json static/references.bib > data/references.json
+```
+
+#### Additional BibTeX Feature
+
+* a key ```URL``` in a BibTex entry, pointing to a PDF file will create a download link on the publication list
+* a key ```Note``` can reference a comment file, e.g. for the value named ```foo``` a file under ```content/publications/foo.md``` must exist with additional comments
