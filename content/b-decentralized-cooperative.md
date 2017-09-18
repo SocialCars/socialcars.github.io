@@ -55,6 +55,7 @@ To answer my research questions regarding coordination mechanisms on 2+1 roadway
   It was used for simulating *satisfaction*, *fairness* and *efficiency* on 2+1 roadways.
   The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways*. The resulting/related dataset is available as [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495742.svg)](https://doi.org/10.5281/zenodo.495742).
 
+<br>
 
 ##### **LightJason/AgentSpeak(L++)**
 
