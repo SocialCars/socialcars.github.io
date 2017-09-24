@@ -140,75 +140,31 @@
     "type": "paper-conference"
   },
   {
-    "DOI": "10.1504/IJAOSE.2016.10001873",
     "author": [
       {
-        "family": "Ahlbrecht",
-        "given": "Tobias"
-      },
-      {
-        "family": "Dix",
-        "given": "Jürgen"
-      },
-      {
-        "family": "Fiekas",
-        "given": "Niklas"
-      },
-      {
-        "family": "Köster",
-        "given": "Michael"
-      },
-      {
-        "family": "Kraus",
-        "given": "Philipp"
+        "family": "Dennisen",
+        "given": "S."
       },
       {
         "family": "Müller",
-        "given": "Jörg P."
+        "given": "J. P."
       }
     ],
-    "container-title": "[International Journal of Agent-Oriented Software Engineering (IJAOSE)]{.nocase}",
-    "id": "Ahlbrecht+2016ijaose",
-    "issue": "2/3",
+    "collection-title": "Lecture notes in artificial intelligence",
+    "container-title": "Proceedings of the 13th german conference of multiagent system technologies (mates 2015)",
+    "id": "DennisenMueller2015mates",
     "issued": {
       "date-parts": [
         [
-          2016
+          2015
         ]
       ]
     },
-    "page": "232-265",
-    "title": "An architecture for scalable simulation of systems of cognitive agents",
-    "type": "article-journal",
-    "volume": "5"
-  },
-  {
-    "DOI": "http://dx.doi.org/10.1016/j.trpro.2014.10.085",
-    "ISSN": "2352-1465",
-    "URL": "http://www.sciencedirect.com/science/article/pii/S2352146514002488",
-    "author": [
-      {
-        "family": "Axer",
-        "given": "Steffen"
-      },
-      {
-        "family": "Friedrich",
-        "given": "Bernhard"
-      }
-    ],
-    "container-title": "Transportation Research Procedia",
-    "id": "AXER20141051",
-    "issued": {
-      "date-parts": [
-        [
-          2014
-        ]
-      ]
-    },
-    "keyword": "level of service estimation",
-    "page": "1051 - 1058",
-    "title": "Level of service estimation based on low-frequency floating car data",
-    "type": "article-journal",
-    "volume": "3"
+    "page": "200-217",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Cottbus, Germany",
+    "title": "Agent-based voting architecture for traffic applications",
+    "type": "paper-conference",
+    "volume": "9433"
   }
 ]
