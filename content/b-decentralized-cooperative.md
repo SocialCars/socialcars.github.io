@@ -10,7 +10,7 @@ weight: 70
 
 ## Research field B: (De-&#x2060;)centralized cooperative traffic management
 
-Research field B put emphases on key models and key methods of (de-)centralized cooperative traffic management which are investigated in the research areas _(De-)centralized cooperative traffic management (B1)_ and _Distributed intelligent and cooperative systems (B2)_.
+Research field B put emphases on key models and key methods of (de-&#x2060)centralized cooperative traffic management which are investigated in the research areas _(De-&#x2060)centralized cooperative traffic management (B1)_ and _Distributed intelligent and cooperative systems (B2)_.
 
 <br>
 

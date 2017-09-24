@@ -10,7 +10,7 @@ weight: 60
 
 ## Research field C: Technological drivers/factors
 
-Research Field C concentrates on technological drivers and factors such as innovative information and communication services and focuses on _Car-to-X communication (C1)_ and _Dynamic maps and map services (C2)_. These technological factors provide general information and functions for (de-)centralized cooperative traffic management.
+Research Field C concentrates on technological drivers and factors such as innovative information and communication services and focuses on _Car-to-X communication (C1)_ and _Dynamic maps and map services (C2)_. These technological factors provide general information and functions for (de-&#x2060)centralized cooperative traffic management.
 
 <br>
 

@@ -10,7 +10,7 @@ weight: 80
 
 ## Research field A: Psychological and economic drivers/factors
 
-The research areas _The human factor in cooperative traffic systems (A1)_ and _Efficient operations in intermodal transportation systems (A2)_ focus psychological and economic drivers and factors of (de-)centralized cooperative traffic management.
+The research areas _The human factor in cooperative traffic systems (A1)_ and _Efficient operations in intermodal transportation systems (A2)_ focus psychological and economic drivers and factors of (de-&#x2060)centralized cooperative traffic management.
 
 <br>
 
