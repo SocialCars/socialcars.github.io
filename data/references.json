@@ -166,5 +166,59 @@
     "title": "Agent-based voting architecture for traffic applications",
     "type": "paper-conference",
     "volume": "9433"
+  },
+  {
+    "author": [
+      {
+        "family": "Baumeister",
+        "given": "Dorothea"
+      },
+      {
+        "family": "Dennisen",
+        "given": "Sophie"
+      }
+    ],
+    "container-title": "Proceedings of the 2015 international conference on autonomous agents and multiagent systems",
+    "id": "baumeister2015voter",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1707-1708",
+    "publisher": "International Foundation for Autonomous Agents; Multiagent Systems",
+    "title": "Voter dissatisfaction in committee elections",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Baumeister",
+        "given": "Dorothea"
+      },
+      {
+        "family": "Dennisen",
+        "given": "Sophie"
+      },
+      {
+        "family": "Rey",
+        "given": "Lisa"
+      }
+    ],
+    "container-title": "International conference on algorithmic decisiontheory",
+    "id": "baumeister2015winner",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "469-485",
+    "publisher": "Springer",
+    "title": "Winner determination and manipulation in minisum and minimax committee elections",
+    "type": "paper-conference"
   }
 ]
