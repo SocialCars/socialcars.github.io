@@ -12,10 +12,10 @@
 * [Pandoc-Citeproc](http://pandoc.org/)
 * [SVGO](https://github.com/svg/svgo)
 
-### Bibliographie
+### Bibliography
 
 The bibliography is located ```data/references.bib``` as an UTF-8 encoded [Bibtex](http://www.bibtex.org/) file.
-You will have to manually onvert it into [BibJSON](http://okfnlabs.org/bibjson/) after changing the Bibtex file with
+You will have to manually convert it into [BibJSON](http://okfnlabs.org/bibjson/) after changing the Bibtex file with
 
 ```
 pandoc-citeproc --bib2json static/references.bib > data/references.json
