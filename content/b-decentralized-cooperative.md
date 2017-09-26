@@ -108,11 +108,31 @@ Our goal is to provide researchers a scalable platform to simulate multi-agent e
 
 #### B2.2 [Sophie Dennisen:](https://github.com/sdennisen) Collective Decision-Making Mechanisms in Urban Traffic
 
+
 ##### LightVoting
 
-* **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
+To answer my research questions regarding the suitability of different voting mechanisms for collective decision making in urban traffic, I developed the simulation tool [LightVoting](https://github.com/SocialCars/LightVoting) which is based on [LightJason](https://lightjason.github.io/) developed by my colleagues Philipp Kraus and Malte Aschermann.
+
+<br>
+**[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
+
   * [![CircleCI](https://circleci.com/gh/SocialCars/LightVoting/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/LightVoting/tree/master)
   * [![html documentation](https://img.shields.io/badge/documentation-HTML-blue.svg)](http://socialcars.github.io/LightVoting/sources/index.html)
+
+<br>
+
+##### Activities
+
+* **2017-09-04:** Attended [EWGT 2017, Budapest, 20th EURO Working Group on Transportation Meeting](http://ewgt2017.bme.hu).
+* **2017-06-15:** Co-authored paper [Location- and time-dependent meeting point recommendations for shared interurban rides](https://arxiv.org/abs/1709.08489) submitted to [JLBS](http://www.tandfonline.com/toc/tlbs20/current)
+* **2016-12-15:** Attended [EUMAS 2016](http://eumas-at2016.webs.upv.es). 
+* **2016-07-10:** Presented paper [Iterative committee elections for collective decision-making in a ride-sharing application](http://ceur-ws.org/Vol-1678/paper15.pdf) at [ATT 2016](http://www.ia.urjc.es/att2016/)
+* **2016-06-02:** Attended [SECURITY 2016](https://www.tu-braunschweig.de/tubsdigital/veranstaltungen/security2016/index.html).
+* **2015-09-28:** Presented paper [Agent-Based Voting Architecture for Traffic Applications](https://link.springer.com/chapter/10.1007/978-3-319-27343-3_11) at [MATES 2015](http://www.wikicfp.com/cfp/servlet/ event.showcfp?eventid=48009&copyownerid=78177) and attended Doctoral Consortium of MATES 2015 with talk "Voting in Traffic Applications".
+* **2015-07-06:** Attended [EASSS 2015](http://www.iiia.csic.es/easss2015/).
+* **2015-05-06:** Presented poster [Voter dissatisfaction in committee elections](http://www.aamas-conference.org/Proceedings/aamas2015/aamas/p1707.pdf) at [AAMAS 2015](http://www.aamas-conference.org/AAMAS/aamas2015/)
+* **2015-04-26:** Co-authored paper [Winner Determination and Manipulation in Minisum and Minimax Committee Elections](https://link.springer.com/chapter/10.1007/978-3-319-23114-3_28) which was accepted for publication at [ADT 2015](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42271&copyownerid=72673).
+* **2015-02-12:** Attended [AAET 2015](https://www.its-automotive-nord.de/download/AAET/aaet_2015_programm.pdf).
 
 <br>
 
