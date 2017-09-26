@@ -39,13 +39,20 @@ Research field B put emphases on key models and key methods of (de-&#x2060)centr
 
 To answer my research questions regarding coordination mechanisms on 2+1 roadways, I developed the platform [*Cooperative Lane Management and Traffic flow Optimisation (CoLMTO)*](https://github.com/SocialCars/colmto/blob/master/readme.md).
 
-* **Execution Model**<br>
+<br>
+
+**Execution Model**<br>
   The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure:
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" %}}
-* **Architecture**<br>
+
+<br>
+**Architecture**<br>
   The software architecture is structured as follows:
   {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
-* **[Source Code](https://github.com/SocialCars/colmto) Statistics**
+
+<br>
+**[Source Code](https://github.com/SocialCars/colmto) Statistics**
+
   * [![license](https://img.shields.io/github/license/SocialCars/colmto.svg)](https://github.com/SocialCars/colmto/blob/master/license.md)
   * [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/colmto.svg?label=current build status)](https://circleci.com/gh/SocialCars/colmto)&nbsp;
   [![Codecov](https://img.shields.io/codecov/c/github/SocialCars/colmto.svg?label=test coverage)](https://codecov.io/gh/SocialCars/colmto)&nbsp;
