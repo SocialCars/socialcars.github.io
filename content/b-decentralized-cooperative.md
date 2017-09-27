@@ -119,7 +119,7 @@ Our goal is to provide researchers a scalable platform to simulate multi-agent e
 
 In my research, I consider an intraurban (future) scenario where visitors of a city form travel groups at pre-defined locations and need to agree on locations to visit together. 
 
-{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B221-1.png" title="Figure B2.2.1: Phases for Collective Decision Making in urban traffic" width="600px" align="left" %}}
+{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B221-1.png" title="Figure B2.2.1: Phases for Collective Decision Making in urban traffic" align="left" %}}
 
 
 ##### LightVoting
@@ -131,13 +131,13 @@ To answer my research questions regarding the suitability of different voting me
 **Execution Model**<br>
   The following figure depicts the execution model of LightVoting:
   
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="600px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" align="left" %}}
 
 <br>
 **Simulation Architecture**<br>
   The following figure gives an overview of the LightVoting simulation architecture:
 
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="600px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" align="left" %}}
 
 <br>
 **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
