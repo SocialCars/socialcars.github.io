@@ -131,13 +131,13 @@ To answer my research questions regarding the suitability of different voting me
 **Execution Model**<br>
   The following figure depicts the execution model of LightVoting:
   
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="800px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" %}}
 
 <br>
 **Simulation Architecture**<br>
   The following figure gives an overview of the LightVoting simulation architecture:
 
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="800px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="540px" align="left" %}}
 
 <br>
 **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
