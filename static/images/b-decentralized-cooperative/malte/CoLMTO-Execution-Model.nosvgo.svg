@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1 310 1235 272" width="1235pt" height="272pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata> Produced by OmniGraffle 7.4.2 
-    <dc:date>2017-08-29 07:45:55 +0000</dc:date>
-  </metadata>
   <defs>
     <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="500">
       <font-face-src>
@@ -79,8 +76,7 @@
       <path d="M 344.15748 378.10108 L 526.07874 378.10108 C 528.2879 378.10108 530.07874 379.89194 530.07874 382.10108 L 530.07874 421.25257 C 530.07874 423.4617 528.2879 425.25257 526.07874 425.25257 L 344.15748 425.25257 C 341.94834 425.25257 340.15748 423.4617 340.15748 421.25257 L 340.15748 382.10108 C 340.15748 379.89194 341.94834 378.10108 344.15748 378.10108 Z" fill="white"/>
       <path d="M 344.15748 378.10108 L 526.07874 378.10108 C 528.2879 378.10108 530.07874 379.89194 530.07874 382.10108 L 530.07874 421.25257 C 530.07874 423.4617 528.2879 425.25257 526.07874 425.25257 L 344.15748 425.25257 C 341.94834 425.25257 340.15748 423.4617 340.15748 421.25257 L 340.15748 382.10108 C 340.15748 379.89194 341.94834 378.10108 344.15748 378.10108 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(343.15748 380.17283)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="19.95163" y="17" textLength="42.66">Confi</tspan>
-        <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="62.61163" y="17" textLength="106.362">guration and </tspan>
+        <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="19.95163" y="17" textLength="148.66">Configuration and </tspan>
         <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="5.4436294" y="38.504" textLength="173.034">data model generator</tspan>
       </text>
       <line x1="238.11024" y1="401.6773" x2="330.25748" y2="401.67687" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -142,8 +138,7 @@
       <path d="M 787.21175 459.2694 L 897.4173 459.2694 C 899.6265 459.2694 901.4173 461.06025 901.4173 463.2694 L 901.4173 502.42195 C 901.4173 504.6311 899.6265 506.42195 897.4173 506.42195 L 787.21175 506.42195 C 785.0026 506.42195 783.21175 504.6311 783.21175 502.42195 L 783.21175 463.2694 C 783.21175 461.06025 785.0026 459.2694 787.21175 459.2694 Z" fill="white"/>
       <path d="M 787.21175 459.2694 L 897.4173 459.2694 C 899.6265 459.2694 901.4173 461.06025 901.4173 463.2694 L 901.4173 502.42195 C 901.4173 504.6311 899.6265 506.42195 897.4173 506.42195 L 787.21175 506.42195 C 785.0026 506.42195 783.21175 504.6311 783.21175 502.42195 L 783.21175 463.2694 C 783.21175 461.06025 785.0026 459.2694 787.21175 459.2694 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(786.21175 466.45367)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="15.782782" y="13" textLength="30.842">Coor</tspan>
-        <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="46.37278" y="13" textLength="53.942">dination </tspan>
+        <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="15.782782" y="13" textLength="83.842">Coordination </tspan>
         <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="13.325782" y="29.392" textLength="85.554">Service Entity</tspan>
       </text>
       <line x1="736.4229" y1="494.6338" x2="773.31175" y2="494.6338" marker-end="url(#StickArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
@@ -156,8 +151,7 @@
       <path d="M 781.1177 464.9387 L 891.3232 464.9387 C 893.5324 464.9387 895.3232 466.72954 895.3232 468.9387 L 895.3232 508.09124 C 895.3232 510.3004 893.5324 512.09124 891.3232 512.09124 L 781.1177 512.09124 C 778.9085 512.09124 777.1177 510.3004 777.1177 508.09124 L 777.1177 468.9387 C 777.1177 466.72954 778.9085 464.9387 781.1177 464.9387 Z" fill="white"/>
       <path d="M 781.1177 464.9387 L 891.3232 464.9387 C 893.5324 464.9387 895.3232 466.72954 895.3232 468.9387 L 895.3232 508.09124 C 895.3232 510.3004 893.5324 512.09124 891.3232 512.09124 L 781.1177 512.09124 C 778.9085 512.09124 777.1177 510.3004 777.1177 508.09124 L 777.1177 468.9387 C 777.1177 466.72954 778.9085 464.9387 781.1177 464.9387 Z" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(780.1177 472.12296)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="15.782782" y="13" textLength="30.842">Coor</tspan>
-        <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="46.37278" y="13" textLength="53.942">dination </tspan>
+        <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="15.782782" y="13" textLength="83.842">Coordination </tspan>
         <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" x="13.325782" y="29.392" textLength="85.554">Service Entity</tspan>
       </text>
       <line x1="730.75365" y1="500.3031" x2="767.2177" y2="500.3031" marker-end="url(#StickArrow_Marker)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
@@ -166,8 +160,7 @@
       <path d="M 775.0236 470.60797 L 885.2292 470.60797 C 887.4383 470.60797 889.2292 472.3988 889.2292 474.60797 L 889.2292 513.7605 C 889.2292 515.96967 887.4383 517.7605 885.2292 517.7605 L 775.0236 517.7605 C 772.8145 517.7605 771.0236 515.96967 771.0236 513.7605 L 771.0236 474.60797 C 771.0236 472.3988 772.8145 470.60797 775.0236 470.60797 Z" fill="white"/>
       <path d="M 775.0236 470.60797 L 885.2292 470.60797 C 887.4383 470.60797 889.2292 472.3988 889.2292 474.60797 L 889.2292 513.7605 C 889.2292 515.96967 887.4383 517.7605 885.2292 517.7605 L 775.0236 517.7605 C 772.8145 517.7605 771.0236 515.96967 771.0236 513.7605 L 771.0236 474.60797 C 771.0236 472.3988 772.8145 470.60797 775.0236 470.60797 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(774.0236 472.68025)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="4.2627823" y="17" textLength="39.654">Coor</tspan>
-        <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="43.59278" y="17" textLength="69.354">dination </tspan>
+        <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="4.2627823" y="17" textLength="110.654">Coordination </tspan>
         <tspan font-family="Helvetica Neue" font-size="18" font-weight="500" x="1.1037823" y="38.504" textLength="109.998">Service Entity</tspan>
       </text>
       <line x1="725.0844" y1="505.9724" x2="761.1236" y2="505.9724" marker-end="url(#StickArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
@@ -219,8 +212,7 @@
       <ellipse cx="1176.378" cy="505.1419" rx="45.354403" ry="18.425226" fill="white"/>
       <ellipse cx="1176.378" cy="505.1419" rx="45.354403" ry="18.425226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(1138.0945 495.9179)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".284" y="15" textLength="42.656">Unfair</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="43.228" y="15" textLength="33.488">ness</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x=".284" y="15" textLength="75.656">Unfairness</tspan>
       </text>
       <line x1="1060.9288" y1="460.77417" x2="1061.1706" y2="477.717" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 1057.3228 425.25364 C 1057.3228 425.25364 1063.279 453.6445 1097.0079 476.27726 C 1106.8956 482.9121 1117.807 488.1375 1128.2922 492.2096" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -248,16 +240,13 @@
       <circle cx="221.10236" cy="401.67736" r="17.007902" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <line x1="204.0954" y1="401.85485" x2="182.82406" y2="402.07685" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="miter" stroke-width="1" stroke-dasharray="1,3"/>
       <circle cx="1197.258" cy="401.67736" r="17.007902" fill="white"/>
-      <circle cx="1197.258" cy="401.67736" r="17.007902" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="1197.258" cy="401.67736" r="17.007902" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
       <line x1="1133.8583" y1="401.67736" x2="1170.35" y2="401.67736" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 13.932716 378.07525 L 184.43487 378.07525 C 185.53944 378.07525 186.43487 378.97068 186.43487 380.07525 L 186.43487 425.5044 C 186.43487 426.60895 185.53944 427.5044 184.43487 427.5044 L 13.932716 427.5044 C 12.828147 427.5044 11.932716 426.60895 11.932716 425.5044 L 11.932716 380.07525 C 11.932716 378.97068 12.828147 378.07525 13.932716 378.07525 Z" fill="white"/>
       <text transform="translate(16.932716 375.1178)" fill="#9a9a9a">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="0" y="15" textLength="124.464">Input of scenario </tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="0" y="33.448" textLength="46.512">specifi</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="46.512" y="33.448" textLength="79.728">cation and </tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="0" y="51.895996" textLength="92.176">simulation pr</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="91.888" y="51.895996" textLength="27.248">efer</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="118.848" y="51.895996" textLength="42.672">ences</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="0" y="33.448" textLength="126.512">specification and </tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#9a9a9a" x="0" y="51.895996" textLength="162.176">simulation preferences</tspan>
       </text>
       <path d="M 20.601428 377.58234 L 11.338583 377.58234 L 11.38648 402.07685 L 11.338583 430.8653 L 20.601428 430.8653" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 173.60911 377.58234 L 182.87196 377.58234 L 182.82406 402.07685 L 182.87196 430.8653 L 173.60911 430.8653" stroke="#8a8a8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
@@ -270,15 +259,13 @@
       <ellipse cx="63.77953" cy="523.0205" rx="52.44103" ry="21.231482" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(21.826772 504.5725)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="1.3527557" y="15" textLength="85.648">Experiment </tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="19.880756" y="33.448" textLength="34.96">confi</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="54.840756" y="33.448" textLength="9.184">g</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="19.880756" y="33.448" textLength="43.96">config</tspan>
       </text>
       <ellipse cx="167.2441" cy="523.0205" rx="42.519753" ry="21.231482" fill="white"/>
       <ellipse cx="167.2441" cy="523.0205" rx="42.519753" ry="21.231482" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <text transform="translate(133.22835 504.5725)" fill="black">
         <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="2.4637478" y="15" textLength="63.104">Scenario</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="11.943748" y="33.448" textLength="34.96">confi</tspan>
-        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="46.90375" y="33.448" textLength="9.184">g</tspan>
+        <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" x="11.943748" y="33.448" textLength="43.96">config</tspan>
       </text>
       <ellipse cx="250.34882" cy="523.0205" rx="34.915804" ry="21.231482" fill="white"/>
       <ellipse cx="250.34882" cy="523.0205" rx="34.915804" ry="21.231482" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
