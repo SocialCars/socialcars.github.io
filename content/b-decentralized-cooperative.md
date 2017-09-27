@@ -13,7 +13,6 @@ next :
     url: "/c-technological-drivers/"
     text: "Research field C"
 ---
----
 
 ## Research field B: (De-&#x2060;)centralized cooperative traffic management
 

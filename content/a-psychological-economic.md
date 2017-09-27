@@ -13,7 +13,6 @@ next :
     url: "/b-decentralized-cooperative/"
     text: "Research field B"
 ---
----
 
 ## Research field A: Psychological and economic drivers/factors
 
