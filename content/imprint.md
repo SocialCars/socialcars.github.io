@@ -1,6 +1,12 @@
 ---
 title: Imprint
 date: 2017-05-20
+previous :
+    url: "/sitemap/"
+    text: "Sitemap"
+next :
+    url: "/"
+    text: "Home"
 ---
 
 ## Imprint

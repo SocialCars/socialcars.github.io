@@ -763,6 +763,29 @@ select {
 }
 
 /*** Pagination ***/
+.sitepagination {
+    border: 1px solid #B1B4B6;
+    margin-top: 1.5em;
+    margin-bottom: 1.25em;
+    padding: 0.15em;
+    background-color: #eee;
+    font-size: 80%;
+    text-align: center;
+    margin-left: 2.5%;
+    width: 95%;
+    overflow: hidden;
+}
+
+.sitepagination .left {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.sitepagination .right {
+    display: inline-block;
+    margin-left: 1em;
+}
+
 .pagination {
 	margin-top: 20px;
 }

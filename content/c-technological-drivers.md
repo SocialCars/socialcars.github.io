@@ -6,6 +6,12 @@ menu:
     name: "Research field C"
     weight: 60
 weight: 60
+previous :
+    url: "/b-decentralized-cooperative/"
+    text: "Research field B"
+next :
+    url: "/interdisciplinary-research/"
+    text: "Interdisciplinary Research"
 ---
 
 ## Research field C: Technological drivers/factors

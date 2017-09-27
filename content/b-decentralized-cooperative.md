@@ -6,6 +6,13 @@ menu:
     name: "Research field B"
     weight: 70
 weight: 70
+previous :
+    url: "/a-psychological-economic/"
+    text: "Research field A"
+next :
+    url: "/c-technological-drivers/"
+    text: "Research field C"
+---
 ---
 
 ## Research field B: (De-&#x2060;)centralized cooperative traffic management

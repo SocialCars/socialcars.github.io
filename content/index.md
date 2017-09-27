@@ -5,6 +5,12 @@ linktitle: Home
 menu: main
 weight: 100
 type: homepage
+previous :
+    url: "/imprint/"
+    text: "Imprint"
+next :
+    url: "/a-psychological-economic/"
+    text: "Research field A"
 ---
 
 # SocialCars: Development and Documentation

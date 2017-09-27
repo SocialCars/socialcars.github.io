@@ -24,4 +24,24 @@ jQuery(function() {
     jQuery("h2,h3,h4,h5,h6").filter("[id]").each(function () {
         jQuery(this).html( "<a class=\"anchor\" href=\"#" + jQuery(this).attr("id") + "\">" + jQuery(this).html() + "</a>" );
     });
+
+    /**
+     * swipe-left to go to the next page
+     */
+    if (window.innerWidth <= 766)
+        jQuery("body").hammer().bind("swipeleft", function(){
+            var lc = jQuery(this).data("nextpage");
+            if (lc)
+                window.location.href = lc;
+        });
+
+    /**
+     * swipe-right to got to the previous page
+     */
+    if (window.innerWidth <= 766)
+        jQuery("body").hammer().bind("swiperight", function(){
+            var lc = jQuery(this).data("previouspage");
+            if (lc)
+                window.location.href = lc;
+        });
 });

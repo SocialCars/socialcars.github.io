@@ -6,6 +6,13 @@ menu:
     name: "Research field A"
     weight: 80
 weight: 80
+previous :
+    url: "/"
+    text: "Home"
+next :
+    url: "/b-decentralized-cooperative/"
+    text: "Research field B"
+---
 ---
 
 ## Research field A: Psychological and economic drivers/factors

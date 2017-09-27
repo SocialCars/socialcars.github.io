@@ -6,6 +6,12 @@ menu:
     name: "Interdisciplinary Research"
     weight: 50
 weight: 50
+previous :
+    url: "/c-technological-drivers/"
+    text: "Research field C"
+next :
+    url: "/sitemap/"
+    text: "Sitemap"
 ---
 
 ## Interdisciplinary Research
