@@ -148,7 +148,8 @@ To answer my research questions regarding the suitability of different voting me
 <br>
 **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
 
-  * [![CircleCI](https://circleci.com/gh/SocialCars/LightVoting/tree/master.svg?style=shield)](https://circleci.com/gh/SocialCars/LightVoting/tree/master)
+  * [![license](https://img.shields.io/badge/license-GNU Lesser General Public License v3.0-blue.svg)](https://github.com/SocialCars/LightVoting/blob/master/LICENSE.md)
+  * [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/LightVoting.svg?label=current build status)](https://circleci.com/gh/SocialCars/LightVoting)
   * [![html documentation](https://img.shields.io/badge/documentation-HTML-blue.svg)](http://socialcars.github.io/LightVoting/sources/index.html)
 
 <br>
