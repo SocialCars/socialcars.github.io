@@ -10,8 +10,8 @@ previous :
     url: "/c-technological-drivers/"
     text: "Research field C"
 next :
-    url: "/sitemap/"
-    text: "Sitemap"
+    url: "/publications/"
+    text: "Publications"
 ---
 
 ## Interdisciplinary Research
@@ -29,10 +29,3 @@ This project is a joint cooperative work within the SocialCars Research Training
 <br>
 
 **Researcher:** Dr. Matthias Rybarsch, Malte Aschermann, Fabian Bock, Anne Goralzik, Felix Köster, Madlen Ringhand, Aleksandar Trifunovic
-
-<br>
-
-#### Documentation
-
-
-#### Source Code

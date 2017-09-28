@@ -481,7 +481,9 @@ select {
 .menu__list {
 	margin: 0;
 	padding: 0;
-	width: 100%;
+	width: -webkit-calc(100vw - 90px);
+	width: -moz-calc(100vw - 90px);
+    width: calc(100vw - 90px);
 	display: block;
 	list-style: none;
 }
@@ -508,7 +510,7 @@ select {
 
 .menu--collapse.opened {
 	max-height: 9999px;
-	min-height: 253px;
+	min-height: 295px;
 }
 
 .opened.menu__list {
@@ -1384,6 +1386,17 @@ a.anchor:hover {
 		bottom: 45px;
 		width: 250px;
 	}
+	.githublogo {
+		position: absolute;
+        top: auto;
+        right: 0;
+        vertical-align: top;
+        text-align: right;
+        float: right;
+	}
+}
+
+@media screen and (max-width: 766px) {
 	.githublogo {
 		position: relative;
         top: auto;
