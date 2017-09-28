@@ -230,8 +230,8 @@
       <circle cx="1561.1645" cy="619.3701" r="1.4173251" fill="black"/>
       <circle cx="1561.1645" cy="619.3701" r="1.4173251" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
       <path d="M 1547.65 629.2913 C 1547.65 629.2913 1550.7859 634.1183 1555.0161 634.1183 C 1559.2464 634.1183 1562.5818 629.2913 1562.5818 629.2913" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-      <line x1="961.5276" y1="711.0039" x2="1041.9346" y2="711.0039" marker-end="url(#FilledArrow_Marker_4)" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
-      <line x1="1267.8346" y1="711.0039" x2="1318.5606" y2="711.0039" marker-end="url(#FilledArrow_Marker_4)" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line x1="986.5276" y1="711.0039" x2="1041.9346" y2="711.0039" marker-end="url(#FilledArrow_Marker_4)" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line x1="1282.8346" y1="711.0039" x2="1318.5606" y2="711.0039" marker-end="url(#FilledArrow_Marker_4)" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
       <path d="M 1437.1653 723.5039 L 1437.1653 756.8504 L 861.0276 756.8504 L 861.0276 742.4039" marker-end="url(#FilledArrow_Marker_4)" stroke="#003776" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
     </g>
   </g>
