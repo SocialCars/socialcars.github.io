@@ -1405,6 +1405,9 @@ a.anchor:hover {
         text-align: right;
         float: left;
 	}
+	.menu__list {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 590px) {
@@ -1424,6 +1427,9 @@ a.anchor:hover {
         text-align: right;
         float: left;
 	}
+	.menu__list {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 480px) {
@@ -1440,6 +1446,9 @@ a.anchor:hover {
         vertical-align: top;
         text-align: right;
         float: left;
+	}
+	.menu__list {
+		width: 100%;
 	}
 }
 
@@ -1459,12 +1468,18 @@ a.anchor:hover {
         text-align: right;
         float: left;
 	}
+	.menu__list {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 243px) {
 	.menu--collapse.opened {
 		max-height: 9999px;
 		min-height: 275px;
+	}
+	.menu__list {
+		width: 100%;
 	}
 }
 
@@ -1479,6 +1494,9 @@ a.anchor:hover {
         vertical-align: top;
         text-align: right;
         float: left;
+	}
+	.menu__list {
+		width: 100%;
 	}
 }
 
