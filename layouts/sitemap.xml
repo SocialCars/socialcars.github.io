@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {{- range .Data.Pages -}}
+  {{- range .Site.RegularPages -}}
   <url>
-    <loc>{{- partialCached "domainlink" (dict "content" . "path" .RelPermalink) -}}</loc>
+    <loc>{{ .Permalink }}</loc>
     {{- if not .Date.IsZero -}}<lastmod>{{- safeHTML ( .Date.Format "2006-01-02" ) -}}</lastmod>{{- end -}}
     {{- with .Sitemap.ChangeFreq -}}<changefreq>{{- . -}}</changefreq>{{- end -}}
     {{- if ge .Sitemap.Priority 0.0 -}}<priority>{{- .Sitemap.Priority -}}</priority>{{- end -}}
