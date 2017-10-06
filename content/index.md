@@ -1,5 +1,5 @@
 ---
-title: Home
+title: SocialCars
 date: 2017-05-15
 linktitle: Home
 menu: main

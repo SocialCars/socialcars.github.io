@@ -1,5 +1,5 @@
 ---
-title: Sitemap
+title: "Sitemap - SocialCars"
 date: 2017-05-21
 previous :
     url: "/publications/"

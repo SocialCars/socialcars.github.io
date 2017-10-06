@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: "Imprint - SocialCars"
 date: 2017-05-20
 previous :
     url: "/sitemap/"

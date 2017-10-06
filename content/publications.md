@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications - SocialCars"
 date: 2017-09-28
 menu:
   main:

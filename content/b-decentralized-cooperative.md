@@ -1,5 +1,5 @@
 ---
-title: "Research field B: (De-)centralized cooperative traffic management"
+title: "Research field B: (De-)centralized cooperative traffic management - SocialCars"
 date: 2017-05-17
 menu:
   main:
