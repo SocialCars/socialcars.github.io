@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
+{{ with .Site.Params.bingverify -}}<meta name="msvalidate.01" content="{{- . -}}" />{{- end }}
+{{ with .Site.Params.googleverify -}}<meta name="google-site-verification" content="{{- . -}}" />{{- end }}
+{{ with .Site.Params.metadescription -}}<meta name="description" content="{{- . -}}">{{- end }}
+{{ with .Site.Params.keywords -}}<meta name="keywords" content="{{- . -}}">{{- end }}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ .Title }}</title>

@@ -2,9 +2,13 @@
 baseURL: "https://socialcars.github.io/"
 title: "SocialCars"
 footnoteReturnLinkContents: "↩"
-languageCode: "en-us"
+languageCode: "en-GB"
+defaultContentLanguage: "en-GB"
 paginate: 10
 theme: "mainroad"
+enableEmoji: true
+enableRobotsTXT: true
+
 # permalinks:
 #   post: /:year/:month/:title/
 params:
@@ -15,6 +19,8 @@ params:
     name : "socialcars.github.io"
   subtitle: "Cooperative (de-&#x2060;)centralized traffic management"
   description: "DFG Research Training Group 1931"
+  metadescription: "The focus of SocialCars is on significantly improving future urban road traffic, through cooperative approaches. “How can individual travelers make optimal use of the transport infrastructure, so that safety is increased and congestion and pollution are reduced?” is the key question. SocialCars aims to answer this question by investigating the interaction between centralized (system-optimal) management and decentralized (user-optimal) decisions of traffic participants."
+  googleverify: "rVgMp8wUHt7-Xvhp2bhVQC_8dklPQGZ16VRqyrumqvE"
   opengraph: true
   leftsidebar: false # Move sidebar to the left side if true
   hidesidebar: true
