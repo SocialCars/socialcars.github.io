@@ -1,5 +1,37 @@
 [
   {
+    "author": [
+      {
+        "family": "Akselrod",
+        "given": "M."
+      },
+      {
+        "family": "Becker",
+        "given": "N."
+      },
+      {
+        "family": "Fidler",
+        "given": "M."
+      },
+      {
+        "family": "Lübben",
+        "given": "R."
+      }
+    ],
+    "container-title": "IEEE vtc fall",
+    "genre": "Conference Proceedings",
+    "id": "RN189",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "4G lte on the road – what impacts download speeds most?",
+    "type": "paper-conference"
+  },
+  {
     "URL": "http://winf.in.tu-clausthal.de/winf/publications/2017/AschermannFriedrichMuellerEWGT2017.pdf",
     "author": [
       {
@@ -65,6 +97,780 @@
     "volume": "10207"
   },
   {
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "Bao",
+        "given": "Y.",
+        "suffix": "L. Li"
+      }
+    ],
+    "container-title": "96th annual meeting of transportation research board",
+    "genre": "Conference Proceedings",
+    "id": "RN93",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Reduction potential of greenhouse gas and pollutant emissions from road transportation sector by various measures in china",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthauer",
+        "given": "Mirko"
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "container-title": "SUMO user conference 2017: Berichte aus dem dlr-institut für verkehrssystemtechnik",
+    "genre": "Conference Proceedings",
+    "id": "RN182",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "143-152",
+    "publisher": "DLR Berlin",
+    "title": "External signal control: Integrating lisa+ into sumo",
+    "title-short": "External signal control",
+    "type": "paper-conference",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Attanasio",
+        "given": "Yuri"
+      },
+      {
+        "family": "Di Martino",
+        "given": "S."
+      }
+    ],
+    "collection-title": "Series spatio-temporal road coverage of probe vehicles: A case study on crowd-sensing of parking availability with taxis",
+    "genre": "Conference Paper",
+    "id": "RN85",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "165-184",
+    "publisher": "Springer International Publishing",
+    "title": "Spatio-temporal road coverage of probe vehicles: A case study on crowd-sensing of parking availability with taxis",
+    "title-short": "Spatio-temporal road coverage of probe vehicles",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Xia",
+        "given": "K."
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "collection-title": "Series mapping similarities in temporal parking occupancy behavior based on city-wide parking meter data",
+    "genre": "Conference Paper",
+    "id": "RN99",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Mapping similarities in temporal parking occupancy behavior based on city-wide parking meter data",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Czioska",
+        "given": "Paul"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "collection-title": "Series gis-based identification and assessment of suitable meeting point locations for ride-sharing",
+    "genre": "Conference Paper",
+    "id": "RN38",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "314-324",
+    "title": "GIS-based identification and assessment of suitable meeting point locations for ride-sharing",
+    "type": "no-type",
+    "volume": "22"
+  },
+  {
+    "URL": "https://arxiv.org/abs/1709.08489v1",
+    "author": [
+      {
+        "family": "Czioska",
+        "given": "Paul"
+      },
+      {
+        "family": "Trifunović",
+        "given": "Aleksandar"
+      },
+      {
+        "family": "Dennisen",
+        "given": "Sophie"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "genre": "Journal Article",
+    "id": "RN97",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Location- and time-dependent meeting point recommendations for shared interurban rides",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Czioska",
+        "given": "Paul"
+      },
+      {
+        "family": "Trifunović",
+        "given": "Aleksandar"
+      },
+      {
+        "family": "Kutadinata",
+        "given": "R."
+      },
+      {
+        "family": "Winter",
+        "given": "S."
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "https://arxiv.org/abs/1709.08488v1 \\[physics.soc-ph\\]",
+    "genre": "Journal Article",
+    "id": "RN104",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Real-world meeting points for shared demand-responsive transportation systems",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiosina",
+        "given": "J."
+      },
+      {
+        "family": "Fiosins",
+        "given": "M."
+      }
+    ],
+    "container-title": "Applied Computational Intelligence and Soft Computing",
+    "genre": "Journal Article",
+    "id": "RN185",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1-12",
+    "title": "Distributed nonparametric and semiparametric regression on spark for big data forecasting",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrosi",
+        "given": "Mehdi Tavakoli"
+      },
+      {
+        "family": "Kalac",
+        "given": "Marcel"
+      },
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      }
+    ],
+    "container-title": "IEEE icnc workshop cnc",
+    "genre": "Conference Proceedings",
+    "id": "RN81",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "IEEE",
+    "title": "Geo-routing in urban vehicular ad-hoc networks: A literature review",
+    "title-short": "Geo-routing in urban vehicular ad-hoc networks",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrosi",
+        "given": "Mehdi Tavakoli"
+      },
+      {
+        "family": "Xiang",
+        "given": "Xi"
+      },
+      {
+        "family": "Noroozi",
+        "given": "Mohsen"
+      }
+    ],
+    "container-title": "IEEE vtc fall workshop on networked vehicles for intelligent transportation and smart grids (netv)",
+    "genre": "Conference Proceedings",
+    "id": "RN101",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Loop-free enhanced intersection-based perimeter geo-routing with carry-and-forward for urban vanets",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.trpro.2017.05.400",
+    "author": [
+      {
+        "family": "Goralzik",
+        "given": "Anne"
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "collection-title": "Series the effects of road, driver, and passenger presence on drivers’ choice of speed: A driving simulator study",
+    "genre": "Conference Paper",
+    "id": "RN16",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "2061-2075",
+    "title": "The effects of road, driver, and passenger presence on drivers’ choice of speed: A driving simulator study",
+    "title-short": "The effects of road, driver, and passenger presence on drivers’ choice of speed",
+    "type": "no-type",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Groß",
+        "given": "Patrick-Oliver"
+      },
+      {
+        "family": "Ehmke",
+        "given": "Jan-Fabian"
+      },
+      {
+        "family": "Haas",
+        "given": "I."
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series evaluation of alternative paths for reliable routing in city logistics",
+    "genre": "Conference Paper",
+    "id": "RN244",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Evaluation of alternative paths for reliable routing in city logistics",
+    "type": "no-type"
+  },
+  {
+    "URL": "http://winf.in.tu-clausthal.de/winf/publications/2017/Johora%2B2017abmus-preproceedings.pdf",
+    "author": [
+      {
+        "family": "Johora",
+        "given": "F. T."
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "collection-title": "Series dynamic path planning and movement control in pedestrian simulation",
+    "genre": "Conference Paper",
+    "id": "RN184",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "arXiv:1709.08235 \\[cs.MA\\]",
+    "title": "Dynamic path planning and movement control in pedestrian simulation",
+    "type": "no-type"
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.trpro.2017.03.015",
+    "author": [
+      {
+        "family": "Köster",
+        "given": "Felix"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series dynamic routing: Anticipation of emission-sensitive traffic management",
+    "genre": "Conference Paper",
+    "id": "RN57",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "419-429",
+    "title": "Dynamic routing: Anticipation of emission-sensitive traffic management",
+    "title-short": "Dynamic routing",
+    "type": "no-type",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      }
+    ],
+    "container-title": "IEEE vtc fall",
+    "genre": "Conference Proceedings",
+    "id": "RN100",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "SWeRC: Self-weighted semi cooperative dsrc congestion control based on limeric",
+    "title-short": "SWeRC",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pascucci",
+        "given": "F."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "collection-title": "Series beurteilung der leistungsfähigkeit von straßenräumen mit shared space",
+    "genre": "Conference Paper",
+    "id": "RN179",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Beurteilung der leistungsfähigkeit von straßenräumen mit shared space",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Pascucci",
+        "given": "F."
+      },
+      {
+        "family": "Vogt",
+        "given": "S."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "collection-title": "Series measuring the quality of traffic flow on urban streets with high pedestrian crossing demand",
+    "genre": "Conference Paper",
+    "id": "RN181",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Measuring the quality of traffic flow on urban streets with high pedestrian crossing demand",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Ringhand",
+        "given": "Madlen"
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "collection-title": "Series investigating urban route choice as a conflict between waiting at traffic lights and additional travel time",
+    "genre": "Conference Paper",
+    "id": "RN95",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "2432-2444",
+    "title": "Investigating urban route choice as a conflict between waiting at traffic lights and additional travel time",
+    "type": "no-type",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Rinke",
+        "given": "Nils"
+      },
+      {
+        "family": "Schiermeyer",
+        "given": "Chris"
+      },
+      {
+        "family": "Pascucci",
+        "given": "Federico"
+      },
+      {
+        "family": "Berkhahn",
+        "given": "Volker"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "container-title": "Transportation research procedia",
+    "genre": "Conference Proceedings",
+    "id": "RN43",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1249-1267",
+    "title": "A multi-layer social force approach to model interactions in shared spaces using collision prediction",
+    "type": "paper-conference",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Rybarsch",
+        "given": "Matthias"
+      },
+      {
+        "family": "Aschermann",
+        "given": "Malte"
+      },
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Goralzik",
+        "given": "Anne"
+      },
+      {
+        "family": "Köster",
+        "given": "Felix"
+      },
+      {
+        "family": "Ringhand",
+        "given": "Madlen"
+      },
+      {
+        "family": "Trifunović",
+        "given": "Aleksandar"
+      }
+    ],
+    "container-title": "IEEE 20th international conference on intelligent transportation systems (itsc)",
+    "genre": "Conference Proceedings",
+    "id": "RN114",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Cooperative parking search: Reducing travel time by information exchange among searching vehicles",
+    "title-short": "Cooperative parking search",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Schiermeyer",
+        "given": "C."
+      },
+      {
+        "family": "Pascucci",
+        "given": "F."
+      },
+      {
+        "family": "Rinke",
+        "given": "N."
+      },
+      {
+        "family": "Berkhahn",
+        "given": "V."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "container-title": "Bauingenieur",
+    "genre": "Journal Article",
+    "id": "RN180",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "341-346",
+    "title": "MODIS – ein simulationsmodell zur bewertung von verkehrsflächen nach dem shared-space-gestaltungsprinzip",
+    "type": "article-journal",
+    "volume": "7/8-2017"
+  },
+  {
+    "DOI": "https://doi.org/10.1287/trsc.2016.0719",
+    "author": [
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      },
+      {
+        "family": "Köster",
+        "given": "Felix"
+      }
+    ],
+    "container-title": "Transportation Science",
+    "genre": "Journal Article",
+    "id": "RN137",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Budgeting time for dynamic vehicle routing with stochastic customer requests",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Winkler",
+        "given": "S."
+      },
+      {
+        "family": "Powelleit",
+        "given": "M."
+      },
+      {
+        "family": "Kazazi",
+        "given": "J."
+      },
+      {
+        "family": "Vollrath",
+        "given": "M."
+      },
+      {
+        "family": "Krautter",
+        "given": "W."
+      },
+      {
+        "family": "Korthauer",
+        "given": "A."
+      },
+      {
+        "family": "Drüke",
+        "given": "J."
+      },
+      {
+        "family": "Töpfer",
+        "given": "D."
+      },
+      {
+        "family": "Semmler",
+        "given": "C."
+      },
+      {
+        "family": "Bendewald",
+        "given": "L."
+      }
+    ],
+    "container-title": "UR:BAN human factors in traffic. approaches for safe, efficient and stressfree urban traffic",
+    "editor": [
+      {
+        "comma-suffix": false,
+        "family": "Bengler",
+        "given": "Hoffmann",
+        "suffix": "K."
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN78",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "75-103",
+    "publisher": "Springer",
+    "publisher-place": "Wiesbaden",
+    "title": "HMI strategy – warnings and interventions",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahlbrecht",
+        "given": "T."
+      },
+      {
+        "family": "Dix",
+        "given": "J."
+      },
+      {
+        "family": "Fiekas",
+        "given": "N."
+      },
+      {
+        "family": "Köster",
+        "given": "M."
+      },
+      {
+        "family": "Kraus",
+        "given": "P."
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "International Journal of Agent-Oriented Software Engineering (IJAOSE)",
+    "genre": "Journal Article",
+    "id": "RN250",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "232-265",
+    "title": "An architecture for scalable simulation of systems of cognitive agents",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
     "URL": "https://www.in.tu-clausthal.de/fileadmin/homes/techreports/ifi1604aschermann.pdf",
     "author": [
       {
@@ -94,6 +900,303 @@
     "title": "LightJason: A BDI Framework Inspired by Jason",
     "title-short": "LightJason",
     "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Axer",
+        "given": "Steffen"
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "collection-title": "Series a methodology for signal timing estimation based on low frequency floating car data: Analysis of needed sample sizes and influencing factors",
+    "genre": "Conference Paper",
+    "id": "RN183",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "220-232",
+    "title": "A methodology for signal timing estimation based on low frequency floating car data: Analysis of needed sample sizes and influencing factors",
+    "title-short": "A methodology for signal timing estimation based on low frequency floating car data",
+    "type": "no-type",
+    "volume": "15"
+  },
+  {
+    "DOI": "10.1109/ITSC.2016.7795889",
+    "author": [
+      {
+        "family": "Axer",
+        "given": "S."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "collection-title": "Series estimating signal phase and timing for traffic actuated intersections based on low frequency floating car data",
+    "genre": "Conference Paper",
+    "id": "RN212",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Estimating signal phase and timing for traffic actuated intersections based on low frequency floating car data",
+    "type": "no-type"
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.trpro.2017.05.214",
+    "author": [
+      {
+        "family": "Axer",
+        "given": "S."
+      },
+      {
+        "family": "Pascucci",
+        "given": "F."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      }
+    ],
+    "collection-title": "Series signal timing estimation based on low frequency floating car data",
+    "genre": "Conference Paper",
+    "id": "RN217",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1645-1661",
+    "publisher-place": "Shanghai, China",
+    "title": "Signal timing estimation based on low frequency floating car data",
+    "type": "no-type",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthauer",
+        "given": "Mirko"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "container-title": "SUMO user conference 2016: Berichte aus dem dlr-institut für verkehrssystemtechnik",
+    "genre": "Conference Proceedings",
+    "id": "RN44",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "11-22",
+    "title": "Calibrating a motorway segment in sumo using single vehicle data",
+    "type": "paper-conference",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Di Martino",
+        "given": "S."
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "collection-title": "Series what are the potentialities of crowdsourcing for dynamic maps of on-street parking spaces?",
+    "genre": "Conference Paper",
+    "id": "RN89",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "19-24",
+    "title": "What are the potentialities of crowdsourcing for dynamic maps of on-street parking spaces?",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Liu",
+        "given": "Jiaqi"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "Geospatial data in a changing world",
+    "editor": [
+      {
+        "family": "Sarjakoski",
+        "given": "Tapani"
+      },
+      {
+        "family": "Santos",
+        "given": "Maribel Yasmina"
+      },
+      {
+        "family": "Sarjakoski",
+        "given": "L. Tiina"
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN84",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "297-314",
+    "publisher": "Springer",
+    "title": "Learning on-street parking maps from position information of parked vehicles",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "collection-title": "Series improving parking availability maps using information from nearby roads",
+    "genre": "Conference Paper",
+    "id": "RN49",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "207-214",
+    "title": "Improving parking availability maps using information from nearby roads",
+    "type": "no-type",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "Brenner",
+        "given": "Claus"
+      },
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Schlichting",
+        "given": "Alexander"
+      }
+    ],
+    "container-title": "Unimagazin, Forschungsmagazin der Universität Hannover",
+    "genre": "Journal Article",
+    "id": "RN98",
+    "issue": "03/04",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "34-37",
+    "title": "Dynamische karten - gedächtnis mobiler roboter",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brinkmann",
+        "given": "Jan"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series inventory routing for bike sharing systems",
+    "genre": "Conference Paper",
+    "id": "RN56",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "316-327",
+    "title": "Inventory routing for bike sharing systems",
+    "type": "no-type",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "Czioska",
+        "given": "Paul"
+      },
+      {
+        "family": "Trifunović",
+        "given": "Aleksandar"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "23rd world congress on intelligent transportation systems",
+    "genre": "Conference Proceedings",
+    "id": "RN88",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "A gis-based approach to determine beneficial meeting points for long-distance ride-sharing trips",
+    "type": "paper-conference"
   },
   {
     "URL": "http://ceur-ws.org/Vol-1678/paper15.pdf",
@@ -142,19 +1245,695 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.1007/978-3-319-25808-9",
     "author": [
       {
-        "family": "Dennisen",
-        "given": "S."
+        "family": "Fiosins",
+        "given": "M."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B."
+      },
+      {
+        "family": "Görmer",
+        "given": "J."
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
       },
       {
         "family": "Müller",
-        "given": "J. P."
+        "given": "Jörg P."
+      },
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
       }
     ],
-    "collection-title": "Lecture notes in artificial intelligence",
-    "container-title": "Proceedings of the 13th german conference of multiagent system technologies (mates 2015)",
-    "id": "DennisenMueller2015mates",
+    "container-title": "Autonomic road transport support systems",
+    "editor": [
+      {
+        "family": "McCluskey",
+        "given": "Thomas Leo"
+      },
+      {
+        "family": "Kotsialos",
+        "given": "Apostolos"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      },
+      {
+        "family": "Klügl",
+        "given": "Franziska"
+      },
+      {
+        "family": "Rana",
+        "given": "Omer"
+      },
+      {
+        "family": "Schumann",
+        "given": "René"
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN129",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "67-85",
+    "publisher": "Springer International Publishing",
+    "title": "A multiagent approach to modeling autonomic road transport systems",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1109/VTCFall.2016.7880999",
+    "author": [
+      {
+        "family": "Garrosi",
+        "given": "Mehdi Tavakoli"
+      }
+    ],
+    "container-title": "IEEE vtc fall",
+    "genre": "Conference Proceedings",
+    "id": "RN83",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "5 p",
+    "publisher": "IEEE",
+    "title": "Enhanced intersection-based perimeter geo-routing in urban vehicular ad-hoc networks",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Groß",
+        "given": "Patrick-Oliver"
+      },
+      {
+        "family": "Ansmann",
+        "given": "Artur"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series berücksichtigung von unsicheren fahrzeiten in der city logistik tourenplanung",
+    "genre": "Conference Paper",
+    "id": "RN62",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Berücksichtigung von unsicheren fahrzeiten in der city logistik tourenplanung",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Huemer",
+        "given": "A.K."
+      },
+      {
+        "family": "Eckhardt-Lieberam",
+        "given": "K."
+      }
+    ],
+    "container-title": "Zeitschrift für Verkehrssicherheit",
+    "genre": "Journal Article",
+    "id": "RN66",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "250-260",
+    "title": "Regelkenntnisse bei deutschen radfahrerinnen: Online-befragungen unter erwachsenen und schülerinnen.",
+    "title-short": "Regelkenntnisse bei deutschen radfahrerinnen",
+    "type": "article-journal",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Kazazi",
+        "given": "J."
+      },
+      {
+        "family": "Winkler",
+        "given": "S."
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "collection-title": "Series the influence of attention allocation and age on intersection accidents",
+    "genre": "Conference Paper",
+    "id": "RN68",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1-14",
+    "title": "The influence of attention allocation and age on intersection accidents",
+    "type": "no-type",
+    "volume": "43"
+  },
+  {
+    "author": [
+      {
+        "family": "Köster",
+        "given": "Felix"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series dynamische tourenplanung unter berücksichtigung von emissionsabhängigen verkehrsmanagement-entscheidungen",
+    "genre": "Conference Paper",
+    "id": "RN63",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Dynamische tourenplanung unter berücksichtigung von emissionsabhängigen verkehrsmanagement-entscheidungen",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuntzsch",
+        "given": "Colin"
+      },
+      {
+        "family": "Zourlidou",
+        "given": "Stefania"
+      },
+      {
+        "family": "Feuerhake",
+        "given": "Udo"
+      }
+    ],
+    "collection-title": "Series learning the traffic regulation context of intersections from speed profile data",
+    "genre": "Conference Paper",
+    "id": "RN87",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher-place": "Montreal, Canada",
+    "title": "Learning the traffic regulation context of intersections from speed profile data",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      }
+    ],
+    "container-title": "IEEE icccn",
+    "genre": "Conference Proceedings",
+    "id": "RN80",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Experimental analysis of the channel busy time in vehicular ad-hoc networks",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      }
+    ],
+    "container-title": "IEEE vtc fall",
+    "genre": "Conference Proceedings",
+    "id": "RN82",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Performance analysis of the functional interaction of awareness control and dcc in vanets",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      },
+      {
+        "family": "Garrosi",
+        "given": "Mehdi Tavakoli"
+      }
+    ],
+    "container-title": "ACM mobicom workshop on connected and automated vehicle mobility (carsys)",
+    "genre": "Conference Proceedings",
+    "id": "RN79",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Achieving global fairness at urban intersections using cooperative dsrc congestion control",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Neumann-Saavedra",
+        "given": "Bruno Albert"
+      },
+      {
+        "family": "Crainic",
+        "given": "Theodor Gabriel"
+      },
+      {
+        "family": "Gendron",
+        "given": "Bernard"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      },
+      {
+        "family": "Römer",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Computational logistics. iccl 2016. lecture notes in computer science",
+    "editor": [
+      {
+        "family": "Paias",
+        "given": "A."
+      },
+      {
+        "family": "Ruthmair",
+        "given": "M."
+      },
+      {
+        "family": "Voß",
+        "given": "S."
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN40",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "352-366",
+    "publisher": "Springer Cham",
+    "title": "Service network design for bike sharing systems with resource constraints",
+    "type": "chapter",
+    "volume": "9855"
+  },
+  {
+    "author": [
+      {
+        "family": "Schiermeyer",
+        "given": "C."
+      },
+      {
+        "family": "Pascucci",
+        "given": "F."
+      },
+      {
+        "family": "Rinke",
+        "given": "N."
+      },
+      {
+        "family": "Berkhahn",
+        "given": "V."
+      },
+      {
+        "family": "Friedrich",
+        "given": "B"
+      }
+    ],
+    "container-title": "8th international conference on pedestrian and evacuation dynamics",
+    "genre": "Conference Proceedings",
+    "id": "RN90",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "A genetic algorithm approach for the calibration of a social force based model for shared space",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ITSC.2016.7795891",
+    "author": [
+      {
+        "family": "Tang",
+        "given": "Qinrui"
+      }
+    ],
+    "container-title": "Intelligent transportation systems (itsc), 2016 ieee 19th international conference",
+    "genre": "Conference Proceedings",
+    "id": "RN91",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "2071-2076",
+    "title": "Lane-based optimization of signal timing including left turn prohibition in communication scenarios",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1016/j.trpro.2016.05.306",
+    "author": [
+      {
+        "family": "Tang",
+        "given": "Qinrui"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "container-title": "Transportation research procedia",
+    "genre": "Conference Proceedings",
+    "id": "RN25",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "3446-3455",
+    "title": "Minimization of travel time in signalized networks by prohibiting left turns",
+    "type": "paper-conference",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "Qinrui"
+      },
+      {
+        "family": "Friedrich",
+        "given": "B"
+      }
+    ],
+    "container-title": "21st international conference of hong kong society for transportation studies",
+    "genre": "Conference Proceedings",
+    "id": "RN92",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Delay estimation of permissive left turns on single exclusive lanes by queueing system with priority",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
+      }
+    ],
+    "genre": "Thesis",
+    "id": "RN46",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Radio shadowing in vehicle-to-vehicle communication at urban intersections - a measurement and simulation-based evaluation",
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
+      }
+    ],
+    "container-title": "IEEE vtc fall",
+    "genre": "Conference Proceedings",
+    "id": "RN130",
+    "title": "Characterization of intersection topologies in urban areas for vehicle-to-vehicle communication",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Vogelpohl",
+        "given": "T."
+      },
+      {
+        "family": "Kühn",
+        "given": "M."
+      },
+      {
+        "family": "Hummel",
+        "given": "T."
+      },
+      {
+        "family": "Gehlert",
+        "given": "T."
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "genre": "Report",
+    "id": "RN73",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Übergabe von hochautomatisiertem fahren zu manueller steuerung",
+    "type": "report"
+  },
+  {
+    "DOI": "http://dx.doi.org/10.1016/j.aap.2016.06.003",
+    "author": [
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      },
+      {
+        "family": "Huemer",
+        "given": "Anja Katharina"
+      },
+      {
+        "family": "Teller",
+        "given": "Carolin"
+      },
+      {
+        "family": "Likhacheva",
+        "given": "Anastasia"
+      },
+      {
+        "family": "Fricke",
+        "given": "Jana"
+      }
+    ],
+    "collection-title": "Series do german drivers use their smartphones safely?—not really!",
+    "genre": "Conference Paper",
+    "id": "RN120",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "29-38",
+    "title": "Do german drivers use their smartphones safely?—not really!",
+    "type": "no-type",
+    "volume": "96"
+  },
+  {
+    "author": [
+      {
+        "family": "Winkler",
+        "given": "Susann"
+      },
+      {
+        "family": "Wernecke",
+        "given": "Julia"
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Transportation research part f: Traffic psychology and behaviour",
+    "genre": "Conference Proceedings",
+    "id": "RN29",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "57-68",
+    "title": "Timing of early warning stages in a multi stage collision warning system: Drivers’ evaluation depending on situational influences",
+    "title-short": "Timing of early warning stages in a multi stage collision warning system",
+    "type": "paper-conference",
+    "volume": "36"
+  },
+  {
+    "author": [
+      {
+        "family": "Winkler",
+        "given": "Susann"
+      },
+      {
+        "family": "Wernecke",
+        "given": "Julia"
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Transportation Research Part F: Traffic Psychology and Behaviour",
+    "genre": "Journal Article",
+    "id": "RN124",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "57-68",
+    "title": "Timing of early warning stages in a multi stage collision warning system: Drivers’ evaluation depending on situational influences",
+    "title-short": "Timing of early warning stages in a multi stage collision warning system",
+    "type": "article-journal",
+    "volume": "36"
+  },
+  {
+    "author": [
+      {
+        "family": "Zourlidou",
+        "given": "S."
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "International society of photogrammetry and remote sensing (isprs)",
+    "genre": "Conference Proceedings",
+    "id": "RN86",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "269-276",
+    "title": "Intersection detection based on qualitative spatial reasoning on stopping point clusters",
+    "type": "paper-conference",
+    "volume": "XLI-B2"
+  },
+  {
+    "author": [
+      {
+        "family": "Axer",
+        "given": "Steffen"
+      },
+      {
+        "family": "Belz",
+        "given": "J."
+      },
+      {
+        "family": "Leske",
+        "given": "K."
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      },
+      {
+        "family": "Hesse",
+        "given": "T."
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "International Transportation",
+    "genre": "Journal Article",
+    "id": "RN64",
+    "issue": "1",
     "issued": {
       "date-parts": [
         [
@@ -162,12 +1941,57 @@
         ]
       ]
     },
-    "page": "200-217",
-    "publisher": "Springer-Verlag",
-    "publisher-place": "Cottbus, Germany",
-    "title": "Agent-based voting architecture for traffic applications",
-    "type": "paper-conference",
-    "volume": "9433"
+    "page": "48-51",
+    "title": "Navigation of blind and visually impaired people - smartphone-assisted navigation and crossing of signalized intersections using car2x communication technologies",
+    "type": "article-journal",
+    "volume": "67"
+  },
+  {
+    "author": [
+      {
+        "family": "Axer",
+        "given": "Steffen"
+      },
+      {
+        "family": "Pascucci",
+        "given": "Federico"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "container-title": "6th mobil.tum",
+    "genre": "Conference Proceedings",
+    "id": "RN34",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Estimation of traffic signal timing data and total delay for urban intersections based on low frequency floating car data",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartke-Minack",
+        "given": "Kim"
+      }
+    ],
+    "genre": "Thesis",
+    "id": "RN45",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "A game-theoretic approach to fairness for a distributed reservation-based medium access",
+    "type": "thesis"
   },
   {
     "author": [
@@ -221,6 +2045,1097 @@
     "page": "469-485",
     "publisher": "Springer",
     "title": "Winner determination and manipulation in minisum and minimax committee elections",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Eggert",
+        "given": "Daniel"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "IEEE 18th international conference on intelligent transportation systems (itsc 2015)",
+    "genre": "Conference Proceedings",
+    "id": "RN13",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "2812-2818",
+    "title": "On-street parking statistics using lidar mobile mapping",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Brenner",
+        "given": "Claus"
+      },
+      {
+        "family": "Bock",
+        "given": "Fabian"
+      },
+      {
+        "family": "Schlichting",
+        "given": "Alexander"
+      }
+    ],
+    "container-title": "Terrestrisches Laserscanning 2015, Schriftenreihe des DVW",
+    "genre": "Journal Article",
+    "id": "RN48",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "45-62",
+    "title": "Automatisierte interpretation von lidar mobile mapping daten",
+    "type": "article-journal",
+    "volume": "81/2015"
+  },
+  {
+    "author": [
+      {
+        "family": "Brinkmann",
+        "given": "Jan"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin W."
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk C."
+      }
+    ],
+    "collection-title": "Series short-term strategies for stochastic inventory routing in bike sharing systems",
+    "genre": "Conference Paper",
+    "id": "RN31",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "364-373",
+    "title": "Short-term strategies for stochastic inventory routing in bike sharing systems",
+    "type": "no-type",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Czioska",
+        "given": "Paul"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "collection-title": "Series determination of efficient meeting points in ride sharing scenarios",
+    "genre": "Conference Paper",
+    "id": "RN51",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Determination of efficient meeting points in ride sharing scenarios",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Czioska",
+        "given": "Paul"
+      },
+      {
+        "family": "Thiemann",
+        "given": "F."
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      },
+      {
+        "family": "Giese",
+        "given": "R."
+      },
+      {
+        "family": "Vogt",
+        "given": "H."
+      }
+    ],
+    "container-title": "Photogrammetrie-Fernerkundung-Geoinformation",
+    "genre": "Journal Article",
+    "id": "RN103",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "95-104",
+    "title": "An algorithm to generate a simplified railway network through generalization",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Dennisen",
+        "given": "Sophie"
+      },
+      {
+        "family": "Müller",
+        "given": "J. P."
+      }
+    ],
+    "collection-title": "Lecture notes in artificial intelligence",
+    "container-title": "Proceedings of the 13th german conference of multiagent system technologies (mates 2015)",
+    "id": "DennisenMueller2015mates",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "200-217",
+    "publisher": "Springer-Verlag",
+    "publisher-place": "Cottbus, Germany",
+    "title": "Agent-based voting architecture for traffic applications",
+    "type": "paper-conference",
+    "volume": "9433"
+  },
+  {
+    "author": [
+      {
+        "family": "Fekete",
+        "given": "S."
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      },
+      {
+        "family": "Huemer",
+        "given": "A.K."
+      },
+      {
+        "family": "Salchow",
+        "given": "C."
+      }
+    ],
+    "genre": "Report",
+    "id": "RN65",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Interaktionen im straßenverkehr: Kooperation und konflikt",
+    "title-short": "Interaktionen im straßenverkehr",
+    "type": "report"
+  },
+  {
+    "URL": "http://winf.in.tu-clausthal.de/winf/publications/2014/Fiosins_IJIR.pdf",
+    "author": [
+      {
+        "family": "Fiosins",
+        "given": "Maksims"
+      }
+    ],
+    "container-title": "International Journal of Imaging and Robotics",
+    "genre": "Journal Article",
+    "id": "RN6",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "113-128",
+    "title": "Decentralized decision-making about routing of unsplittable vehicle flows in stochastic traffic networks",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "family": "Fiosins",
+        "given": "M."
+      },
+      {
+        "family": "Zeise",
+        "given": "B."
+      },
+      {
+        "family": "Gernert",
+        "given": "B."
+      },
+      {
+        "family": "Schildt",
+        "given": "S."
+      },
+      {
+        "family": "Fritsche",
+        "given": "P."
+      },
+      {
+        "family": "Manesh",
+        "given": "R."
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      },
+      {
+        "family": "Wagner",
+        "given": "B."
+      },
+      {
+        "family": "Wolf",
+        "given": "L."
+      }
+    ],
+    "container-title": "Autonomous agents and multi-agent systems at scale, workshop at aamas 2015",
+    "genre": "Conference Proceedings",
+    "id": "RN188",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "DCIM: An agent-based distributed common information model for teams of mobile robots",
+    "title-short": "DCIM",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Groß",
+        "given": "Patrick-Oliver"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin W."
+      },
+      {
+        "family": "Ehmke",
+        "given": "Jan Fabian"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk C."
+      }
+    ],
+    "collection-title": "Series exploiting travel time information for reliable routing in city logistics",
+    "genre": "Conference Paper",
+    "id": "RN32",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "652-661",
+    "title": "Exploiting travel time information for reliable routing in city logistics",
+    "type": "no-type",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Huemer",
+        "given": "A.K."
+      },
+      {
+        "family": "Nowak",
+        "given": "P."
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "Trends in neuroergonomics",
+    "edition": "Tagungsband 11. Berliner Werkstatt Mensch-Maschine-Systeme",
+    "genre": "Book Section",
+    "id": "RN67",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "254-255",
+    "title": "Potentially distracting, common non-driving-activities: What do we know and what do we need to know?",
+    "title-short": "Potentially distracting, common non-driving-activities",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kazazi",
+        "given": "Juela"
+      },
+      {
+        "family": "Winkler",
+        "given": "Susann"
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "IEEE 18th international conference on intelligent transportation systems (itsc 2015)",
+    "genre": "Conference Proceedings",
+    "id": "RN28",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1028-1034",
+    "title": "Accident prevention through visual warnings. how to design warnings in head-up display for older and younger drivers",
+    "type": "paper-conference",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Köster",
+        "given": "Felix"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series benefits of a cooperation between traffic management and city logistics",
+    "genre": "Conference Paper",
+    "id": "RN107",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Benefits of a cooperation between traffic management and city logistics",
+    "type": "no-type"
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.trpro.2015.09.021",
+    "author": [
+      {
+        "family": "Köster",
+        "given": "Felix"
+      },
+      {
+        "family": "Ulmer",
+        "given": "Marlin"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "collection-title": "Series cooperative traffic control management for city logistic routing",
+    "genre": "Conference Paper",
+    "id": "RN135",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "673-682",
+    "title": "Cooperative traffic control management for city logistic routing",
+    "type": "no-type",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      },
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
+      }
+    ],
+    "container-title": "IEEE icc workshop on dependable vehicular communications (dvc)",
+    "genre": "Conference Proceedings",
+    "id": "RN8",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Evaluation of an awareness control algorithm for vanets based on etsi en 302 637-2 v1.3.2",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Neumann-Saavedra",
+        "given": "Bruno A."
+      },
+      {
+        "family": "Vogel",
+        "given": "Patrick"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk C."
+      }
+    ],
+    "collection-title": "Series anticipatory service network design of bike sharing systems",
+    "genre": "Conference Paper",
+    "id": "RN20",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "355-363",
+    "title": "Anticipatory service network design of bike sharing systems",
+    "type": "no-type",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Pascucci",
+        "given": "Federico"
+      },
+      {
+        "family": "Rinke",
+        "given": "Nils"
+      },
+      {
+        "family": "Schiermeyer",
+        "given": "Chris"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      },
+      {
+        "family": "Berkhahn",
+        "given": "Volker"
+      }
+    ],
+    "collection-title": "Series modeling of shared space with multi-modal traffic using a multi-layer social force approach",
+    "genre": "Conference Paper",
+    "id": "RN35",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "316-326",
+    "title": "Modeling of shared space with multi-modal traffic using a multi-layer social force approach",
+    "type": "no-type",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Sester",
+        "given": "Monika"
+      },
+      {
+        "family": "Feuerhake",
+        "given": "U."
+      },
+      {
+        "family": "Kuntzsch",
+        "given": "C."
+      },
+      {
+        "family": "Zourlidou",
+        "given": "S."
+      }
+    ],
+    "collection-title": "Series interpretation of moving point trajectories",
+    "genre": "Conference Paper",
+    "id": "RN268",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "329-342",
+    "publisher": "Wichmann/VDE Verlag, Berlin & Offenbach",
+    "title": "Interpretation of moving point trajectories",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
+      },
+      {
+        "family": "Lorenzen",
+        "given": "Torsten"
+      }
+    ],
+    "container-title": "IEEE icc workshop on dependable vehicular communications (dvc)",
+    "genre": "Conference Proceedings",
+    "id": "RN10",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Measurement-based evaluation of interference in vehicular ad-hoc networks at urban intersections",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
+      },
+      {
+        "family": "Zinchenko",
+        "given": "Tetiana"
+      },
+      {
+        "family": "Schumacher",
+        "given": "Henrik"
+      }
+    ],
+    "container-title": "IEEE ccnc",
+    "genre": "Conference Proceedings",
+    "id": "RN11",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Impact of buildings on vehicle-to-vehicle communication at urban intersections",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulmer",
+        "given": "Marlin W."
+      },
+      {
+        "family": "Brinkmann",
+        "given": "Jan"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk C."
+      }
+    ],
+    "container-title": "Logistics management",
+    "editor": [
+      {
+        "family": "Dethloff",
+        "given": "Jan"
+      },
+      {
+        "family": "Haasis",
+        "given": "Hans-Dietrich"
+      },
+      {
+        "family": "Kopfer",
+        "given": "Herbert"
+      },
+      {
+        "family": "Kotzab",
+        "given": "Herbert"
+      },
+      {
+        "family": "Schönberger",
+        "given": "Jörn"
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN30",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "313-324",
+    "publisher": "Springer International Publishing",
+    "title": "Anticipatory planning for courier, express and parcel services",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Vogel",
+        "given": "Patrick"
+      },
+      {
+        "family": "Neumann-Saavedra",
+        "given": "Bruno A."
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk C."
+      }
+    ],
+    "container-title": "Hybrid metaheuristics",
+    "editor": [
+      {
+        "family": "Blesa",
+        "given": "Maria J."
+      },
+      {
+        "family": "Blum",
+        "given": "Christian"
+      },
+      {
+        "family": "Voß",
+        "given": "Stefan"
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN21",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "16-29",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Lecture Notes in Computer Science",
+    "title": "A hybrid metaheuristic to solve the resource allocation problem in bike sharing systems",
+    "type": "chapter",
+    "volume": "8457"
+  },
+  {
+    "author": [
+      {
+        "family": "Winkler",
+        "given": "Susann"
+      },
+      {
+        "family": "Kazazi",
+        "given": "Juela"
+      },
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      }
+    ],
+    "container-title": "IEEE 18th international conference on intelligent transportation systems (itsc 2015)",
+    "genre": "Conference Proceedings",
+    "id": "RN27",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1035-1040",
+    "title": "Distractive or supportive – how warnings in the head-up display affect drivers’ gaze and driving behavior",
+    "type": "paper-conference",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Zourlidou",
+        "given": "Stefania"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "Proc. of the 3rd agile phd school",
+    "editor": [
+      {
+        "family": "Comber",
+        "given": "Lex"
+      },
+      {
+        "family": "Bucher",
+        "given": "Bénédicte"
+      },
+      {
+        "family": "Ivanovic",
+        "given": "S."
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN37",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "published at http://ceur-ws.org",
+    "publisher-place": "Champs sur Marne, France",
+    "title": "Road regulation sensing with in-vehicle sensors",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Zourlidou",
+        "given": "Stefania"
+      },
+      {
+        "family": "Sester",
+        "given": "Monika"
+      }
+    ],
+    "container-title": "18th agile international conference on geographic information science (agile 2015)",
+    "genre": "Conference Proceedings",
+    "id": "RN39",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "Towards regulation-aware navigation: A behavior-based mapping approach",
+    "title-short": "Towards regulation-aware navigation",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahlbrecht",
+        "given": "Tobias"
+      },
+      {
+        "family": "Dix",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Köster",
+        "given": "Michael"
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "Lecture notes in artificial intelligence (lnai) - engineering multiagent systems ii",
+    "editor": [
+      {
+        "family": "Dalpiaz",
+        "given": "Fabiano"
+      },
+      {
+        "family": "Dix",
+        "given": "Jürgen"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Riemsdijk",
+        "given": "M. Birna"
+      }
+    ],
+    "genre": "Book Section",
+    "id": "RN1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "81-102",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Switzerland",
+    "title": "A scalable runtime platform for multiagent-based simulation",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1016/j.trpro.2014.10.085",
+    "author": [
+      {
+        "family": "Axer",
+        "given": "Steffen"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "collection-title": "Series level of service estimation based on low-frequency floating car data",
+    "genre": "Conference Paper",
+    "id": "RN24",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1051-1058",
+    "title": "Level of service estimation based on low-frequency floating car data",
+    "type": "no-type",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthauer",
+        "given": "Mirko"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Bernhard"
+      }
+    ],
+    "collection-title": "Series evaluation of a signal state prediction algorithm for car to infrastructure applications",
+    "genre": "Conference Paper",
+    "id": "RN22",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "982-991",
+    "title": "Evaluation of a signal state prediction algorithm for car to infrastructure applications",
+    "type": "no-type",
+    "volume": "3"
+  },
+  {
+    "URL": "http://winf.in.tu-clausthal.de/winf/publications/2014/Fiosina_IJAI.pdf",
+    "author": [
+      {
+        "family": "Fiosina",
+        "given": "Jelena"
+      },
+      {
+        "family": "Fiosins",
+        "given": "Maksims"
+      }
+    ],
+    "container-title": "International Journal of Artificial Intelligence",
+    "genre": "Journal Article",
+    "id": "RN5",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "27-53",
+    "title": "Resampling based modelling of individual routing preferences in distributed traffic network",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Gernert",
+        "given": "B."
+      },
+      {
+        "family": "Schildt",
+        "given": "S."
+      },
+      {
+        "family": "Wolf",
+        "given": "L."
+      },
+      {
+        "family": "Zeise",
+        "given": "B."
+      },
+      {
+        "family": "Fritsche",
+        "given": "P."
+      },
+      {
+        "family": "Wagner",
+        "given": "B."
+      },
+      {
+        "family": "Fiosins",
+        "given": "M."
+      },
+      {
+        "family": "Manesh",
+        "given": "R."
+      },
+      {
+        "family": "Müller",
+        "given": "J.P."
+      }
+    ],
+    "container-title": "12th IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)",
+    "genre": "Journal Article",
+    "id": "RN270",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1-8",
+    "title": "An interdisciplinary approach to autonomous team-based exploration in disaster scenarios",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Vogel",
+        "given": "P."
+      },
+      {
+        "family": "Neumann-Saavedra",
+        "given": "Bruno Albert"
+      },
+      {
+        "family": "Mattfeld",
+        "given": "Dirk Christian"
+      }
+    ],
+    "container-title": "International workshop on hybrid metaheuristics",
+    "genre": "Book Section",
+    "id": "RN154",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "16-29",
+    "publisher": "Springer, Cham",
+    "title": "A hybrid metaheuristic to solve the resource allocation problem in bike sharing systems",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Vollrath",
+        "given": "Mark"
+      },
+      {
+        "family": "Huemer",
+        "given": "A.K."
+      },
+      {
+        "family": "Nowak",
+        "given": "P."
+      },
+      {
+        "family": "Pion",
+        "given": "O."
+      }
+    ],
+    "genre": "Report",
+    "id": "RN77",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Unfallforschung der Versicherer",
+    "title": "Ablenkung durch informations- und kommunikationssysteme",
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Zinchenko",
+        "given": "T."
+      },
+      {
+        "family": "Tchouankem",
+        "given": "Hugues"
+      },
+      {
+        "family": "Wolf",
+        "given": "L."
+      }
+    ],
+    "container-title": "IEEE nets4cars fall, best paper award",
+    "genre": "Conference Proceedings",
+    "id": "RN126",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "title": "Reliability of vehicle-to-vehicle communication at urban intersections",
     "type": "paper-conference"
   }
 ]
