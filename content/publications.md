@@ -14,6 +14,6 @@ next :
     text: "Sitemap"
 ---
 
-## Publications
+## Project Related Publications
 
 {{< printpublication >}}
