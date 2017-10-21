@@ -364,6 +364,22 @@ a:hover {
 	margin-bottom: 5px;
 }
 
+ul.publication {
+	list-style: none;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+ul.publication > li > a:first-child {
+	margin-left: -1.5em;
+	float: left;
+	text-decoration: none;
+}
+
+ul.publication > li > a:first-child:hover {
+	text-decoration: none;
+}
+
 dl {
 	margin: 0 0 10px 20px;
 }
