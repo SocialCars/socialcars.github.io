@@ -1425,6 +1425,9 @@ a.anchor:hover {
 	.menu__list {
 		width: 100%;
 	}
+	ol .publication {
+		margin-left: 10px;
+	}
 }
 
 @media screen and (max-width: 590px) {
@@ -1447,6 +1450,9 @@ a.anchor:hover {
 	.menu__list {
 		width: 100%;
 	}
+	ol .publication {
+		margin-left: 10px;
+	}
 }
 
 @media screen and (max-width: 480px) {
@@ -1466,6 +1472,9 @@ a.anchor:hover {
 	}
 	.menu__list {
 		width: 100%;
+	}
+	ol .publication {
+		margin-left: 10px;
 	}
 }
 
@@ -1488,6 +1497,9 @@ a.anchor:hover {
 	.menu__list {
 		width: 100%;
 	}
+	ol .publication {
+		margin-left: 10px;
+	}
 }
 
 @media screen and (max-width: 243px) {
@@ -1497,6 +1509,9 @@ a.anchor:hover {
 	}
 	.menu__list {
 		width: 100%;
+	}
+	ol .publication {
+		margin-left: 10px;
 	}
 }
 
@@ -1514,6 +1529,9 @@ a.anchor:hover {
 	}
 	.menu__list {
 		width: 100%;
+	}
+	ol .publication {
+		margin-left: 10px;
 	}
 }
 
