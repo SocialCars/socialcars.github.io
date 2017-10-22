@@ -14,11 +14,12 @@
 
 ### Bibliography
 
-The bibliography is located ```data/references.bib``` as an UTF-8 encoded [Bibtex](http://www.bibtex.org/) file.
+The bibliography is located at ```data/references.bib``` as an UTF-8 encoded [Bibtex](http://www.bibtex.org/) file.
 You will have to manually convert it into [BibJSON](http://okfnlabs.org/bibjson/) after changing the Bibtex file with
 
 ```
 pandoc-citeproc --bib2json static/references.bib > data/references.json
+pandoc-citeproc --bib2json static/references.bib > static/references.json
 ```
 
 #### Additional BibTeX Feature
