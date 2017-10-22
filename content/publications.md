@@ -16,4 +16,4 @@ next :
 
 ## Project Related Publications
 
-{{< printpublication >}}
+{{< publications >}}

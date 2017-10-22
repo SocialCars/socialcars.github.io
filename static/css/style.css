@@ -12,6 +12,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	-webkit-font-smoothing: subpixel-antialiased;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -1516,4 +1517,66 @@ a.anchor:hover {
 	}
 }
 
+.hidden, .hiddenthesis, .hiddenpaper-conference, .hiddenchapter, .hiddenbook, .hiddenarticle-journal {
+  display: none;
+}
 
+.visible /*:nth-of-type(even)*/ {
+  background-color: #eee;
+}
+
+.title, .author, .editor, .publishing {
+  display: none;
+}
+
+.editor {
+  float: left;
+  word-break: break-all;
+}
+
+.bibtex {
+  position: absolute;
+  right: 5px;
+  vertical-align: top;
+  bottom: 5px;
+  font-size: 75%;
+}
+
+li.publication {
+	padding-left: 5px;
+	position: relative;
+}
+
+form.publicationform {
+	margin-left: 2em;
+}
+
+input.link {
+    background:none!important;
+    border:none; 
+    padding:0!important;
+    top: 2px;
+    font-size: 100%;
+    color: #c72445;
+	text-decoration: none;
+	cursor: pointer;
+    vertical-align: text-top;
+    height: 18px;
+}
+
+input.link:hover {
+	text-decoration: underline;
+}
+
+p.publicationtext {
+	max-width: -webkit-calc(100% - 4em);
+	max-width: -moz-calc(100% - 4em);
+	max-width: calc(100% - 4em);
+}
+
+input[type=checkbox] + label {
+  font-style: italic;
+} 
+input[type=checkbox]:checked + label {
+  color: #c72445;
+} 

@@ -1,0 +1,16 @@
+<p>
+    <form class="publicationform">
+        <label for="search">Search by title / series / publisher / editor / author: </label> <input type="text" id="search" /><br/>
+        <label>Show only: </label>
+        <input type="checkbox" id="thesis" /><label for="thesis">theses</label>,
+        <input type="checkbox" id="paper-conference" /><label for="paper-conference">conference papers</label>,
+        <input type="checkbox" id="book" /><label for="book">books</label>,
+        <input type="checkbox" id="chapter" /><label for="chapter">book chapters</label>,
+        <input type="checkbox" id="article-journal" /><label for="article-journal">journal articles</label><br/>
+        <label class="export" for="giveall">Export shown publications </label></label><input class="link" type="button" value="to clipboard" id="giveall" />, 
+        <input class="link" type="button" value="download all publications" onclick="window.location.href='/references.bib'" /> (BibTeX).
+    </form>
+</p>
+<br/>
+
+<ol id="publication"></ol>

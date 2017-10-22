@@ -15,6 +15,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <script src="//code.jquery.com/jquery-3.2.1.min.js" type="text/javascript" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" crossorigin="anonymous" async></script>
+
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[["$","$"]],displayMath:[["$$","$$"]],processEscapes:!0,processEnvironments:!1,skipTags:["script","noscript","style","textarea","pre","code"],TeX:{equationNumbers:{autoNumber:"AMS"},extensions:["autoload-all.js"]}}})</script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" crossorigin="anonymous" async></script>
 
@@ -26,9 +27,15 @@
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" type="text/css" media="all" />
 <link href="{{- .Site.BaseURL -}}css/print.css" type="text/css" rel="stylesheet" media="print" />
 
+{{ if eq .Title "Publications - SocialCars" }}
+<script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.6.1/clipboard.min.js" integrity="sha256-El0fEiD3YOM7uIVZztyQzmbbPlgEj0oJVxRWziUh4UE=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="{{- .Site.BaseURL -}}js/publication.js"></script>
+{{ end }}
+
 <script type="text/javascript" src="{{- .Site.BaseURL -}}js/toc.min.js" async></script>
 <script type="text/javascript" src="{{- .Site.BaseURL -}}js/scripts.js"></script>
 <script type="text/javascript" src="{{- .Site.BaseURL -}}js/script.js" defer></script>
+
 
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico">
 </head>
