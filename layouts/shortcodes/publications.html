@@ -1,12 +1,14 @@
 <p>
     <form class="publicationform">
-        <label for="search">Search by title / series / publisher / editor / author: </label> <input type="text" id="search" /><br/>
+        <label for="search">Search by title / series / publisher / editor / author: </label> <input type="text" id="search" />
+        <input type="radio" id="and" name="search" checked /><label for="and">AND</label> <input type="radio" id="or" name="search" /><label for="or">OR</label>
         <label>Show only: </label>
-        <input type="checkbox" id="thesis" /><label for="thesis">theses</label>,
-        <input type="checkbox" id="paper-conference" /><label for="paper-conference">conference papers</label>,
-        <input type="checkbox" id="book" /><label for="book">books</label>,
-        <input type="checkbox" id="chapter" /><label for="chapter">book chapters</label>,
-        <input type="checkbox" id="article-journal" /><label for="article-journal">journal articles</label><br/>
+        <input type="radio" id="all" name="show" checked /><label for="thesis">all</label>,
+        <input type="radio" id="thesis" name="show" /><label for="thesis">theses</label>,
+        <input type="radio" id="paper-conference" name="show" /><label for="paper-conference">conference papers</label>,
+        <input type="radio" id="book" name="show" /><label for="book">books</label>,
+        <input type="radio" id="chapter" name="show" /><label for="chapter">book chapters</label>,
+        <input type="radio" id="article-journal" name="show" /><label for="article-journal">journal articles</label><br/>
         <input class="link" type="button" value="&#8594; Export shown publications to clipboard" id="giveall" />, 
         <input class="link" type="button" value="&#8594; Download all publications to file" onclick="window.location.href='/references.bib'" /> (BibTeX).
     </form>

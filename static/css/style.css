@@ -1257,13 +1257,19 @@ p.publicationtext {
 	max-width: calc(100% - 4em);
 }
 
-input[type=checkbox] + label {
+input[type=radio] + label {
   font-style: italic;
 } 
 
-input[type=checkbox]:checked + label {
+input[type=radio]:checked + label {
   color: #c72445;
 } 
+
+input#search {
+	width: -webkit-calc(100% - 450px);
+	width: -moz-calc(100% - 450px);
+    width: calc(100% - 450px);
+}
 
 /*** Media Queries ***/
 @media screen and (max-width: 1475px) {
@@ -1498,9 +1504,9 @@ input[type=checkbox]:checked + label {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100vw - 60px);
-		width: -moz-calc(100vw - 60px);
-	    width: calc(100vw - 60px);
+		width: -webkit-calc(100vw - 180px);
+		width: -moz-calc(100vw - 180px);
+	    width: calc(100vw - 180px);
 	}
 }
 
@@ -1531,9 +1537,9 @@ input[type=checkbox]:checked + label {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100vw - 60px);
-		width: -moz-calc(100vw - 60px);
-	    width: calc(100vw - 60px);
+		width: -webkit-calc(100vw - 180px);
+		width: -moz-calc(100vw - 180px);
+	    width: calc(100vw - 180px);
 	}
 }
 
@@ -1562,9 +1568,9 @@ input[type=checkbox]:checked + label {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100vw - 60px);
-		width: -moz-calc(100vw - 60px);
-	    width: calc(100vw - 60px);
+		width: -webkit-calc(100vw - 180px);
+		width: -moz-calc(100vw - 180px);
+	    width: calc(100vw - 180px);
 	}
 }
 
@@ -1594,9 +1600,9 @@ input[type=checkbox]:checked + label {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100vw - 60px);
-		width: -moz-calc(100vw - 60px);
-	    width: calc(100vw - 60px);
+		width: -webkit-calc(100vw - 180px);
+		width: -moz-calc(100vw - 180px);
+	    width: calc(100vw - 180px);
 	}
 }
 
@@ -1615,9 +1621,9 @@ input[type=checkbox]:checked + label {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100vw - 60px);
-		width: -moz-calc(100vw - 60px);
-	    width: calc(100vw - 60px);
+		width: -webkit-calc(100vw - 180px);
+		width: -moz-calc(100vw - 180px);
+	    width: calc(100vw - 180px);
 	}
 }
 
@@ -1643,8 +1649,8 @@ input[type=checkbox]:checked + label {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100vw - 60px);
-		width: -moz-calc(100vw - 60px);
-	    width: calc(100vw - 60px);
+		width: -webkit-calc(100vw - 180px);
+		width: -moz-calc(100vw - 180px);
+	    width: calc(100vw - 180px);
 	}
 }

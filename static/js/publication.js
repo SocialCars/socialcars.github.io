@@ -119,7 +119,7 @@
                     lo.append( 
                         po.author.map( function(i) { 
                             return i.given && i.family 
-                                ? i.family + ( i["dropping-particle"] ? " " + i["dropping-particle"] : "" ) + ", " + i.given[0] + "."
+                                ? i.family + ( i["dropping-particle"] ? " " + i["dropping-particle"] : "" ) + ", " + i.given + "."
                                 : ( i["literal"] ? i["literal"] : null ); 
                         })
                         .filter(function(i) { return i != null; }).join(", ") 
@@ -517,9 +517,8 @@ jQuery(function() {
             }
         });
 
-        // search action (search only iif more than 2 charcters are inserted)
-        jQuery( "#search" ).on("change keyup paste", function() {
-            var lc = jQuery(this).val();
+        var livesearch = function() {
+            var lc = jQuery( "#search" ).val();
             
             if ( ( !lc ) || ( lc.length < 3 ) )
                 jQuery("#publication").publication().filter();
@@ -529,23 +528,45 @@ jQuery(function() {
 
                 jQuery("#publication").publication().filter( function(po) {
                     return ["title", "publisher", "collection-title"].some(function(j) {
-                        return po[j] && la.every(function(i){ 
+                        return po[j] && ( jQuery( "#and" ).is(":checked") ? la.every(function(i){ 
                             return po[j].toLowerCase().indexOf( i.toLowerCase() ) != -1;
-                         });
+                         })
+                        : la.some(function(i){ 
+                            return po[j].toLowerCase().indexOf( i.toLowerCase() ) != -1;
+                         }));
                     })
                     || ["author", "editor"].some(function(j) {
-                        return po[j] && la.some(function(i){
-                            return po[j].some(function(n) { return n.family && n.family.toLowerCase().indexOf( i.toLowerCase() ) != -1; });
-                        });
+                        return po[j] && ( jQuery( "#and" ).is(":checked") ? la.every(function(i){
+                            return po[j].some(function(n) { return n.family && n.family.toLowerCase().indexOf( i.toLowerCase() ) != -1 || n.given && n.given.toLowerCase().indexOf( i.toLowerCase() ) != -1; });
+                        })
+                        : la.some(function(i){
+                            return po[j].some(function(n) { return n.family && n.family.toLowerCase().indexOf( i.toLowerCase() ) != -1 || n.given && n.given.toLowerCase().indexOf( i.toLowerCase() ) != -1; });
+                        }));
                     });
                 });
             }
-        });
+        }
+
+        // search action (search only iif more than 2 charcters are inserted)
+        jQuery( "#search" ).on("change keyup paste", livesearch );
+
+        // re-search on mode change
+        jQuery( "#and" ).change( livesearch );
+        jQuery( "#or" ).change( livesearch );
 
         // show only
         ["thesis", "paper-conference", "chapter", "book", "article-journal"].forEach(function(i) {
-            jQuery( "#" + i ).click(function() {
-                jQuery(".publication:not(." + i + ")").toggleClass("hidden" + i);
+            jQuery( "#" + i ).change(function() {
+                jQuery( ".publication:not(." + i + ")" ).addClass( "hidden" + i );
+                ["thesis", "paper-conference", "chapter", "book", "article-journal"].filter(function(j) { return j !== i }).forEach(function(k) {
+                    jQuery( ".publication:not(." + k + ")" ).removeClass( "hidden" + k );
+                });
+            });
+        });
+        
+        jQuery( "#all" ).change(function() {
+            ["thesis", "paper-conference", "chapter", "book", "article-journal"].forEach(function(i) {
+                jQuery( ".publication:not(." + i + ")" ).removeClass( "hidden" + i );
             });
         });
 });
