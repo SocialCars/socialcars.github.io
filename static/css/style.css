@@ -1483,6 +1483,11 @@ input#search {
         text-align: right;
         float: right;
 	}
+	input#search {
+		width: -webkit-calc(100% - 180px);
+		width: -moz-calc(100% - 180px);
+	    width: calc(100% - 180px);
+	}
 }
 
 @media screen and (max-width: 766px) {
@@ -1568,9 +1573,9 @@ input#search {
 		margin-left: 0;
 	}
 	input#search {
-		width: -webkit-calc(100% - 20px);
-		width: -moz-calc(100% - 20px);
-	    width: calc(100% - 20px);
+		width: -webkit-calc(100% - 120px);
+		width: -moz-calc(100% - 120px);
+	    width: calc(100% - 120px);
 	}
 }
 
