@@ -48,7 +48,7 @@
       }
     ],
     "container-title": "20th euro working group on transportation meeting conf., ewgt 2017, budapest, hungary, 2017",
-    "id": "Aschermann+2017ewgt",
+    "id": "Aschermann2017ewgt",
     "issued": {
       "date-parts": [
         [
@@ -81,7 +81,7 @@
     ],
     "collection-title": "Lecture notes in computer science",
     "container-title": "Multi-Agent Systems and Agreement Technologies: 14th Europ. Conf., EUMAS 2016, and 4rd int. Conf., AT 2016, Valencia, Spain, 2016",
-    "id": "Kraus+2017eumas",
+    "id": "Kraus2017eumas",
     "issued": {
       "date-parts": [
         [
@@ -804,7 +804,7 @@
         "given": "L."
       }
     ],
-    "container-title": "UR:BAN human factors in traffic. Approaches for safe, efficient and stressfree urban traffic",
+    "container-title": "UR:BAN human factors in traffic. approaches for safe, efficient and stressfree urban traffic",
     "editor": [
       {
         "comma-suffix": false,
@@ -887,7 +887,7 @@
       }
     ],
     "genre": "IfI Technical Report Series",
-    "id": "Kraus+2016ifijason",
+    "id": "Kraus2016ifijason",
     "issued": {
       "date-parts": [
         [
@@ -1570,7 +1570,7 @@
         "given": "Michael"
       }
     ],
-    "container-title": "Computational logistics. ICCL 2016. Lecture notes in computer science",
+    "container-title": "Computational logistics. iccl 2016. lecture notes in computer science",
     "editor": [
       {
         "family": "Paias",
@@ -2433,7 +2433,7 @@
       ]
     },
     "page": "1028-1034",
-    "title": "Accident prevention through visual warnings. How to design warnings in head-up display for older and younger drivers",
+    "title": "Accident prevention through visual warnings. how to design warnings in head-up display for older and younger drivers",
     "type": "paper-conference",
     "volume": "18"
   },
@@ -2813,7 +2813,7 @@
         "given": "Monika"
       }
     ],
-    "container-title": "Proc. Of the 3rd agile phd school",
+    "container-title": "Proc. of the 3rd agile phd school",
     "editor": [
       {
         "family": "Comber",
