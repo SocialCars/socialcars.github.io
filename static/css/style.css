@@ -1251,6 +1251,11 @@ input.link:hover {
 	text-decoration: underline;
 }
 
+a.link {
+    color: #c72445;
+	cursor: pointer;
+}
+
 p.publicationtext {
 	max-width: -webkit-calc(100% - 4em);
 	max-width: -moz-calc(100% - 4em);
@@ -1259,10 +1264,11 @@ p.publicationtext {
 
 input[type=radio] + label {
   font-style: italic;
+  color: #7c7c7c;
 } 
 
 input[type=radio]:checked + label {
-  color: #c72445;
+  color: #085aa2;
 } 
 
 input#search {

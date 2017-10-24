@@ -177,7 +177,11 @@
             40: function( po_this, po ) {
                     var lo = jQuery( "<p>" ).attr( "class", "publicationtext" );
                     lo.append(
-                      jQuery( "<a>" ).attr("name", "#publication-" + po.id ).attr("href", "/publications/#publication-" + po.id ).append( "&#128206;&nbsp;&nbsp;" )
+                      jQuery( "<a>" )
+                      .attr("name", "#publication-" + po.id )
+                      .attr("href", "/publications/#publication-" + po.id )
+                      .attr("title", po.id)
+                      .append( "&#128206;&nbsp;&nbsp;" )
                     );
                     // authors
                     lo.append(
@@ -468,6 +472,7 @@ jQuery(function() {
                                     return jQuery("<a>").addClass("bibtex")
                                                         .attr("href", "#" + lo_id( po.id ) )
                                                         .attr("data-clipboard-text", po_this.bibtexsource( po.id ) )
+                                                        .attr("title", "copy BibTeX entry '" + po.id + "' to clipboard")
                                                         .text("📋 BibTeX");
                 }
             },
