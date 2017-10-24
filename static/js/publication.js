@@ -553,7 +553,7 @@ jQuery(function() {
         }
 
         // search action (search only iif more than 2 charcters are inserted)
-        jQuery( "#search" ).on("change keyup paste focus", livesearch );
+        jQuery( "#search" ).on("change keyup paste", livesearch );
 
         // re-search on mode change
         jQuery( "#and" ).change( livesearch );
@@ -574,22 +574,4 @@ jQuery(function() {
                 jQuery( ".publication:not(." + i + ")" ).removeClass( "hidden" + i );
             });
         });
-
-        // update settings/parameter based on GET
-        location.search.substr(1).split('&')
-            .map(function(i) {
-                return i.split("=");
-            })
-            .forEach(function(i) {
-                if ( i[0] === "search" ) {
-                    jQuery( "#search" ).prop( "value", decodeURIComponent( i[1].replace("+", " ") ) );
-                }
-                else if ( i[0] === "mode" || i[0] === "show" ) {
-                    jQuery( "#" + decodeURIComponent( i[1] ) ).prop( "checked", true );
-                }
-            });
 });
-
-window.onload = function(){
-  $( "#search" ).focus();
-}
