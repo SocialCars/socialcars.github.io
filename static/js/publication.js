@@ -574,4 +574,8 @@ jQuery(function() {
                 jQuery( ".publication:not(." + i + ")" ).removeClass( "hidden" + i );
             });
         });
+
+        $(document).ready(function() {
+            jQuery( "#search" ).focus();
+        });
 });
