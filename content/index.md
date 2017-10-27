@@ -1,7 +1,7 @@
 ---
 title: SocialCars - Development and Documentation Website of DFG Research Training Group 1931
 date: 2017-05-15
-linktitle: Home
+linktitle: "Home"
 menu: main
 weight: 100
 type: homepage

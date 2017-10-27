@@ -1,6 +1,7 @@
 ---
 title: "Interdisciplinary Research - SocialCars"
 date: 2017-05-19
+linktitle: "Interdisciplinary Research"
 menu:
   main:
     name: "Interdisciplinary Research"

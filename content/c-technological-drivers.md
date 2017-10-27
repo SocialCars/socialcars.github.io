@@ -1,6 +1,7 @@
 ---
 title: "Research field C: Technological drivers/factors - SocialCars"
 date: 2017-05-16
+linktitle: "Research field C: Technological drivers/factors"
 menu:
   main:
     name: "Research field C"

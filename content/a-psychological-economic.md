@@ -1,6 +1,7 @@
 ---
 title: "Research field A: Psychological and economic drivers/factors - SocialCars"
 date: 2017-05-18
+linktitle: "Research field A: Psychological and economic drivers/factors"
 menu:
   main:
     name: "Research field A"

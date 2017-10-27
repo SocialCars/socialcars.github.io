@@ -1,5 +1,5 @@
 <ul>
 {{ range .Site.RegularPages }}
-	<li><a href="{{ .Permalink }}">{{ .Title | strings.TrimSuffix " - SocialCars" }}</a></li>
+	<li><a href="{{ .Permalink }}">{{ .Params.linktitle }}</a></li>
 {{ end }}
 </ul>

@@ -1,6 +1,7 @@
 ---
 title: "Publications - SocialCars"
 date: 2017-09-28
+linktitle: "Publications"
 menu:
   main:
     name: "Publications"
