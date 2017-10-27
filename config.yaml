@@ -1,6 +1,6 @@
 ---
 baseURL: "https://socialcars.github.io/"
-title: "SocialCars"
+title: "SocialCars - Development and Documentation Website of DFG Research Training Group 1931"
 footnoteReturnLinkContents: "↩"
 languageCode: "en-GB"
 defaultContentLanguage: "en-GB"
@@ -17,6 +17,7 @@ params:
   domain:
     protocol : "https://"
     name : "socialcars.github.io"
+  logotitle: "SocialCars"
   subtitle: "Cooperative (de-&#x2060;)centralized traffic management"
   description: "DFG Research Training Group 1931"
   metadescription: "The focus of SocialCars is on significantly improving future urban road traffic, through cooperative approaches. “How can individual travelers make optimal use of the transport infrastructure, so that safety is increased and congestion and pollution are reduced?” is the key question. SocialCars aims to answer this question by investigating the interaction between centralized (system-optimal) management and decentralized (user-optimal) decisions of traffic participants."

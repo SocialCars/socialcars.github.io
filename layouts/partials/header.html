@@ -46,7 +46,7 @@
 				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
 					<div class="logo__subtitle">{{ htmlUnescape .Site.Params.subtitle | safeHTML }}</div>
 					<div class="logo__description">{{ htmlUnescape .Site.Params.description | safeHTML }}</div>
-					<div class="logo__title"><a class="logo__link" href="{{- .Site.BaseURL -}}">{{ htmlUnescape .Site.Title | safeHTML }}</a></div>
+					<div class="logo__title"><a class="logo__link" href="{{- .Site.BaseURL -}}">{{ htmlUnescape .Site.Params.logotitle | safeHTML }}</a></div>
 				</div>
 			</div>
 			{{ partial "menu.html" . }}
