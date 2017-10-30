@@ -19,6 +19,7 @@ params:
     name : "socialcars.github.io"
   icon:
     logo: "images/logo.png"
+  keywords: "social, cars, simulation, research, documentation, source code, socialcars, vehicle, traffic, system, driver, traffic management, cooperative traffic management, research training group, dfg, 1931, decentralized"
   logotitle: "SocialCars"
   subtitle: "Cooperative (de-&#x2060;)centralized traffic management"
   description: "DFG Research Training Group 1931"
