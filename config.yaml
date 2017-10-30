@@ -17,6 +17,8 @@ params:
   domain:
     protocol : "https://"
     name : "socialcars.github.io"
+  icon:
+    logo: "images/logo.png"
   logotitle: "SocialCars"
   subtitle: "Cooperative (de-&#x2060;)centralized traffic management"
   description: "DFG Research Training Group 1931"

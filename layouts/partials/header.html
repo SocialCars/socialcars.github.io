@@ -38,6 +38,9 @@
 
 
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico">
+
+{{- partial "microdata" . -}}
+
 </head>
 <body class="body {{ if (.Site.Params.leftsidebar) or (.Params.leftsidebar) }}body-left-sidebar{{ else }}body-right-sidebar{{ end }} mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage" {{- if .Params.previous -}}data-previouspage="{{- .Params.previous.url -}}"{{- end }} {{ if .Params.next -}}data-nextpage="{{- .Params.next.url -}}"{{- end -}}>
 	<div class="container container-outer">
