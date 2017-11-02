@@ -392,7 +392,8 @@
     "type": "paper-conference"
   },
   {
-    "DOI": "https://doi.org/10.1016/j.trpro.2017.05.400",
+    "DOI": "10.1016/j.trpro.2017.05.400",
+    "URL": "https://doi.org/10.1016/j.trpro.2017.05.400",
     "author": [
       {
         "family": "Goralzik",
@@ -482,7 +483,8 @@
     "type": "no-type"
   },
   {
-    "DOI": "https://doi.org/10.1016/j.trpro.2017.03.015",
+    "DOI": "10.1016/j.trpro.2017.03.015",
+    "URL": "https://doi.org/10.1016/j.trpro.2017.03.015",
     "author": [
       {
         "family": "Köster",
@@ -734,7 +736,8 @@
     "volume": "7/8-2017"
   },
   {
-    "DOI": "https://doi.org/10.1287/trsc.2016.0719",
+    "DOI": "10.1287/trsc.2016.0719",
+    "URL": "https://doi.org/10.1287/trsc.2016.0719",
     "author": [
       {
         "family": "Ulmer",
@@ -805,7 +808,7 @@
         "given": "L."
       }
     ],
-    "container-title": "UR:BAN human factors in traffic. Approaches for safe, efficient and stressfree urban traffic",
+    "container-title": "UR:BAN human factors in traffic. approaches for safe, efficient and stressfree urban traffic",
     "editor": [
       {
         "comma-suffix": false,
@@ -955,7 +958,8 @@
     "type": "no-type"
   },
   {
-    "DOI": "https://doi.org/10.1016/j.trpro.2017.05.214",
+    "DOI": "10.1016/j.trpro.2017.05.214",
+    "URL": "https://doi.org/10.1016/j.trpro.2017.05.214",
     "author": [
       {
         "family": "Axer",
@@ -1571,7 +1575,7 @@
         "given": "Michael"
       }
     ],
-    "container-title": "Computational logistics. ICCL 2016. Lecture notes in computer science",
+    "container-title": "Computational logistics. iccl 2016. lecture notes in computer science",
     "editor": [
       {
         "family": "Paias",
@@ -1785,7 +1789,8 @@
     "type": "report"
   },
   {
-    "DOI": "http://dx.doi.org/10.1016/j.aap.2016.06.003",
+    "DOI": "10.1016/j.aap.2016.06.003",
+    "URL": "http://dx.doi.org/10.1016/j.aap.2016.06.003",
     "author": [
       {
         "family": "Vollrath",
@@ -2434,7 +2439,7 @@
       ]
     },
     "page": "1028-1034",
-    "title": "Accident prevention through visual warnings. How to design warnings in head-up display for older and younger drivers",
+    "title": "Accident prevention through visual warnings. how to design warnings in head-up display for older and younger drivers",
     "type": "paper-conference",
     "volume": "18"
   },
@@ -2467,7 +2472,8 @@
     "type": "no-type"
   },
   {
-    "DOI": "https://doi.org/10.1016/j.trpro.2015.09.021",
+    "DOI": "10.1016/j.trpro.2015.09.021",
+    "URL": "https://doi.org/10.1016/j.trpro.2015.09.021",
     "author": [
       {
         "family": "Köster",
@@ -2814,7 +2820,7 @@
         "given": "Monika"
       }
     ],
-    "container-title": "Proc. Of the 3rd agile phd school",
+    "container-title": "Proc. of the 3rd agile phd school",
     "editor": [
       {
         "family": "Comber",
