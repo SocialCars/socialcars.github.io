@@ -184,20 +184,22 @@
                       .append( "&#128206;&nbsp;&nbsp;" )
                     );
                     // authors
-                    lo.append(
-                      jQuery('<em>').append(
-                        po.author.map( function(i) { 
-                            return i.given && i.family 
-                                ? i.family + ( i["dropping-particle"] ? " " + i["dropping-particle"] : "" ) + ", " + i.given[0] + "."
-                                : ( i["literal"] ? i["literal"] : null ); 
-                        })
-                        .filter(function(i) { return i != null; }).join("; ") 
-                      )
-                    );
+                    if ( po.author )
+                        lo.append(
+                          jQuery('<em>').append(
+                            po.author.map( function(i) { 
+                                return i.given && i.family 
+                                    ? i.family + ( i["dropping-particle"] ? " " + i["dropping-particle"] : "" ) + ", " + i.given[0] + "."
+                                    : ( i["literal"] ? i["literal"] : null ); 
+                            })
+                            .filter(function(i) { return i != null; }).join("; ") 
+                          )
+                        );
                     // year
-                    lo.append(
-                      " (" + ( po.issued ? po.issued["date-parts"][0][0] : "" ) + "). "
-                    );
+                    if ( po.issued && po.issued["date-parts"][0][0] )
+                        lo.append(
+                          " (" + po.issued["date-parts"][0][0] + "). "
+                        );
                     // title
                     lo.append( po.URL ? jQuery("<a>").attr("href", po.URL ).append( titlecase( po.title ) + "." ) : titlecase( po.title ) + "." ); 
                     if ( po.DOI )
@@ -473,7 +475,7 @@ jQuery(function() {
                                                         .attr("href", "#" + lo_id( po.id ) )
                                                         .attr("data-clipboard-text", po_this.bibtexsource( po.id ) )
                                                         .attr("title", "copy BibTeX entry '" + po.id + "' to clipboard")
-                                                        .text("📋 BibTeX");
+                                                        .html("&#128203;&nbsp;BibTeX");
                 }
             },
 

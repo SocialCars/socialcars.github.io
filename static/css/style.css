@@ -381,6 +381,10 @@ ul.publication > li > a:first-child:hover {
 	text-decoration: none;
 }
 
+p.publicationtext > a:first-child:hover {
+	text-decoration: none;
+}
+
 dl {
 	margin: 0 0 10px 20px;
 }
