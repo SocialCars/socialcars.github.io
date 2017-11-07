@@ -1205,7 +1205,7 @@ a.anchor:hover {
 }
 
 .visible /*:nth-of-type(even)*/ {
-  background-color: #eee;
+  background-color: #f0f0f0;
 }
 
 .title, .author, .editor, .publishing {
