@@ -17,7 +17,7 @@ next :
 
 ## Research field B: (De-&#x2060;)centralized cooperative traffic management
 
-Research field B put emphases on key models and key methods of (de-&#x2060)centralized cooperative traffic management which are investigated in the research areas _(De-&#x2060)centralized cooperative traffic management (B1)_ and _Distributed intelligent and cooperative systems (B2)_.
+Research field B put emphases on key models and key methods of (de-&#x2060)centralized cooperative traffic management which are investigated in the research areas _(De-&#x2060;)centralized cooperative traffic management (B1)_ and _Distributed intelligent and cooperative systems (B2)_.
 
 <br>
 
@@ -71,7 +71,7 @@ To answer my research questions regarding coordination mechanisms on 2+1 roadway
 
 ##### Activities
 
-* **2017-09-19:** After ~3 month of preparation, [we](https://lightjason.github.io/about/) held the [multi-agent simulation workshop](http://lightjason.org/news/2017-09-workshop/) for the 2nd SocialCars cohort. My part was designing and realising the didactic concepts of the workshop.
+* **2017-09-19:** After ~3 months of preparation, [we](https://lightjason.github.io/about/) held the [multi-agent simulation workshop](http://lightjason.org/news/2017-09-workshop/) for the 2nd SocialCars cohort. My part was designing and realising the didactic concepts of the workshop.
 * **2017-09-05:** [Presented](/pdf/2017-09-05-ewgt2017-slides.pdf) our publication [_Towards Fair and Efficient Traffic Flow Coordination Mechanisms for 2+1 Roadways_](http://easychair.org/smart-program/EWGT2017/2017-09-05.html#talk:47210) at [EWGT 2017, Budapest, 20th EURO Working Group on Transportation Meeting](http://ewgt2017.bme.hu).
 * **2017-06-30:** Presented [_Confirmability and reproducibility of
 scientific insights and artefacts_](/pdf/2017-06-30-sc-kickoff.pdf) at the SocialCars kickoff workshop for the 2nd cohort. Philipp Kraus and I put forward solutions to ensure reproducibility and transparency of scientific models and results in compliance with DFG regulations.
