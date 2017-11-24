@@ -109,7 +109,7 @@ jobs:
                 command: GIT_COMMIT_MESSAGE="$(git show -s --pretty=format:%s $CIRCLE_SHA1)" && git commit -m "webpage update [$GIT_COMMIT_MESSAGE]"
             - add_ssh_keys:
                 fingerprints:
-                    - "68:f3:5d:d1:2e:72:7e:73:14:40:07:7e:82:04:4a:37"
+                    - "af:42:0d:37:ed:5f:b9:a0:66:38:33:c9:91:43:dd:02"
             - run:
                 name: Delete Remote Master Branch
                 command: git push origin :master || true                     
