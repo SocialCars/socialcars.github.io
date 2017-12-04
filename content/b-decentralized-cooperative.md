@@ -171,6 +171,7 @@ To answer my research questions regarding the suitability of different voting me
 * **2015-02-12:** Attended [AAET 2015](https://www.its-automotive-nord.de/download/AAET/aaet_2015_programm.pdf).
 
 <br>
+{{< printerlinebreak >}}
 
 ##### Publications
 {{< printpublication author="Dennisen" >}}
