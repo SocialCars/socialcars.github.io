@@ -1,3 +1,18 @@
-<a href="/publication#{{- index .Params 0 | plainify | urlize -}}">[see]</a>
+{{ $id := index .Params 0 | plainify }}
+{{ range where $.Site.Data.references "id" $id }}
+	{{ if lt .author 3 }}
+		[<a name="{{- .id | plainify -}}" href="/publications/#publication-{{- .id | plainify -}}">&#x1f4d6;&nbsp;{{- delimit (apply (apply .author "partial" "author" ".") "chomp" ".") "; " }}
+			{{- if (isset . "issued") | and (not (eq .issued "")) }}
+	                ({{ index .issued "date-parts" 0 0 }})
+	        {{- end -}}]
+		</a>]
+	{{ else }}
+		[<a name="{{- .id | plainify -}}" href="/publications/#publication-{{- .id | plainify -}}">&#x1f4d6;&nbsp;{{- index (apply .author "partial" "author" ".") 0 -}}; et al.
+				{{- if (isset . "issued") | and (not (eq .issued "")) }}
+	                ({{ index .issued "date-parts" 0 0 }})
+	            {{- end -}}
+		</a>]
 
-{{ partial "publication" . -}}
+	{{ end }}
+{{ end }}
+
