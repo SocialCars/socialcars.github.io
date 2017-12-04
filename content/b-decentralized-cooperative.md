@@ -40,7 +40,7 @@ Research field B put emphases on key models and key methods of (de-&#x2060;)cent
 
 #### B2.1 [Malte Aschermann:](https://github.com/masc) A mechanism for automatic coordination of cooperative driving manoeuvres: Fairness vs. Efficiency
 
-{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" title="Figure B2.1.1: Coordination of Vehicles by Means of Policies" >}}
+{{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" captionalign="center" title="Figure B2.1.1: Coordination of Vehicles by Means of Policies" >}}
 
 ##### Cooperative Lane Management and Traffic flow Optimisation
 
@@ -50,12 +50,12 @@ To answer my research questions regarding coordination mechanisms on 2+1 roadway
 
 **Execution Model**<br>
   The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure:
-  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" captionalign="center" %}}
 
 <br>
 **Architecture**<br>
   The software architecture is structured as follows:
-  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" captionalign="center" %}}
 
 <br>
 **[Source Code](https://github.com/SocialCars/colmto) Statistics**
@@ -126,7 +126,7 @@ Our goal is to provide researchers a scalable platform to simulate multi-agent e
 
 In my research, I consider an intraurban (future) scenario where visitors of a city form travel groups at pre-defined locations and need to agree on locations to visit together. 
 
-{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B221-1.png" title="Figure B2.2.1: Phases for Collective Decision Making in urban traffic" width="800px" align="left" %}}
+{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B221-1.png" title="Figure B2.2.1: Phases for Collective Decision Making in urban traffic" width="800px" align="left" captionalign="center" %}}
 
 
 ##### LightVoting
@@ -138,13 +138,13 @@ To answer my research questions regarding the suitability of different voting me
 **Execution Model**<br>
   The following figure depicts the execution model of LightVoting:
   
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" captionalign="center" %}}
 
 <br>
 **Simulation Architecture**<br>
   The following figure gives an overview of the LightVoting simulation architecture:
 
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="540px" align="left" %}}
+  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="540px" align="left" captionalign="center" %}}
 
 <br>
 **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
