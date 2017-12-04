@@ -141,6 +141,8 @@ To answer my research questions regarding the suitability of different voting me
   {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" captionalign="center" %}}
 
 <br>
+{{< printerlinebreak >}}
+
 **Simulation Architecture**<br>
   The following figure gives an overview of the LightVoting simulation architecture:
 
