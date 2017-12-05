@@ -5,14 +5,14 @@
 				{{- if (isset . "issued") | and (not (eq .issued "")) }}
 		                ({{ index .issued "date-parts" 0 0 }})
 		        {{- end -}}
-		        {{- with $.Params.pages }}{{ if or (in . "-") (in . ",") }}, pp. {{.}}{{ else }}; p. {{.}}{{ end }}{{ end -}}
+		        {{- with $.Params.pages }}{{ if or (in . "-") (in . ",") }}, pp. {{.}}{{ else }}, p. {{.}}{{ end }}{{ end -}}
 			</a>]
 		{{ else }}
-			[<a name="{{- .id | plainify -}}" href="/publications/#publication-{{- .id | plainify -}}">&#x1f4d6;&nbsp;{{- index (apply .author "partial" "refauthor" ".") 0 -}}, et al.
+			[<a name="{{- .id | plainify -}}" href="/publications/#publication-{{- .id | plainify -}}">&#x1f4d6;&nbsp;{{- index (apply .author "partial" "refauthor" ".") 0 -}}<em>, et al.</em>
 					{{- if (isset . "issued") | and (not (eq .issued "")) }}
 		                ({{ index .issued "date-parts" 0 0 }})
 		            {{- end -}}
-		            {{- with $.Params.pages }}{{ if or (in . "-") (in . ",") }}, pp. {{.}}{{ else }}; p. {{.}}{{ end }}{{ end -}}
+		            {{- with $.Params.pages }}{{ if or (in . "-") (in . ",") }}, pp. {{.}}{{ else }}, p. {{.}}{{ end }}{{ end -}}
 			</a>]
 		{{ end }}
 	{{ end }}
