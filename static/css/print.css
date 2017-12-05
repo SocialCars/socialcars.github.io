@@ -35,7 +35,7 @@ pre, blockquote {
     page-break-inside: avoid;
 }
 
-div.linebreak {
+div.pagebreak {
     page-break-after: always;
 }
 
@@ -62,15 +62,12 @@ code, pre {
 
 img, figure, figcaption {
     max-width: 100%;
-    /*max-height: 6.5cm;*/
 }
 
 ul li img, ul li figure, ul li figcaption {
     max-width: 100%;
-    /*max-height: 6.5cm;*/
 }
 
 ul li ul li img, ul li ul li figure, ul li ul li figcaption {
     max-width: 100%;
-    /*max-height: 6.5cm;*/
 }
