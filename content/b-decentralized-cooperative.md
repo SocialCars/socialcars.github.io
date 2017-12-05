@@ -38,7 +38,7 @@ Research field B put emphases on key models and key methods of (de-&#x2060;)cent
 {{< img src="/images/b-decentralized-cooperative/B21und22_web-neu.jpg" height="180px" >}}
 
 
-#### B2.1 [Malte Aschermann:](https://github.com/masc) A mechanism for automatic coordination of cooperative driving manoeuvres: Fairness vs. Efficiency
+#### B2.1 [Malte Aschermann:](https://github.com/masc) Automated Mechanisms of Cooperative Traffic Flow Coordination: Fairness vs. Efficiency
 
 {{< fig src="/images/b-decentralized-cooperative/malte/summary.nosvgo.svg" width="800px" align="left" captionalign="center" title="Figure B2.1.1: Coordination of Vehicles by Means of Policies" >}}
 
@@ -90,7 +90,7 @@ The findings were submitted as EWGT 2017 paper *Towards Fair and Efficient Traff
 
 ##### LightJason/AgentSpeak(L++)
 
-Since 2015, I am working together with [Philipp Kraus](https://github.com/flashpixx) on a joint project called LightJason/AgentSpeak(L++).
+Since 2015, I am working together with [Philipp Kraus](https://github.com/flashpixx) and [Sophie Dennisen](https://github.com/sdennisen) on a joint project called LightJason/AgentSpeak(L++).
 
 As described on our [website](http://lightjason.org)
 
