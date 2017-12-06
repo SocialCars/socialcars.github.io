@@ -1,4 +1,7 @@
 {{ if .IsNamedParams }}
+	{{ if .Get "font-size" }}
+	<div style="font-size: {{ .Get "font-size" }};">
+	{{ end }}
 	{{ range where $.Site.Data.references "id" (.Get "id") }}
 		{{ if lt .author 3 }}
 			[<a name="{{- .id | plainify -}}" href="/publications/#publication-{{- .id | plainify -}}">&#x1f4d6;&nbsp;{{- delimit (apply (apply .author "partial" "refauthor" ".") "chomp" ".") ", " }}
@@ -15,5 +18,8 @@
 		            {{- with $.Params.pages }}{{ if or (in . "-") (in . ",") }}, pp. {{.}}{{ else }}, p. {{.}}{{ end }}{{ end -}}
 			</a>]
 		{{ end }}
+	{{ end }}
+	{{ if .Get "font-size" }}
+	</div>
 	{{ end }}
 {{ end }}
