@@ -8,10 +8,10 @@
 [{
 	"@context": "http://schema.org",
 	"@type": "Organization",	
-	"name" : {{ .Site.Title -}},
-	"email" : {{ .Site.Params.contact -}},
-	"url" : {{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" -}},
-	"logo" : {{ delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}},
+	"name" : "{{ .Site.Title -}}",
+	"email" : "{{ .Site.Params.contact -}}",
+	"url" : "{{ delimit (slice .Site.Params.domain.protocol .Site.Params.domain.name) "" -}}",
+	"logo" : "{{ delimit (slice .Site.BaseURL .Site.Params.icon.logo) "" -}}",
 	"founders": [
 		{{- range $i, $l := .Site.Params.person -}}
 		{{- if gt $i 0 -}},{{- end -}}
@@ -40,11 +40,11 @@
 {
 	"@context": "http://schema.org",
 	"@type": "WebSite",
-	"name": {{ .Site.Title -}},
-	"alternateName": {{ .Site.Title -}},
-	"url": {{- partial "domainlink" (dict "content" .) }}
-	{{ with .Site.Params.license }}, "license" : {{ . -}}{{- end }}
-	{{ with .Site.Params.keywords -}}, "genre" : {{ . -}}, "keywords" : {{ . -}}{{- end }}
+	"name": "{{ .Site.Title -}}",
+	"alternateName": "{{ .Site.Title -}}",
+	"url": "{{- partial "domainlink" (dict "content" .) }}"
+	{{ with .Site.Params.license }}, "license" : "{{ . -}}"{{- end }}
+	{{ with .Site.Params.keywords -}}, "genre" : "{{ . -}}", "keywords" : "{{ . -}}"{{- end }}
 	, "author" : [
 		{{- range $i, $l := .Site.Params.person -}}
 		{{- if gt $i 0 -}},{{- end -}}
