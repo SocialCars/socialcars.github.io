@@ -12,12 +12,12 @@
 {{ .Hugo.Generator }}
 {{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript" integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f" crossorigin="anonymous"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" integrity="sha384-ekJxthwrl3ID8DzHP2myRUdIPhTdEgNJ1xKhDsMKDT3+kBlZ4Zwk5zH960SnLZR8" crossorigin="anonymous" async></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f" crossorigin="anonymous"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-ekJxthwrl3ID8DzHP2myRUdIPhTdEgNJ1xKhDsMKDT3+kBlZ4Zwk5zH960SnLZR8" crossorigin="anonymous" async></script>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[["$","$"]],displayMath:[["$$","$$"]],processEscapes:!0,processEnvironments:!1,skipTags:["script","noscript","style","textarea","pre","code"],TeX:{equationNumbers:{autoNumber:"AMS"},extensions:["autoload-all.js"]},menuSettings:{zoom: "Double-Click",mpContext: true,mpMouse: true}}})</script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha384-Cs3dgUx6+jDxxuqHvVH8Onpyj2LF1gKZurLDlhqzuJmUqVYMJ0THTWpxK5Z086Zm" crossorigin="anonymous" async></script>
 
-<script src="{{- .Site.BaseURL -}}js/jquery.hammer.js" type="text/javascript" defer></script>
+<script src="{{- .Site.BaseURL -}}js/jquery.hammer.js" defer></script>
 
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
 {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ .RSSLink }}">{{ end }}
@@ -27,12 +27,12 @@
 
 {{ if eq .Title "Publications - SocialCars" }}
 <script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script>
-<script type="text/javascript" src="{{- .Site.BaseURL -}}js/publication.js"></script>
+<script src="{{- .Site.BaseURL -}}js/publication.js"></script>
 {{ end }}
 
-<script type="text/javascript" src="{{- .Site.BaseURL -}}js/toc.min.js" async></script>
-<script type="text/javascript" src="{{- .Site.BaseURL -}}js/scripts.js"></script>
-<script type="text/javascript" src="{{- .Site.BaseURL -}}js/script.js" defer></script>
+<script src="{{- .Site.BaseURL -}}js/toc.min.js" async></script>
+<script src="{{- .Site.BaseURL -}}js/scripts.js"></script>
+<script src="{{- .Site.BaseURL -}}js/script.js" defer></script>
 
 
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}favicon.ico">
@@ -40,7 +40,7 @@
 {{- partial "microdata" . -}}
 
 </head>
-<body class="body {{ if (.Site.Params.leftsidebar) or (.Params.leftsidebar) }}body-left-sidebar{{ else }}body-right-sidebar{{ end }} mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage" {{- if .Params.previous -}}data-previouspage="{{- .Params.previous.url -}}"{{- end }} {{ if .Params.next -}}data-nextpage="{{- .Params.next.url -}}"{{- end -}}>
+<body class="body {{ if (.Site.Params.leftsidebar) or (.Params.leftsidebar) }}body-left-sidebar{{ else }}body-right-sidebar{{ end }} mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage" {{- if .Params.previous }} data-previouspage="{{- .Params.previous.url -}}"{{- end }} {{ if .Params.next -}}data-nextpage="{{- .Params.next.url -}}"{{- end -}}>
 	<div class="container container-outer">
 		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 			<div class="container container-inner clearfix">
