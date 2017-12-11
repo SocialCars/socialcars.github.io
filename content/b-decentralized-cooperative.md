@@ -150,8 +150,8 @@ To answer my research questions regarding the suitability of different voting me
 {{< br >}}
 **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
 
-  * [![license](https://img.shields.io/badge/license-GNU Lesser General Public License v3.0-blue.svg)](https://github.com/SocialCars/LightVoting/blob/master/LICENSE.md)
-  * [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/LightVoting.svg?label=current build status)](https://circleci.com/gh/SocialCars/LightVoting)
+  * [![license](https://img.shields.io/badge/license-GNU%20Lesser%20General%20Public%20License%20v3.0-blue.svg)](https://github.com/SocialCars/LightVoting/blob/master/LICENSE.md)
+  * [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/LightVoting.svg?label=current%20build%20status)](https://circleci.com/gh/SocialCars/LightVoting)
   * [![html documentation](https://img.shields.io/badge/documentation-HTML-blue.svg)](http://socialcars.github.io/LightVoting/sources/index.html)
 
 {{< br >}}
@@ -163,7 +163,7 @@ To answer my research questions regarding the suitability of different voting me
 * **2016-12-15:** Attended [EUMAS 2016](http://eumas-at2016.webs.upv.es). 
 * **2016-07-10:** Presented paper [Iterative committee elections for collective decision-making in a ride-sharing application](http://ceur-ws.org/Vol-1678/paper15.pdf) at [ATT 2016](http://www.ia.urjc.es/att2016/)
 * **2016-06-02:** Attended [SECURITY 2016](https://www.tu-braunschweig.de/tubsdigital/veranstaltungen/security2016/index.html).
-* **2015-09-28:** Presented paper [Agent-Based Voting Architecture for Traffic Applications](https://link.springer.com/chapter/10.1007/978-3-319-27343-3_11) at [MATES 2015](http://www.wikicfp.com/cfp/servlet/ event.showcfp?eventid=48009&copyownerid=78177) and attended Doctoral Consortium of MATES 2015 with talk "Voting in Traffic Applications".
+* **2015-09-28:** Presented paper [Agent-Based Voting Architecture for Traffic Applications](https://link.springer.com/chapter/10.1007/978-3-319-27343-3_11) at [MATES 2015](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=48009&copyownerid=78177) and attended Doctoral Consortium of MATES 2015 with talk "Voting in Traffic Applications".
 * **2015-07-06:** Attended [EASSS 2015](http://www.iiia.csic.es/easss2015/).
 * **2015-05-06:** Presented poster [Voter dissatisfaction in committee elections](http://www.aamas-conference.org/Proceedings/aamas2015/aamas/p1707.pdf) at [AAMAS 2015](http://www.aamas-conference.org/AAMAS/aamas2015/)
 * **2015-04-26:** Co-authored paper [Winner Determination and Manipulation in Minisum and Minimax Committee Elections](https://link.springer.com/chapter/10.1007/978-3-319-23114-3_28) which was accepted for publication at [ADT 2015](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=42271&copyownerid=72673).
