@@ -48,15 +48,18 @@ To answer my research questions regarding coordination mechanisms on 2+1 roadway
 
 {{< br >}}
 
-**Execution Model**{{< br >}}
-  The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure:
-  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" captionalign="center" %}}
+**Execution Model**
 
-**Architecture**{{< br >}}
-  The software architecture is structured as follows:
-  {{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" captionalign="center" %}}
+The execution model of CoLMTO, developed to conduct my simulation studies, is depicted in the following figure:
 
-{{< br >}}
+{{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-Execution-Model.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Execution Model" align="left" captionalign="center" %}}
+
+**Architecture**
+  
+The software architecture is structured as follows:
+
+{{% fig src="/images/b-decentralized-cooperative/malte/CoLMTO-EWGT2017-Architecture.nosvgo.svg" title="Figure B2.1.2: The CoLMTO Simulation Architecture as of release [v0.1.1](https://github.com/SocialCars/colmto/releases/tag/v0.1.1)" width="600px" align="left" captionalign="center" %}}
+
 **[Source Code](https://github.com/SocialCars/colmto) Statistics**
 
   * [![license](https://img.shields.io/github/license/SocialCars/colmto.svg)](https://github.com/SocialCars/colmto/blob/master/license.md)
@@ -103,6 +106,7 @@ Our goal is to provide researchers a scalable platform to simulate multi-agent e
 {{< printerpagebreak >}}
 
 ##### Related student research projects (supervised by me)
+
   * Platooning models for autonomous vehicles in SUMO ([GitHub](https://github.com/sinziana-sebe/sumo))
   * Vehicle following models with social force (BSc thesis, [GitHub](https://github.com/TranKhacDat/SocialForceVehicles))
   * Agent-based simulation of cooperative driving manoeuvres of autonomous cars (BSc thesis, [GitHub](https://github.com/adityaraj52/AgentDrive_BachelorsThesis))
@@ -112,6 +116,7 @@ Our goal is to provide researchers a scalable platform to simulate multi-agent e
 {{< br >}}
 
 ##### Publications
+
 {{< printpublication author="Aschermann" >}}
 
 {{< br >}}
@@ -135,19 +140,22 @@ To answer my research questions regarding the suitability of different voting me
 
 {{< br >}}
 
-**Execution Model**{{< br >}}
-  The following figure depicts the execution model of LightVoting:
+**Execution Model**
+
+The following figure depicts the execution model of LightVoting:
   
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" captionalign="center" %}}
+{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" captionalign="center" %}}
 
 {{< br >}}
 
-**Simulation Architecture**{{< br >}}
-  The following figure gives an overview of the LightVoting simulation architecture:
+**Simulation Architecture**
 
-  {{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="540px" align="left" captionalign="center" %}}
+The following figure gives an overview of the LightVoting simulation architecture:
+
+{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B223-3.png" title="Figure B2.2.3: LightVoting Simulation Architecture" width="540px" align="left" captionalign="center" %}}
 
 {{< br >}}
+
 **[Source Code](https://github.com/SocialCars/LightVoting) Statistics**
 
   * [![license](https://img.shields.io/badge/license-GNU%20Lesser%20General%20Public%20License%20v3.0-blue.svg)](https://github.com/SocialCars/LightVoting/blob/master/LICENSE.md)
@@ -172,6 +180,7 @@ To answer my research questions regarding the suitability of different voting me
 {{< br >}}
 
 ##### Publications
+
 {{< printpublication author="Dennisen" >}}
 
 {{< br >}}
