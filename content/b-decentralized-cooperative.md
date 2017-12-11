@@ -103,6 +103,7 @@ As described on our [website](http://lightjason.org)
 Our goal is to provide researchers a scalable platform to simulate multi-agent environments with concurrent execution in mind.
 
 {{< br >}}
+
 {{< printerpagebreak >}}
 
 ##### Related student research projects (supervised by me)
