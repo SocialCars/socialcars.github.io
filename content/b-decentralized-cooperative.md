@@ -60,8 +60,8 @@ To answer my research questions regarding coordination mechanisms on 2+1 roadway
 **[Source Code](https://github.com/SocialCars/colmto) Statistics**
 
   * [![license](https://img.shields.io/github/license/SocialCars/colmto.svg)](https://github.com/SocialCars/colmto/blob/master/license.md)
-  * [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/colmto.svg?label=current build status)](https://circleci.com/gh/SocialCars/colmto)&nbsp;
-  [![Codecov](https://img.shields.io/codecov/c/github/SocialCars/colmto.svg?label=test coverage)](https://codecov.io/gh/SocialCars/colmto)&nbsp;
+  * [![CircleCI](https://img.shields.io/circleci/project/github/SocialCars/colmto.svg?label=current%20build%20status)](https://circleci.com/gh/SocialCars/colmto)&nbsp;
+  [![Codecov](https://img.shields.io/codecov/c/github/SocialCars/colmto.svg?label=unit%20test%20coverage)](https://codecov.io/gh/SocialCars/colmto)&nbsp;
   [![Codacy](https://img.shields.io/codacy/7219fdeb9df44627bf66e4966e02dafd.svg)](https://www.codacy.com/app/masc/socialcars_colmto)
   * [![html documentation](https://img.shields.io/badge/documentation-HTML-blue.svg)](http://socialcars.github.io/colmto/docs/sources/index.html)
 
