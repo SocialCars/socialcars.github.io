@@ -97,6 +97,14 @@
     "volume": "10207"
   },
   {
+    "author": [
+      {
+        "comma-suffix": false,
+        "family": "Bao",
+        "given": "Y.",
+        "suffix": "L. Li"
+      }
+    ],
     "container-title": "96th annual meeting of transportation research board",
     "genre": "Conference Proceedings",
     "id": "RN93",
@@ -800,7 +808,15 @@
         "given": "L."
       }
     ],
-    "container-title": "UR:BAN human factors in traffic. Approaches for safe, efficient and stressfree urban traffic",
+    "container-title": "UR:BAN human factors in traffic. approaches for safe, efficient and stressfree urban traffic",
+    "editor": [
+      {
+        "comma-suffix": false,
+        "family": "Bengler",
+        "given": "Hoffmann",
+        "suffix": "K."
+      }
+    ],
     "genre": "Book Section",
     "id": "RN78",
     "issued": {
@@ -1559,7 +1575,7 @@
         "given": "Michael"
       }
     ],
-    "container-title": "Computational logistics. ICCL 2016. Lecture notes in computer science",
+    "container-title": "Computational logistics. iccl 2016. lecture notes in computer science",
     "editor": [
       {
         "family": "Paias",
@@ -1991,7 +2007,6 @@
     "type": "thesis"
   },
   {
-    "URL": "http://www.aamas-conference.org/Proceedings/aamas2015/aamas/p1707.pdf",
     "author": [
       {
         "family": "Baumeister",
@@ -2017,7 +2032,6 @@
     "type": "paper-conference"
   },
   {
-    "URL": "https://link.springer.com/chapter/10.1007/978-3-319-23114-3_28",
     "author": [
       {
         "family": "Baumeister",
@@ -2198,7 +2212,6 @@
     "type": "article-journal"
   },
   {
-    "URL": "https://link.springer.com/chapter/10.1007/978-3-319-27343-3_11",
     "author": [
       {
         "family": "Dennisen",
@@ -2426,7 +2439,7 @@
       ]
     },
     "page": "1028-1034",
-    "title": "Accident prevention through visual warnings. How to design warnings in head-up display for older and younger drivers",
+    "title": "Accident prevention through visual warnings. how to design warnings in head-up display for older and younger drivers",
     "type": "paper-conference",
     "volume": "18"
   },
@@ -2612,6 +2625,7 @@
       ]
     },
     "page": "329-342",
+    "publisher": "Wichmann/VDE Verlag, Berlin & Offenbach",
     "title": "Interpretation of moving point trajectories",
     "type": "no-type"
   },
@@ -2806,7 +2820,7 @@
         "given": "Monika"
       }
     ],
-    "container-title": "Proc. Of the 3rd agile phd school",
+    "container-title": "Proc. of the 3rd agile phd school",
     "editor": [
       {
         "family": "Comber",
