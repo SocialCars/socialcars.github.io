@@ -145,7 +145,7 @@ To answer my research questions regarding the suitability of different voting me
 
 The following figure depicts the execution model of LightVoting:
   
-{{% fig src="/images/b-decentralized-cooperative/sophie/17-09-27-B222-2.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" captionalign="center" %}}
+{{% fig src="/images/b-decentralized-cooperative/sophie/18-04-03-B222.png" title="Figure B2.2.2: Execution Model for LightVoting" width="640px" align="left" captionalign="center" %}}
 
 {{< br >}}
 
