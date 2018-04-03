@@ -62,15 +62,15 @@ jobs:
             - run:
                 name: Minify SVGs
                 command: find public -type f -name "*.svg" -and -not -name "*.nosvgo.svg" -exec node_modules/svgo/bin/svgo --config=data/svgo.config \{\} \;
-            - run:
-                name: Minify HTML
-                command: find public -type f -name "*.htm*" -exec data/minify.sh \{\} \;
-            - run:
-                name: Minify CSS
-                command: find public -type f -name "*.css" -exec data/minify.sh \{\} \;
-            - run:
-                name: Minify JS
-                command: find public -type f -name "*.js" -exec data/minifyjs.sh \{\} \;
+            # - run:
+            #     name: Minify HTML
+            #     command: find public -type f -name "*.htm*" -exec data/minify.sh \{\} \;
+            # - run:
+            #     name: Minify CSS
+            #     command: find public -type f -name "*.css" -exec data/minify.sh \{\} \;
+            # - run:
+            #     name: Minify JS
+            #     command: find public -type f -name "*.js" -exec data/minifyjs.sh \{\} \;
             - run:
                 name: Build Artifacts
                 command: tar -cvjSf site.tar.bz2 public/*    
