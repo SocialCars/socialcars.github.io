@@ -12,7 +12,7 @@
 {{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
 
 <script src="{{- .Site.BaseURL -}}js/jquery.min.js"></script>
-<script src="{{- .Site.BaseURL -}}js/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-ekJxthwrl3ID8DzHP2myRUdIPhTdEgNJ1xKhDsMKDT3+kBlZ4Zwk5zH960SnLZR8" crossorigin="anonymous" async></script>
+<script src="{{- .Site.BaseURL -}}js/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[["$","$"]],displayMath:[["$$","$$"]],processEscapes:!0,processEnvironments:!1,skipTags:["script","noscript","style","textarea","pre","code"],TeX:{equationNumbers:{autoNumber:"AMS"},extensions:["autoload-all.js"]},menuSettings:{zoom: "Double-Click",mpContext: true,mpMouse: true}}})</script>
 <script src="{{- .Site.BaseURL -}}js/hammer.min.js" async></script>
 
