@@ -11,21 +11,19 @@
 {{ .Hugo.Generator }}
 {{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f" crossorigin="anonymous"></script>
+<script src="{{- .Site.BaseURL -}}js/jquery.min.js" integrity="sha384-xBuQ/xzmlsLoJpyjoggmTEz8OWUFM0/RC5BsqQBDX2v5cMvDHcMakNTNrHIW2I5f" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-ekJxthwrl3ID8DzHP2myRUdIPhTdEgNJ1xKhDsMKDT3+kBlZ4Zwk5zH960SnLZR8" crossorigin="anonymous" async></script>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[["$","$"]],displayMath:[["$$","$$"]],processEscapes:!0,processEnvironments:!1,skipTags:["script","noscript","style","textarea","pre","code"],TeX:{equationNumbers:{autoNumber:"AMS"},extensions:["autoload-all.js"]},menuSettings:{zoom: "Double-Click",mpContext: true,mpMouse: true}}})</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js" integrity="sha384-Cs3dgUx6+jDxxuqHvVH8Onpyj2LF1gKZurLDlhqzuJmUqVYMJ0THTWpxK5Z086Zm" crossorigin="anonymous" async></script>
+<script src="{{- .Site.BaseURL -}}js/hammer.min.js" integrity="sha384-Cs3dgUx6+jDxxuqHvVH8Onpyj2LF1gKZurLDlhqzuJmUqVYMJ0THTWpxK5Z086Zm" crossorigin="anonymous" async></script>
 
 <script src="{{- .Site.BaseURL -}}js/jquery.hammer.js" defer></script>
 
-<link rel="dns-prefetch" href="//fonts.googleapis.com" />
 {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ .RSSLink }}">{{ end }}
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700" type="text/css" media="all" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" type="text/css" media="all" />
 <link href="{{- .Site.BaseURL -}}css/print.css" type="text/css" rel="stylesheet" media="print" />
 
 {{ if eq .Title "Publications - SocialCars" }}
-<script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script>
+<script src="{{- .Site.BaseURL -}}js/clipboard.min.js" integrity="sha256-hIvIxeqhGZF+VVeM55k0mJvWpQ6gTkWk3Emc+NmowYA=" crossorigin="anonymous"></script>
 <script src="{{- .Site.BaseURL -}}js/publication.js"></script>
 {{ end }}
 
