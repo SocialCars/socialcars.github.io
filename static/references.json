@@ -19,7 +19,7 @@
         "given": "Jörg P."
       }
     ],
-    "container-title": "Proc. Of the 17th international conference on autonomous agents and multiagent systems (AAMAS 2018), accepted, to appear",
+    "container-title": "Proc. of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2018), M. Dastani, G. Sukthankar, E. André, S. Koenig (eds.), July 10–15, 2018, Stockholm, Sweden.",
     "id": "ADK2018aamasdemo",
     "issued": {
       "date-parts": [
@@ -28,9 +28,11 @@
         ]
       ]
     },
+    "note": "Accepted, to appear",
     "page": "tbd",
+    "publisher": "ACM Proceedings",
     "title": "LightJason, a Highly Scalable and Concurrent Agent Framework: Overview and Application (Demonstration)",
-    "type": "paper-conference"
+    "type": "paper-conference",
   },
   {
     "author": [
