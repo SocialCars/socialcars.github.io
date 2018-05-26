@@ -483,7 +483,7 @@ jQuery(function() {
             callbackFinish : function( po_this ) { 
 
                 // give-all items
-                var lo_all = new Clipboard("#giveall", { text : function() {
+                var lo_all = new ClipboardJS("#giveall", { text : function() {
                     return jQuery(".visible > a").filter(function(i, po) { return jQuery(po).parent().attr("class").indexOf("hidden") === -1; })
                                                  .map(function(i, po) { return jQuery(po).data("clipboard-text"); })
                                                  .get()
@@ -492,7 +492,7 @@ jQuery(function() {
                 lo_all.on("success", function(po) { alert("BibTeX Entries copied to Clipboard"); po.clearSelection(); });
 
                 // set clipboard for bibtex button
-                var lo = new Clipboard(".bibtex"); 
+                var lo = new ClipboardJS(".bibtex"); 
                 lo.on("success", function(po) { alert("BibTeX Entry copied to Clipboard"); po.clearSelection(); });
 
                 // sort action year -> author -> title
