@@ -10,6 +10,7 @@
 !*.bib
 !*.css
 !*.js
+!*.js.map
 !*.jpg
 !*.jpeg
 !*.png
