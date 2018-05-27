@@ -1,5 +1,40 @@
 [
   {
+    "URL": "https://lightjason.org/publications/2018-aamas-preprint.pdf",
+    "author": [
+      {
+        "family": "Aschermann",
+        "given": "Malte"
+      },
+      {
+        "family": "Dennisen",
+        "given": "Sophie"
+      },
+      {
+        "family": "Kraus",
+        "given": "Philipp"
+      },
+      {
+        "family": "Müller",
+        "given": "Jörg P."
+      }
+    ],
+    "container-title": "Proc. of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2018), M. Dastani, G. Sukthankar, E. André, S. Koenig (eds.), July 10–15, 2018, Stockholm, Sweden.",
+    "id": "ADK2018aamasdemo",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Accepted, to appear",
+    "page": "tbd",
+    "publisher": "ACM Proceedings",
+    "title": "LightJason, a Highly Scalable and Concurrent Agent Framework: Overview and Application (Demonstration)",
+    "type": "paper-conference"
+  },
+  {
     "author": [
       {
         "family": "Akselrod",
