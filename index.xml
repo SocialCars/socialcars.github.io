@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SocialCars - Development and Documentation Website of DFG Research Training Group 1931</title>
+    <link>https://socialcars.github.io/</link>
+    <description>Recent content on SocialCars - Development and Documentation Website of DFG Research Training Group 1931</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://socialcars.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications - SocialCars</title>
+      <link>https://socialcars.github.io/publications/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/publications/</guid>
+      <description> Project Related Publications Filter by title / series / publisher / editor / author:  AND OR BibTeX export: &amp;#128203; shown publications | &amp;#128190; all publications   </description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Research - SocialCars</title>
+      <link>https://socialcars.github.io/interdisciplinary-research/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/interdisciplinary-research/</guid>
+      <description>Interdisciplinary Research Cooperative Parking Search (COPS) In crowded inner-city regions it is often difficult to find a free parking space. Vehicles spend significant time searching for an available parking space near their intended destination and, as a result, city traffic grows. Studies conclude that, on average, around 30 percent of traffic in the investigated areas is parking search traffic. While often the city center is in the focus of these studies, many residential areas in cities also have a shortage of on-street parking spaces, forcing residents to circle around the blocks during evening hours until they find parking spaces within acceptable distance.</description>
+    </item>
+    
+    <item>
+      <title>Research field C: Technological drivers/factors - SocialCars</title>
+      <link>https://socialcars.github.io/c-technological-drivers/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/c-technological-drivers/</guid>
+      <description>Research field C: Technological drivers/factors Research Field C concentrates on technological drivers and factors such as innovative information and communication services and focuses on Car-to-X communication (C1) and Dynamic maps and map services (C2). These technological factors provide general information and functions for (de-&amp;#x2060;)centralized cooperative traffic management.
+
+Table of Contents [Hide] C1. Car-to-X communication (Prof. Fidler) C1.1 Mehdi Garrosi: Geo-Routing in Urban Car-2-X Communication Networks C1.2 Torsten Lorenzen: Design of Adaptive C2X Protocols for Enhanced Traffic Performance C2.</description>
+    </item>
+    
+    <item>
+      <title>Research field B: (De-)centralized cooperative traffic management - SocialCars</title>
+      <link>https://socialcars.github.io/b-decentralized-cooperative/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/b-decentralized-cooperative/</guid>
+      <description>Research field B: (De-&amp;#x2060;)centralized cooperative traffic management Research field B put emphases on key models and key methods of (de-&amp;#x2060;)centralized cooperative traffic management which are investigated in the research areas (De-&amp;#x2060;)centralized cooperative traffic management (B1) and Distributed intelligent and cooperative systems (B2).
+ Table of Contents [Hide] B1. Sustainable cooperative traffic management for urban environments (Prof. Friedrich) B1.1 Qinrui Tang: Left Turn Prohibition Problem combining Traffic Assignment B1.2 Aleksandar Trifunović: (Re)design of public transport network to integrate shared modes of transport B2.</description>
+    </item>
+    
+    <item>
+      <title>Research field A: Psychological and economic drivers/factors - SocialCars</title>
+      <link>https://socialcars.github.io/a-psychological-economic/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/a-psychological-economic/</guid>
+      <description>Research field A: Psychological and economic drivers/factors The research areas The human factor in cooperative traffic systems (A1) and Efficient operations in intermodal transportation systems (A2) focus psychological and economic drivers and factors of (de-&amp;#x2060;)centralized cooperative traffic management.
+
+Table of Contents [Hide] A1. The human factor in cooperative traffic systems (Prof. Vollrath) A1.1 Madlen Ringhand: Decision making in navigation tasks - influencing factors and ways to change them A1.</description>
+    </item>
+    
+    <item>
+      <title>SocialCars - Development and Documentation Website of DFG Research Training Group 1931</title>
+      <link>https://socialcars.github.io/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/</guid>
+      <description>SocialCars: Development and Documentation The focus of SocialCars is on significantly improving future urban road traffic, through cooperative approaches. &amp;ldquo;How can individual travelers make optimal use of the transport infrastructure, so that safety is increased and congestion and pollution are reduced?&amp;rdquo; is the key question. SocialCars aims to answer this question by investigating the interaction between centralized (system-optimal) management and decentralized (user-optimal) decisions of traffic participants.
+This site&amp;rsquo;s purpose is to host and document the source code and current state of development of the SocialCars Research Training Group 1931.</description>
+    </item>
+    
+    <item>
+      <title>Sitemap - SocialCars</title>
+      <link>https://socialcars.github.io/sitemap/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/sitemap/</guid>
+      <description> Sitemap  Publications Interdisciplinary Research Research field C: Technological drivers/factors Research field B: (De-)centralized cooperative traffic management Research field A: Psychological and economic drivers/factors Home Sitemap Imprint  </description>
+    </item>
+    
+    <item>
+      <title>Imprint - SocialCars</title>
+      <link>https://socialcars.github.io/imprint/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://socialcars.github.io/imprint/</guid>
+      <description>Imprint Responsibility under the German Press Law §55 Sect. 2 RStV: Professor Bernhard Friedrich (Speaker)
+ Institut für Verkehr und Stadtbauwesen
+Technische Universität Braunschweig
+Hermann-Blenk-Str. 42
+38108 Braunschweig
+ Contact
+ E-mail: friedrich@tu-braunschweig.de
+Telephone: +49 531 391 66801
+Telefax: +49 531 391 66828
+ Copyright Except where otherwise noted,
+ source code is licensed under a GNU GPLv3 License, code documentation and other content (e.g. text, images) is licensed under a Creative Commons Attribution-ShareAlike 4.</description>
+    </item>
+    
+  </channel>
+</rss>
